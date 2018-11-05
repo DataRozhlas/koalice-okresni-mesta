@@ -13,12 +13,6 @@
         width: 100%;
         height: 60vh; 
     }
-    .leaflet-marker-icon {
-        background-color: rgba(158,202,225, 0.6) !important;
-    }
-    .leaflet-marker-icon div {
-        background-color: rgba(158,202,225, 0.6) !important;
-    }
     #legend {
         height: auto;
         width: 100%;
@@ -40,7 +34,7 @@
 <div id="mapa"></div>
 <div id="legend">
         Vyberte obec v mapě.
-    </div>
+</div>
 
 <script>
 //jquery-csv
@@ -146,12 +140,14 @@ RegExp.escape=function(r){return r.replace(/[-\/\\^$*+?.()|[\]{}]/g,"\\$&")},fun
                 var totalMand = 0;
                 var coalMand = 0;
 
-                col = 'red'
+                col = 'green'
 
                 data.forEach(function(line) {
                     if (line[2] === town) {
-                        if (line[17] === "TRUE") {
-                            col = 'green'
+                        if ((line[17] === "FALSE") & (line[19] === "TRUE")) {
+                            col = 'red'
+                        }
+                        if (line[17] === "TRUE") { 
                             coalParties.push(line[7]);
                             coalMand += parseInt(line[14]);
                         } else {
