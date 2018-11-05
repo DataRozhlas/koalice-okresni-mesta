@@ -1,538 +1,538 @@
-"OKRES","KODZASTUP","NAZEVZAST","COBVODU","POR_STR_HL","OSTRANA","VSTRANA","NAZEVCELK","ZKRATKAO30","ZKRATKAO8","POCSTR_SLO","SLOZENI","HLASY_STR","PROCHLSTR","MAND_STR","MANDATY","POCOBYV","KOALICE","OFICIALNI"
-7102,500496,"Olomouc",1,1,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",95688,7.4,4,45,100494,TRUE,TRUE
-7102,500496,"Olomouc",1,3,1138,1138,"Svoboda a přímá demokracie - Tomio Okamura (SPD) a Strana Práv Občanů ZEMANOVCI","SPD T.OKAMURA a SPO ZEMANOVCI","SPOZ+SPD",2,"7,241,114",71958,5.57,3,45,100494,FALSE,TRUE
-7102,500496,"Olomouc",1,4,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",68351,5.29,2,45,100494,FALSE,TRUE
-7102,500496,"Olomouc",1,8,768,768,"ANO 2011","ANO 2011","ANO",1,"768",344398,26.66,14,45,100494,TRUE,TRUE
-7102,500496,"Olomouc",1,11,1039,1039,"ProOlomouc","ProOlomouc","ProOl",1,"1039",156378,12.1,6,45,100494,FALSE,TRUE
-7102,500496,"Olomouc",1,12,1350,1350,"PIRÁTI A STAROSTOVÉ","PIRÁTI A STAROSTOVÉ","STAN+Piráti",2,"166,720",154271,11.94,6,45,100494,FALSE,TRUE
-7102,500496,"Olomouc",1,13,1192,1192,"spOLečně","spOLečně","spOL",1,"1192",76597,5.93,3,45,100494,TRUE,TRUE
-7102,500496,"Olomouc",1,14,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",140900,10.91,5,45,100494,TRUE,TRUE
-7102,500496,"Olomouc",1,16,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",64662,5,2,45,100494,FALSE,TRUE
-8105,505927,"Opava",1,1,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",35631,5.7,2,39,57019,FALSE,TRUE
-8105,505927,"Opava",1,3,523,523,"ODS, TOP 09, SOUKROMNÍCI A NEZÁVISLÍ KANDIDÁTI","ODS, TOP 09, SOUKROMNÍCI A NK",NA,3,"53,080,721",87238,13.96,6,39,57019,FALSE,TRUE
-8105,505927,"Opava",1,4,541,541,"Piráti & Opavané","Piráti & Opavané",NA,2,"80,720",68722,10.99,5,39,57019,TRUE,TRUE
-8105,505927,"Opava",1,5,510,510,"Změna pro Opavu","Změna pro Opavu",NA,2,"80,771",47490,7.59,3,39,57019,FALSE,TRUE
-8105,505927,"Opava",1,6,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",54577,8.73,4,39,57019,FALSE,TRUE
-8105,505927,"Opava",1,7,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",38342,6.13,2,39,57019,TRUE,TRUE
-8105,505927,"Opava",1,8,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",36791,5.88,2,39,57019,FALSE,TRUE
-8105,505927,"Opava",1,10,364,364,"Zelená pro Opavu, sdružení Strany zelených a nezavislých kandidátů","Zelená pro Opavu + SZ a NK","Zelení+NK",2,"5,080",35939,5.75,2,39,57019,TRUE,TRUE
-8105,505927,"Opava",1,12,768,768,"ANO 2011","ANO 2011","ANO",1,"768",137636,22.02,10,39,57019,TRUE,TRUE
-8105,505927,"Opava",1,14,1188,1188,"Občané městských částí Opavy","Občané městských částí Opavy","OMČO",1,"1188",43700,6.99,3,39,57019,TRUE,TRUE
-7104,511382,"Přerov",1,3,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",31409,7.15,3,35,43565,FALSE,TRUE
-7104,511382,"Přerov",1,4,483,483,"Za prosperitu Přerova a jeho místních částí","Za prosp. Přerova a míst.část.","SPOZ+NK",2,"80,724",47429,10.8,4,35,43565,FALSE,TRUE
-7104,511382,"Přerov",1,5,1337,1337,"Společně pro Přerov a Piráti-koalice politických stran České pirátské strany, Nezávislé volby a politického hnutí Změna","Společně pro Přerov a Piráti","NV+Piráti+Změna",3,"163,720,771",50347,11.47,4,35,43565,FALSE,TRUE
-7104,511382,"Přerov",1,6,1058,1058,"KDU-ČSL a TOP09","KDU-ČSL a TOP09","KDU-ČSL+TOP 09",2,"1,721",25870,5.89,2,35,43565,TRUE,TRUE
-7104,511382,"Přerov",1,7,768,768,"ANO 2011","ANO 2011","ANO",1,"768",106789,24.33,10,35,43565,TRUE,TRUE
-7104,511382,"Přerov",1,10,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",40952,9.33,4,35,43565,FALSE,TRUE
-7104,511382,"Přerov",1,11,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",66720,15.2,6,35,43565,TRUE,TRUE
-7104,511382,"Přerov",1,12,166,166,"STAROSTOVÉ A NEZÁVISLÍ","STAROSTOVÉ A NEZÁVISLÍ","STAN",1,"166",27578,6.28,2,35,43565,FALSE,TRUE
-7105,523704,"Šumperk",1,1,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",13688,6.79,2,27,26151,FALSE,TRUE
-7105,523704,"Šumperk",1,2,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",14457,7.17,2,27,26151,FALSE,TRUE
-7105,523704,"Šumperk",1,4,401,401,"Sdružení PRO-REGION a NEZÁVISLÍ","Sdruž. PRO-REGION a NEZÁVISLÍ",NA,2,"80,088",22205,11.02,4,27,26151,FALSE,TRUE
-7105,523704,"Šumperk",1,7,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",13284,6.59,2,27,26151,FALSE,TRUE
-7105,523704,"Šumperk",1,8,768,768,"ANO 2011","ANO 2011","ANO",1,"768",37739,18.73,6,27,26151,TRUE,TRUE
-7105,523704,"Šumperk",1,11,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",11046,5.48,1,27,26151,FALSE,TRUE
-7105,523704,"Šumperk",1,13,461,461,"NEZÁVISLÁ VOLBA","NEZÁVISLÁ VOLBA",NA,2,"80,163",17317,8.59,3,27,26151,FALSE,TRUE
-7105,523704,"Šumperk",1,14,355,355,"PRO ŠUMPERK - KDU-ČSL a nezávislí kandidáti","PRO ŠUMPERK -  KDU-ČSL a NK",NA,2,"1,080",16869,8.37,3,27,26151,TRUE,TRUE
-7105,523704,"Šumperk",1,15,495,495,"ŠUMPERÁCI","ŠUMPERÁCI",NA,3,"80,166,721",25737,12.77,4,27,26151,TRUE,TRUE
-2101,529303,"Benešov",1,1,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",14704,11.34,3,23,16522,TRUE,TRUE
-2101,529303,"Benešov",1,2,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",8418,6.49,1,23,16522,FALSE,TRUE
-2101,529303,"Benešov",1,3,720,720,"Česká pirátská strana s podporou Strany Zelených","Česká pirát.str. s podp.Zelení","Piráti",1,"720",9655,7.45,2,23,16522,FALSE,TRUE
-2101,529303,"Benešov",1,4,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",7175,5.53,1,23,16522,TRUE,TRUE
-2101,529303,"Benešov",1,5,768,768,"ANO 2011","ANO 2011","ANO",1,"768",15320,11.82,3,23,16522,TRUE,TRUE
-2101,529303,"Benešov",1,6,401,401,"Volba pro Benešov","Volba pro Benešov",NA,2,"80,088",47142,36.37,11,23,16522,FALSE,TRUE
-2101,529303,"Benešov",1,10,470,470,"STAN Spolu PRO Benešov s podporou KDU-ČSL","STANSpoluPROBen.s podp.KDU-ČSL",NA,2,"80,166",12625,9.74,2,23,16522,FALSE,TRUE
-2102,531057,"Beroun",1,1,768,768,"ANO 2011","ANO 2011","ANO",1,"768",17596,16.92,4,21,19439,FALSE,FALSE
-2102,531057,"Beroun",1,2,1330,1330,"BEROUN SOBĚ","BEROUN SOBĚ",NA,4,"1,080,166,721",20945,20.14,4,21,19439,FALSE,FALSE
-2102,531057,"Beroun",1,3,477,477,"Lepší Beroun","Lepší Beroun",NA,2,"80,714",8955,8.61,2,21,19439,FALSE,FALSE
-2102,531057,"Beroun",1,4,371,371,"Česká strana sociálně demokratická a nezávislí kandidáti","ČSSD a nezávislí kandidáti",NA,2,"7,080",8740,8.4,2,21,19439,FALSE,FALSE
-2102,531057,"Beroun",1,5,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",7081,6.8,1,21,19439,FALSE,FALSE
-2102,531057,"Beroun",1,6,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",15439,14.84,3,21,19439,FALSE,FALSE
-2102,531057,"Beroun",1,7,463,463,"NEZÁVISLÍ BEROUŇÁCI","NEZÁVISLÍ BEROUŇÁCI","SOM+NK",2,"80,158",25228,24.26,5,21,19439,FALSE,FALSE
-2103,532053,"Kladno",1,1,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",39126,6.43,2,33,68804,FALSE,TRUE
-2103,532053,"Kladno",1,3,727,727,"VOLBA PRO KLADNO","VOLBA PRO KLADNO","VPK",1,"727",208233,34.23,13,33,68804,FALSE,TRUE
-2103,532053,"Kladno",1,4,1114,1114,"SVOBODA A PŘÍMÁ DEMOKRACIE - TOMIO OKAMURA ( SPD )","SVOB.A PŘ.DEM.-T.OKAMURA (SPD)","SPD",1,"1114",34619,5.69,2,33,68804,TRUE,TRUE
-2103,532053,"Kladno",1,6,1315,1315,"KLADEŇÁCI","KLADEŇÁCI","KDU+STAN+TOP09",3,"1,166,721",83150,13.66,5,33,68804,TRUE,TRUE
-2103,532053,"Kladno",1,7,768,768,"ANO 2011","ANO 2011","ANO",1,"768",73290,12.04,4,33,68804,TRUE,TRUE
-2103,532053,"Kladno",1,9,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",126670,20.82,7,33,68804,TRUE,TRUE
-2105,533955,"Kutná Hora",1,1,477,477,"Kutnohorská změna","Kutnohorská změna",NA,2,"80,714",10138,6.02,2,27,20536,TRUE,TRUE
-2105,533955,"Kutná Hora",1,2,470,470,"STAROSTOVÉ A NEZÁVISLÍ A ŠANCE PRO KUTNOU HORU","STAROSTOVÉ A NEZ. A ŠANCE KH",NA,2,"80,166",18678,11.1,3,27,20536,TRUE,TRUE
-2105,533955,"Kutná Hora",1,3,497,497,"Město PRO lidi","Město PRO lidi","Soukromníci+NK",2,"80,716",29431,17.49,5,27,20536,FALSE,TRUE
-2105,533955,"Kutná Hora",1,4,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",22924,13.62,4,27,20536,FALSE,TRUE
-2105,533955,"Kutná Hora",1,6,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",10584,6.29,2,27,20536,TRUE,TRUE
-2105,533955,"Kutná Hora",1,7,768,768,"ANO 2011","ANO 2011","ANO",1,"768",25095,14.91,5,27,20536,TRUE,TRUE
-2105,533955,"Kutná Hora",1,10,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",11559,6.87,2,27,20536,TRUE,TRUE
-2105,533955,"Kutná Hora",1,11,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",10046,5.97,2,27,20536,FALSE,TRUE
-2105,533955,"Kutná Hora",1,12,1211,1211,"Alternativa pro Vás","Alternativa pro Vás","ApV",1,"1211",13608,8.09,2,27,20536,TRUE,TRUE
-2106,534676,"Mělník",1,1,486,486,"MĚLNIČANÉ","MĚLNIČANÉ",NA,3,"1,080,129",10713,9.18,2,21,19351,FALSE,FALSE
-2106,534676,"Mělník",1,3,427,427,"MÉ MĚSTO","MÉ MĚSTO",NA,2,"80,143",22750,19.51,4,21,19351,FALSE,FALSE
-2106,534676,"Mělník",1,4,53,53,"Občanská demokratická strana s podporou Strany Soukromníků ČR","ODS s podporou Strany Soukr.ČR","ODS",1,"53",20447,17.53,4,21,19351,FALSE,FALSE
-2106,534676,"Mělník",1,5,470,470,"MÁME RÁDI MĚLNÍK","MÁME RÁDI MĚLNÍK",NA,2,"80,166",16122,13.82,3,21,19351,FALSE,FALSE
-2106,534676,"Mělník",1,6,387,387,"Nezávislí kandidáti a KSČM ""ZA LEPŠÍ MĚLNÍK""","NK a KSČM ""ZA LEPŠÍ MĚLNÍK""",NA,2,"47,080",9148,7.84,2,21,19351,FALSE,FALSE
-2106,534676,"Mělník",1,7,768,768,"ANO 2011","ANO 2011","ANO",1,"768",18885,16.19,4,21,19351,FALSE,FALSE
-2106,534676,"Mělník",1,8,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",7703,6.6,1,21,19351,FALSE,FALSE
-2106,534676,"Mělník",1,9,1093,1093,"Spojené síly pro Mělník","Spojené síly pro Mělník","Zelení+TOP09",2,"5,721",7985,6.84,1,21,19351,FALSE,FALSE
-2107,535419,"Mladá Boleslav",1,1,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",25086,6.61,2,33,44167,FALSE,TRUE
-2107,535419,"Mladá Boleslav",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",109073,28.76,11,33,44167,TRUE,TRUE
-2107,535419,"Mladá Boleslav",1,4,1071,1071,"ANO 2011 + Volba pro Mladou Boleslav","ANO 2011+Volba pro Ml.Boleslav",NA,2,"193,768",100181,26.41,10,33,44167,TRUE,TRUE
-2107,535419,"Mladá Boleslav",1,6,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",29559,7.79,3,33,44167,TRUE,TRUE
-2107,535419,"Mladá Boleslav",1,8,303,303,"KOALICE KŘESŤANSKÉ A DEMOKRATICKÉ UNIE - ČESKOSLOVENSKÉ STRANY LIDOVÉ A STRANY ZELENÝCH","Koalice KDU-ČSL, Zelení","KDU-ČSL+Zelení",2,"1,005",20615,5.43,2,33,44167,FALSE,TRUE
-2107,535419,"Mladá Boleslav",1,9,166,166,"STAROSTOVÉ A NEZÁVISLÍ","STAROSTOVÉ A NEZÁVISLÍ","STAN",1,"166",48405,12.76,5,33,44167,TRUE,TRUE
-7101,536385,"Jeseník",1,1,501,501,"Jeseník srdcem","Jeseník srdcem","Zelení+TOP09+NK",3,"5,080,721",37871,41.54,13,25,11271,TRUE,TRUE
-7101,536385,"Jeseník",1,2,461,461,"Nezávislí - Jeseník","Nezávislí - Jeseník",NA,2,"80,163",5295,5.8,1,25,11271,FALSE,TRUE
-7101,536385,"Jeseník",1,3,768,768,"ANO 2011","ANO 2011","ANO",1,"768",11084,12.15,3,25,11271,FALSE,TRUE
-7101,536385,"Jeseník",1,6,470,470,"PRO JESENÍK","PRO JESENÍK",NA,2,"80,166",12765,14,4,25,11271,TRUE,TRUE
-7101,536385,"Jeseník",1,7,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",5834,6.4,2,25,11271,FALSE,TRUE
-7101,536385,"Jeseník",1,8,1138,1138,"Koalice Svoboda a přímá demokracie - Tomio Okamura (SPD) a Strana Práv Občanů ZEMANOVCI","Koalice SPD a SPOZ","SPOZ+SPD",2,"7,241,114",5635,6.18,2,25,11271,FALSE,TRUE
-2108,537004,"Nymburk",1,1,470,470,"ZMĚNA PRO NYMBURK","ZMĚNA PRO NYMBURK",NA,2,"80,166",13922,13.18,3,21,15062,FALSE,TRUE
-2108,537004,"Nymburk",1,2,371,371,"Česká strana sociálně demokratická s podporou nezávislých","ČSSD s podporou nezávislých",NA,2,"7,080",7016,6.64,2,21,15062,TRUE,TRUE
-2108,537004,"Nymburk",1,4,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",8448,7.99,2,21,15062,TRUE,TRUE
-2108,537004,"Nymburk",1,8,355,355,"ZDRAVÝ NYMBURK","ZDRAVÝ NYMBURK",NA,2,"1,080",5401,5.11,1,21,15062,FALSE,TRUE
-2108,537004,"Nymburk",1,10,768,768,"ANO 2011","ANO 2011","ANO",1,"768",10124,9.58,2,21,15062,FALSE,TRUE
-2108,537004,"Nymburk",1,11,902,90,"Nymburští demokraté","Nymburští demokraté","SNK",1,"80",15189,14.38,4,21,15062,FALSE,TRUE
-2108,537004,"Nymburk",1,13,901,90,"Nymburk s klidem","Nymburk s klidem","SNK",1,"80",27652,26.17,7,21,15062,TRUE,TRUE
-2111,539911,"Příbram",1,2,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",13727,5.55,1,25,32867,FALSE,TRUE
-2111,539911,"Příbram",1,3,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",17074,6.9,2,25,32867,FALSE,TRUE
-2111,539911,"Příbram",1,6,721,721,"TOP 09","TOP 09","TOP 09",1,"721",37545,15.18,5,25,32867,FALSE,TRUE
-2111,539911,"Příbram",1,7,427,427,"Šance pro Příbram","Šance pro Příbram",NA,2,"80,143",14933,6.04,2,25,32867,FALSE,TRUE
-2111,539911,"Příbram",1,9,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",16161,6.53,2,25,32867,TRUE,TRUE
-2111,539911,"Příbram",1,10,449,449,"Příbramáci pro Příbram","Příbramáci pro Příbram",NA,2,"80,129",13655,5.52,1,25,32867,TRUE,TRUE
-2111,539911,"Příbram",1,11,768,768,"ANO 2011","ANO 2011","ANO",1,"768",96102,38.87,12,25,32867,TRUE,TRUE
-7203,541630,"Vsetín",1,2,364,364,"KOALICE PRO OTEVŘENÝ VSETÍN","KOALICE PRO OTEVŘENÝ VSETÍN","Zelení+NK",2,"5,080",17686,11.08,3,21,26109,FALSE,TRUE
-7203,541630,"Vsetín",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",16057,10.06,2,21,26109,FALSE,TRUE
-7203,541630,"Vsetín",1,5,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",8739,5.47,1,21,26109,FALSE,TRUE
-7203,541630,"Vsetín",1,6,166,166,"STAROSTOVÉ A NEZÁVISLÍ","STAROSTOVÉ A NEZÁVISLÍ","STAN",1,"166",22785,14.28,3,21,26109,TRUE,TRUE
-7203,541630,"Vsetín",1,7,768,768,"ANO 2011","ANO 2011","ANO",1,"768",20208,12.66,3,21,26109,TRUE,TRUE
-7203,541630,"Vsetín",1,8,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",12630,7.91,2,21,26109,FALSE,TRUE
-7203,541630,"Vsetín",1,10,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",11449,7.17,2,21,26109,FALSE,TRUE
-7203,541630,"Vsetín",1,11,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",31546,19.77,5,21,26109,TRUE,TRUE
-2112,541656,"Rakovník",1,1,371,371,"Česká strana sociálně demokratická a nezávislí kandidáti","Česká str.soc.dem.a nez.kandi.",NA,2,"7,080",9799,10.05,2,21,15893,FALSE,TRUE
-2112,541656,"Rakovník",1,2,768,768,"ANO 2011","ANO 2011","ANO",1,"768",11992,12.92,3,21,15893,FALSE,TRUE
-2112,541656,"Rakovník",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",16668,17.1,4,21,15893,TRUE,TRUE
-2112,541656,"Rakovník",1,4,510,510,"Změna pro Rakovník","Změna pro Rakovník",NA,2,"80,771",7450,7.64,1,21,15893,TRUE,TRUE
-2112,541656,"Rakovník",1,5,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",10199,10.46,2,21,15893,FALSE,TRUE
-2112,541656,"Rakovník",1,6,1361,1361,"MĚSTO PRO VÁS","MĚSTO PRO VÁS","STAN+MPV",2,"1,661,036",13624,13.98,3,21,15893,TRUE,TRUE
-2112,541656,"Rakovník",1,7,457,457,"SMĚR Rakovník - Nestraníci","SMĚR Rakovník - Nestraníci",NA,2,"80,181",5573,5.71,1,21,15893,TRUE,TRUE
-2112,541656,"Rakovník",1,8,714,714,"Strana svobodných občanů","Strana svobodných občanů","Svobodní",1,"714",9009,9.24,2,21,15893,TRUE,TRUE
-2112,541656,"Rakovník",1,9,721,721,"Společně pro Rakovník","Společně pro Rakovník","TOP 09",1,"721",13135,13.47,3,21,15893,TRUE,TRUE
-3101,544256,"České Budějovice",1,5,1422,1422,"OBČANÉ PRO BUDĚJOVICE","OBČANÉ PRO BUDĚJOVICE","HOPB+JIH 12+NK",3,"80,753,766",198183,16.44,9,45,93863,TRUE,TRUE
-3101,544256,"České Budějovice",1,7,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",84133,6.98,4,45,93863,FALSE,TRUE
-3101,544256,"České Budějovice",1,10,389,389,"Sdružení Občanské demokratické strany a nezávislých kandidátů","Sdružení ODS a nez. kandidátů",NA,2,"53,080",171074,14.19,8,45,93863,FALSE,TRUE
-3101,544256,"České Budějovice",1,11,480,480,"Společně pro Budějovice - Lidovci a TOP 09","Spol.pro Bud.-Lidovci a TOP 09",NA,2,"80,721",66252,5.49,3,45,93863,TRUE,TRUE
-3101,544256,"České Budějovice",1,12,768,768,"ANO 2011","ANO 2011","ANO",1,"768",255585,21.2,12,45,93863,TRUE,TRUE
-3101,544256,"České Budějovice",1,13,1421,1421,"STAROSTOVÉ A NEZÁVISLÍ a Čisté Budějovice","STAN a Čisté Budějovice","STAN+ČiB",2,"1,661,212",77947,6.46,3,45,93863,TRUE,TRUE
-3101,544256,"České Budějovice",1,14,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",146875,12.18,6,45,93863,FALSE,TRUE
-3102,545392,"Český Krumlov",1,1,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",6441,7.04,2,23,13028,TRUE,TRUE
-3102,545392,"Český Krumlov",1,2,1134,1134,"PRO 2016","PRO 2016","PRO2016",1,"1134",8142,8.9,2,23,13028,FALSE,TRUE
-3102,545392,"Český Krumlov",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",9518,10.41,2,23,13028,FALSE,TRUE
-3102,545392,"Český Krumlov",1,4,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",11186,12.23,3,23,13028,TRUE,TRUE
-3102,545392,"Český Krumlov",1,5,364,364,"NEZÁVISLÍ A ZELENÍ","NEZÁVISLÍ A ZELENÍ","Zelení+NK",2,"5,080",6922,7.57,2,23,13028,TRUE,TRUE
-3102,545392,"Český Krumlov",1,6,1304,1304,"REÁLNÝ KRUMLOV","REÁLNÝ KRUMLOV","REAL+NK",2,"801,176",5386,5.89,1,23,13028,TRUE,TRUE
-3102,545392,"Český Krumlov",1,7,768,768,"ANO 2011","ANO 2011","ANO",1,"768",12230,13.37,3,23,13028,FALSE,TRUE
-3102,545392,"Český Krumlov",1,8,480,480,"Společně pro Krumlov - Nezávislí a TOP 09","Společně pro ČK-Nezáv.a TOP 09",NA,2,"80,721",10496,11.48,3,23,13028,TRUE,TRUE
-3102,545392,"Český Krumlov",1,9,470,470,"Sdružení nezávislých - Město pro všechny","Sdruž.nezáv.-Město pro všechny",NA,2,"80,166",10238,11.19,3,23,13028,TRUE,TRUE
-3102,545392,"Český Krumlov",1,10,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",7907,8.64,2,23,13028,FALSE,TRUE
-3103,545881,"Jindřichův Hradec",1,1,524,524,"PATRIOTI Jindřichův Hradec","PATRIOTI Jindřichův Hradec",NA,2,"801,004",14700,7.79,2,27,21460,TRUE,FALSE
-3103,545881,"Jindřichův Hradec",1,2,1389,1389,"SNK ED a nezávislý kandidát STAN","SNK ED a nezáv. kandidát STAN","SNK ED+STAN+NK",3,"80,129,166",22090,11.71,3,27,21460,TRUE,FALSE
-3103,545881,"Jindřichův Hradec",1,3,768,768,"ANO 2011","ANO 2011","ANO",1,"768",22469,11.91,4,27,21460,TRUE,FALSE
-3103,545881,"Jindřichův Hradec",1,4,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",14641,7.76,2,27,21460,FALSE,FALSE
-3103,545881,"Jindřichův Hradec",1,5,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",46464,24.63,8,27,21460,TRUE,FALSE
-3103,545881,"Jindřichův Hradec",1,7,477,477,"Hradec srdcem a rozumem + Svobodní","Hradec srdcem a rozum. + Svob.",NA,2,"80,714",23545,12.48,4,27,21460,FALSE,FALSE
-3103,545881,"Jindřichův Hradec",1,9,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",12810,6.79,2,27,21460,TRUE,FALSE
-3103,545881,"Jindřichův Hradec",1,10,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",15348,8.13,2,27,21460,TRUE,FALSE
-6103,547492,"Pelhřimov",1,1,527,527,"Nezávislí pro občany","Nezávislí pro občany",NA,2,"80,779",6502,5.67,1,21,16105,FALSE,TRUE
-6103,547492,"Pelhřimov",1,2,721,721,"TOP 09","TOP 09","TOP 09",1,"721",15371,13.41,3,21,16105,TRUE,TRUE
-6103,547492,"Pelhřimov",1,3,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",14448,12.61,3,21,16105,FALSE,TRUE
-6103,547492,"Pelhřimov",1,4,112,112,"HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST","HN.ZA HARM.ROZVOJ OBCÍ A MĚST","HNHRM",1,"112",6533,5.7,1,21,16105,FALSE,TRUE
-6103,547492,"Pelhřimov",1,5,510,510,"Změna pro Pelhřimov","Změna pro Pelhřimov",NA,2,"80,771",12650,11.04,2,21,16105,FALSE,TRUE
-6103,547492,"Pelhřimov",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",13658,11.92,3,21,16105,TRUE,TRUE
-6103,547492,"Pelhřimov",1,9,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",6401,5.58,1,21,16105,FALSE,TRUE
-6103,547492,"Pelhřimov",1,10,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",14493,12.65,3,21,16105,TRUE,TRUE
-6103,547492,"Pelhřimov",1,11,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",20632,18.01,4,21,16105,TRUE,TRUE
-3104,549240,"Písek",1,1,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",26096,11.31,3,27,30119,TRUE,TRUE
-3104,549240,"Písek",1,2,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",20337,8.81,3,27,30119,TRUE,TRUE
-3104,549240,"Písek",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",22551,9.77,3,27,30119,FALSE,TRUE
-3104,549240,"Písek",1,4,1322,1322,"PRO PÍSEK","PRO PÍSEK","VPM+TOP09+JIH12",3,"113,721,766",42250,19.77,6,27,30119,TRUE,TRUE
-3104,549240,"Písek",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",29929,12.97,4,27,30119,FALSE,TRUE
-3104,549240,"Písek",1,7,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",35369,15.33,5,27,30119,FALSE,TRUE
-3104,549240,"Písek",1,8,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",18564,8.04,2,27,30119,FALSE,TRUE
-3104,549240,"Písek",1,10,482,482,"PÍSEK SOBĚ - sdružení nezávislých kandidátů","PÍSEK SOBĚ - SNK",NA,2,"80,715",13472,5.83,1,27,30119,FALSE,TRUE
-3105,550094,"Prachatice",1,2,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",5502,6.45,1,21,10917,TRUE,TRUE
-3105,550094,"Prachatice",1,3,901,90,"PRO Prachatice","PRO Prachatice","SNK",1,"80",6862,8.04,2,21,10917,FALSE,TRUE
-3105,550094,"Prachatice",1,4,768,768,"ANO 2011","ANO 2011","ANO",1,"768",6173,7.24,1,21,10917,TRUE,TRUE
-3105,550094,"Prachatice",1,5,902,90,"Živé Prachatice","Živé Prachatice","SNK",1,"80",10396,12.19,3,21,10917,FALSE,TRUE
-3105,550094,"Prachatice",1,6,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",4777,5.6,1,21,10917,FALSE,TRUE
-3105,550094,"Prachatice",1,7,88,88,"NEZÁVISLÍ","NEZÁVISLÍ","NEZ",1,"88",26700,31.31,8,21,10917,TRUE,TRUE
-3105,550094,"Prachatice",1,8,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",15945,18.7,4,21,10917,FALSE,TRUE
-3105,550094,"Prachatice",1,9,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",4765,5.86,1,21,10917,FALSE,TRUE
-3106,550787,"Strakonice",1,2,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",9524,5.29,1,21,22888,FALSE,FALSE
-3106,550787,"Strakonice",1,6,742,742,"Strakonická Veřejnost","Strakonická Veřejnost","SV",1,"742",91986,51.15,16,21,22888,TRUE,FALSE
-3106,550787,"Strakonice",1,8,480,480,"TOP 09 a nezávislí","TOP 09 a nezávislí",NA,2,"80,721",10294,5.72,1,21,22888,FALSE,FALSE
-3106,550787,"Strakonice",1,9,766,766,"JIHOČEŠI 2012","JIHOČEŠI 2012","JIH 12",1,"766",17307,9.62,3,21,22888,FALSE,FALSE
-3107,552046,"Tábor",1,1,364,364,"JiNAK!","JiNAK!","Zelení+NK",2,"5,080",26997,9.86,3,27,34467,TRUE,TRUE
-3107,552046,"Tábor",1,3,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",14239,5.2,1,27,34467,TRUE,TRUE
-3107,552046,"Tábor",1,4,901,90,"Sdružení nezávislých kandidátů Tábor sobě","SNK Tábor sobě","SNK",1,"80",26821,9.79,3,27,34467,FALSE,TRUE
-3107,552046,"Tábor",1,5,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",19994,7.3,2,27,34467,FALSE,TRUE
-3107,552046,"Tábor",1,6,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",20908,7.63,2,27,34467,FALSE,TRUE
-3107,552046,"Tábor",1,8,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",30939,11.3,4,27,34467,TRUE,TRUE
-3107,552046,"Tábor",1,11,136,136,"Tábor 2020","Tábor 2020","T2020",1,"136",51975,18.98,6,27,34467,TRUE,TRUE
-3107,552046,"Tábor",1,12,768,768,"ANO 2011","ANO 2011","ANO",1,"768",48500,17.71,6,27,34467,FALSE,TRUE
-3201,553425,"Domažlice",1,2,768,768,"ANO 2011","ANO 2011","ANO",1,"768",9834,13.45,3,21,11233,FALSE,FALSE
-3201,553425,"Domažlice",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",8737,11.95,3,21,11233,FALSE,FALSE
-3201,553425,"Domažlice",1,4,470,470,"SDRUŽENÍ PRO MĚSTO DOMAŽLICE","SDRUŽENÍ PRO MĚSTO DOMAŽLICE",NA,2,"80,166",16751,22.92,5,21,11233,FALSE,FALSE
-3201,553425,"Domažlice",1,5,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",5970,8.16,2,21,11233,FALSE,FALSE
-3201,553425,"Domažlice",1,6,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",6851,9.37,2,21,11233,FALSE,FALSE
-3201,553425,"Domažlice",1,7,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",7731,10.57,2,21,11233,FALSE,FALSE
-3201,553425,"Domažlice",1,9,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",11705,16.01,4,21,11233,FALSE,FALSE
-4101,554481,"Cheb",1,1,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",16901,6.65,2,30,32171,FALSE,TRUE
-4101,554481,"Cheb",1,2,768,768,"ANO 2011","ANO 2011","ANO",1,"768",33929,13.35,5,30,32171,FALSE,TRUE
-4101,554481,"Cheb",1,4,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",16602,6.53,2,30,32171,TRUE,TRUE
-4101,554481,"Cheb",1,5,470,470,"VOLBA PRO MĚSTO CHEB","VOLBA PRO MĚSTO CHEB",NA,2,"80,166",114878,45.21,17,30,32171,TRUE,TRUE
-4101,554481,"Cheb",1,10,353,353,"ODS ve spolupráci s KDU-ČSL a nezávislými kandidáty","Sdružení KDU-ČSL, ODS, NK",NA,3,"1,053,080",12909,5.08,1,30,32171,FALSE,TRUE
-4101,554481,"Cheb",1,11,501,501,"Koalice pro Cheb","Koalice pro Cheb","Zelení+TOP09+NK",3,"5,080,721",16348,6.43,2,30,32171,TRUE,TRUE
-4101,554481,"Cheb",1,12,1207,1207,"Hnutí 2018","Hnutí 2018","H2018",1,"1207",13211,5.19,1,30,32171,TRUE,TRUE
-3203,554791,"Plzeň",1,2,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",257260,11.69,7,47,170936,FALSE,TRUE
-3203,554791,"Plzeň",1,3,355,355,"KDU-ČSL - PRAVÁ VOLBA PRO PLZEŇ","KDU-ČSL- PRAVÁ VOLBA PRO PLZEŇ",NA,2,"1,080",144203,6.55,4,47,170936,FALSE,TRUE
-3203,554791,"Plzeň",1,5,721,721,"TOP 09","TOP 09","TOP 09",1,"721",150150,6.82,4,47,170936,TRUE,TRUE
-3203,554791,"Plzeň",1,7,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",486401,22.11,13,47,170936,TRUE,TRUE
-3203,554791,"Plzeň",1,9,768,768,"ANO 2011","ANO 2011","ANO",1,"768",488324,22.19,13,47,170936,TRUE,TRUE
-3203,554791,"Plzeň",1,11,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",124055,5.63,3,47,170936,FALSE,TRUE
-3203,554791,"Plzeň",1,13,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",141073,6.55,3,47,170936,TRUE,TRUE
-4207,554804,"Ústí nad Labem",1,2,1128,1128,"Vaše Ústí","Vaše Ústí","VÚ",1,"1128",56998,7.34,3,37,93040,FALSE,TRUE
-4207,554804,"Ústí nad Labem",1,3,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",52562,6.77,3,37,93040,FALSE,TRUE
-4207,554804,"Ústí nad Labem",1,4,529,529,"PRO! Ústí","PRO! Ústí","Zel.+Piráti+NK",3,"5,080,720",131770,16.97,8,37,93040,FALSE,TRUE
-4207,554804,"Ústí nad Labem",1,5,1012,1012,"ÚSTECKÉ FÓRUM OBČANŮ","ÚSTECKÉ FÓRUM OBČANŮ","UFO",1,"1012",91443,11.77,5,37,93040,TRUE,TRUE
-4207,554804,"Ústí nad Labem",1,6,785,785,"PRO Zdraví a Sport","PRO Zdraví a Sport","PRO Zdraví",1,"785",43231,5.56,2,37,93040,TRUE,TRUE
-4207,554804,"Ústí nad Labem",1,7,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",52706,6.78,3,37,93040,FALSE,TRUE
-4207,554804,"Ústí nad Labem",1,10,768,768,"ANO 2011","ANO 2011","ANO",1,"768",160293,21.22,9,37,93040,TRUE,TRUE
-4207,554804,"Ústí nad Labem",1,12,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",65832,8.47,4,37,93040,TRUE,TRUE
-8106,554821,"Ostrava",1,1,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",215047,5.52,3,55,290450,FALSE,TRUE
-8106,554821,"Ostrava",1,4,355,355,"KDU-ČSL a nezávislí kandidáti","KDU-ČSL a nezávislí kandidáti",NA,2,"1,080",226779,5.82,3,55,290450,TRUE,TRUE
-8106,554821,"Ostrava",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",1273101,32.71,21,55,290450,TRUE,TRUE
-8106,554821,"Ostrava",1,8,755,755,"Ostravak","Ostravak","Ostravak",1,"755",447207,11.49,7,55,290450,FALSE,TRUE
-8106,554821,"Ostrava",1,9,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",263323,6.76,4,55,290450,FALSE,TRUE
-8106,554821,"Ostrava",1,11,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",348514,8.95,6,55,290450,FALSE,TRUE
-8106,554821,"Ostrava",1,14,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",378658,9.73,6,55,290450,FALSE,TRUE
-8106,554821,"Ostrava",1,15,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",348337,8.95,5,55,290450,TRUE,TRUE
-4102,554961,"Karlovy Vary",1,3,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",23120,5.06,2,35,48776,FALSE,TRUE
-4102,554961,"Karlovy Vary",1,8,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",45500,9.97,5,35,48776,FALSE,TRUE
-4102,554961,"Karlovy Vary",1,9,1028,1028,"Karlovaráci","Karlovaráci","KVC",1,"1028",71318,15.62,8,35,48776,TRUE,TRUE
-4102,554961,"Karlovy Vary",1,12,182,182,"Karlovarská občanská alternativa","Karlovar.občanská alternativa","KOA",1,"182",51870,11.36,5,35,48776,FALSE,TRUE
-4102,554961,"Karlovy Vary",1,14,389,389,"Občanská demokratická strana s podporou Strany soukromníků ČR a Mladých konzervativců","ODS s podp. Str. s. ČR a MK",NA,2,"53,080",35401,7.75,3,35,48776,TRUE,TRUE
-4102,554961,"Karlovy Vary",1,15,768,768,"ANO 2011","ANO 2011","ANO",1,"768",108878,23.85,12,35,48776,TRUE,TRUE
-5302,555134,"Pardubice",1,1,1387,1387,"Koalice pro Pardubice","Koalice pro Pardubice","KDU+Nestr.+TOP",3,"1,181,721",69755,7.18,3,39,90335,TRUE,TRUE
-5302,555134,"Pardubice",1,2,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",109059,11.22,5,39,90335,FALSE,TRUE
-5302,555134,"Pardubice",1,3,449,449,"Sdružení pro Pardubice","Sdružení pro Pardubice",NA,2,"80,129",59756,6.15,3,39,90335,TRUE,TRUE
-5302,555134,"Pardubice",1,5,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",141752,14.59,7,39,90335,TRUE,TRUE
-5302,555134,"Pardubice",1,6,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",50056,5.15,2,39,90335,FALSE,TRUE
-5302,555134,"Pardubice",1,7,1386,1386,"Pardubáci společně: Pardubáci, Patrioti a STAN","Pardubáci společně","STAN+VČ+PATRIOT",3,"166,770,776",87027,8.96,4,39,90335,FALSE,TRUE
-5302,555134,"Pardubice",1,8,371,371,"Česká strana sociálně demokratická a nestraníci pro Pardubice","ČSSD a nestran. pro Pardubice",NA,2,"7,080",56770,5.84,2,39,90335,TRUE,TRUE
-5302,555134,"Pardubice",1,13,768,768,"ANO 2011","ANO 2011","ANO",1,"768",258888,26.65,13,39,90335,TRUE,TRUE
-3202,555771,"Klatovy",1,2,768,768,"ANO 2011","ANO 2011","ANO",1,"768",23013,15.22,4,27,22288,FALSE,TRUE
-3202,555771,"Klatovy",1,3,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",14450,8.49,2,27,22288,FALSE,TRUE
-3202,555771,"Klatovy",1,4,449,449,"Sdružení pro Klatovy","Sdružení pro Klatovy",NA,2,"80,129",14597,11.03,3,27,22288,FALSE,TRUE
-3202,555771,"Klatovy",1,5,181,181,"Nestraníci","Nestraníci","Nestran.",1,"181",26634,15.65,5,27,22288,TRUE,TRUE
-3202,555771,"Klatovy",1,7,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",9658,5.67,1,27,22288,FALSE,TRUE
-3202,555771,"Klatovy",1,9,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",12443,7.31,2,27,22288,FALSE,TRUE
-3202,555771,"Klatovy",1,10,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",53195,31.27,10,27,22288,TRUE,TRUE
-3206,559717,"Rokycany",1,2,88,88,"NEZÁVISLÍ","NEZÁVISLÍ","NEZ",1,"88",15596,19.38,5,21,14074,TRUE,TRUE
-3206,559717,"Rokycany",1,4,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",6112,7.59,2,21,14074,FALSE,TRUE
-3206,559717,"Rokycany",1,5,768,768,"ANO 2011","ANO 2011","ANO",1,"768",10485,13.03,3,21,14074,TRUE,TRUE
-3206,559717,"Rokycany",1,7,457,457,"ROKYCANŠTÍ  PATRIOTI","ROKYCANŠTÍ  PATRIOTI",NA,2,"80,181",13280,16.5,4,21,14074,TRUE,TRUE
-3206,559717,"Rokycany",1,9,1432,1432,"PRO ZDRAVÍ A SPORT + STAROSTOVÉ A NEZÁVISLÍ","Pro zdraví a sport+star.a nez.","STAN+PROZdr+NK",3,"80,166,785",4031,5.01,1,21,14074,FALSE,TRUE
-3206,559717,"Rokycany",1,10,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",11975,14.88,4,21,14074,TRUE,TRUE
-3206,559717,"Rokycany",1,11,364,364,"Pro naše Rokycany - sdružení Strany zelených a nezávislých kandidátů","Pro naše Rokyc. sdr Zelení, NK","Zelení+NK",2,"5,080",8575,10.66,2,21,14074,FALSE,TRUE
-4103,560286,"Sokolov",1,1,389,389,"Hnutí pro město Sokolov","Hnutí pro město Sokolov",NA,2,"53,080",25389,19.54,6,27,23438,TRUE,TRUE
-4103,560286,"Sokolov",1,2,768,768,"ANO 2011","ANO 2011","ANO",1,"768",31055,23.9,7,27,23438,TRUE,TRUE
-4103,560286,"Sokolov",1,3,1350,1350,"Piráti Sokolov s podporou Starostů a nezávislých","Piráti Sok.s podp.Star.a nezá","STAN+Piráti",2,"166,720",18675,14.37,4,27,23438,FALSE,TRUE
-4103,560286,"Sokolov",1,4,364,364,"Radnice Středu","Radnice Středu","Zelení+NK",2,"5,080",16061,12.36,4,27,23438,FALSE,TRUE
-4103,560286,"Sokolov",1,5,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",19387,14.92,4,27,23438,TRUE,TRUE
-4103,560286,"Sokolov",1,9,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",11631,8.95,2,27,23438,FALSE,TRUE
-3207,560715,"Tachov",1,1,902,90,"Patrioti Tachova","Patrioti Tachova","SNK",1,"80",23396,32.5,7,21,12706,TRUE,TRUE
-3207,560715,"Tachov",1,3,901,90,"""Volím Tachov""","""Volím Tachov""","SNK",1,"80",19759,27.44,6,21,12706,FALSE,TRUE
-3207,560715,"Tachov",1,4,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",9437,13.11,3,21,12706,FALSE,TRUE
-3207,560715,"Tachov",1,5,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",8459,11.75,2,21,12706,TRUE,TRUE
-3207,560715,"Tachov",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",9862,13.7,3,21,12706,TRUE,TRUE
-5101,561380,"Česká Lípa",1,1,497,497,"NaS - Nezávislí a soukromníci","NaS - Nezávislí a soukromníci","Soukromníci+NK",2,"80,716",13047,5.95,1,25,37405,TRUE,TRUE
-5101,561380,"Česká Lípa",1,2,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",17506,7.99,2,25,37405,TRUE,TRUE
-5101,561380,"Česká Lípa",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",21112,9.63,3,25,37405,FALSE,TRUE
-5101,561380,"Česká Lípa",1,5,339,339,"PRO Českou Lípu","PRO Českou Lípu","KDU-ČSL+Nestran",2,"1,181",16898,8.03,2,25,37405,FALSE,TRUE
-5101,561380,"Česká Lípa",1,9,475,475,"ŽIVÁ LÍPA","ŽIVÁ LÍPA",NA,2,"80,703",48956,22.34,6,25,37405,TRUE,TRUE
-5101,561380,"Česká Lípa",1,11,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",18270,8.34,2,25,37405,FALSE,TRUE
-5101,561380,"Česká Lípa",1,12,768,768,"ANO 2011","ANO 2011","ANO",1,"768",52557,23.99,7,25,37405,TRUE,TRUE
-5101,561380,"Česká Lípa",1,13,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",12158,5.55,1,25,37405,FALSE,TRUE
-5101,561380,"Česká Lípa",1,14,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",11118,5.07,1,25,37405,FALSE,TRUE
-4201,562335,"Děčín",1,1,1083,1083,"Náš Děčín","Náš Děčín","Starost.+PROZdr",2,"142,785",45046,14.02,4,27,49226,TRUE,TRUE
-4201,562335,"Děčín",1,2,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",20871,6.49,2,27,49226,FALSE,TRUE
-4201,562335,"Děčín",1,3,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",19162,5.96,1,27,49226,TRUE,TRUE
-4201,562335,"Děčín",1,4,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",19496,6.3,2,27,49226,FALSE,TRUE
-4201,562335,"Děčín",1,5,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",17371,6.08,1,27,49226,FALSE,TRUE
-4201,562335,"Děčín",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",89879,27.97,9,27,49226,TRUE,TRUE
-4201,562335,"Děčín",1,7,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",28482,8.86,2,27,49226,FALSE,TRUE
-4201,562335,"Děčín",1,8,540,540,"Změna pro Děčín","Změna pro Děčín",NA,3,"1,080,721",26094,8.12,2,27,49226,FALSE,TRUE
-4201,562335,"Děčín",1,10,470,470,"Volba pro Děčín","Volba pro Děčín",NA,2,"80,166",45375,14.12,4,27,49226,TRUE,TRUE
-4202,562971,"Chomutov",1,2,768,768,"ANO 2011","ANO 2011","ANO",1,"768",90451,25.13,10,35,48666,FALSE,FALSE
-4202,562971,"Chomutov",1,4,1346,1346,"PRO Chomutov","PRO Chomutov",NA,7,"001,005,080,166,720,721,1126",82905,23.04,9,35,48666,FALSE,FALSE
-4202,562971,"Chomutov",1,5,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",22674,6.48,2,35,48666,FALSE,FALSE
-4202,562971,"Chomutov",1,6,1017,1017,"NOVÝ SEVER","NOVÝ SEVER","NS",1,"1017",61480,17.08,7,35,48666,FALSE,FALSE
-4202,562971,"Chomutov",1,7,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",24404,6.78,2,35,48666,FALSE,FALSE
-4202,562971,"Chomutov",1,8,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",33170,9.21,3,35,48666,FALSE,FALSE
-4202,562971,"Chomutov",1,9,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",18721,5.2,2,35,48666,FALSE,FALSE
-5103,563889,"Liberec",1,3,703,703,"Starostové pro Liberecký kraj","Starostové pro Liberecký kraj","SLK",1,"703",381613,32.1,16,39,103979,TRUE,TRUE
-5103,563889,"Liberec",1,4,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",99621,8.38,4,39,103979,TRUE,TRUE
-5103,563889,"Liberec",1,5,768,768,"ANO 2011","ANO 2011","ANO",1,"768",253959,21.36,11,39,103979,TRUE,TRUE
-5103,563889,"Liberec",1,6,1363,1363,"Liberec otevřený lidem - LOL!","Liberec otevřený lidem - LOL!","TJ.+NK",2,"801,185",62686,5.27,2,39,103979,FALSE,TRUE
-5103,563889,"Liberec",1,10,521,521,"Změna pro Liberec","Změna pro Liberec","Zelení+Změna+NK",3,"5,080,771",157737,13.26,6,39,103979,FALSE,TRUE
-4203,564567,"Litoměřice",1,1,768,768,"ANO 2011","ANO 2011","ANO",1,"768",43527,22.19,7,27,24045,FALSE,TRUE
-4203,564567,"Litoměřice",1,2,470,470,"Sport a Zdraví Litoměřice","Sport a Zdraví Litoměřice",NA,2,"80,166",11856,6.04,2,27,24045,TRUE,TRUE
-4203,564567,"Litoměřice",1,3,518,518,"Severočeši Litoměřice","Severočeši Litoměřice","ProKraj+NK",2,"80,747",17876,9.11,3,27,24045,TRUE,TRUE
-4203,564567,"Litoměřice",1,6,1066,1066,"Zelení a Piráti","Zelení a Piráti","Zelení+Piráti",2,"5,720",21774,11.1,4,27,24045,FALSE,TRUE
-4203,564567,"Litoměřice",1,7,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",15745,8.02,2,27,24045,FALSE,TRUE
-4203,564567,"Litoměřice",1,10,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",53631,27.34,9,27,24045,TRUE,TRUE
-4204,565971,"Louny",1,1,119,119,"Unie pro sport a zdraví","Unie pro sport a zdraví","USZ",1,"119",15945,10.42,3,29,18446,FALSE,FALSE
-4204,565971,"Louny",1,2,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",13135,8.58,2,29,18446,FALSE,FALSE
-4204,565971,"Louny",1,3,479,479,"LOUNY SPOLU","LOUNY SPOLU","KDUČSL+Zel.+NK",3,"1,005,080",21911,14.32,4,29,18446,FALSE,FALSE
-4204,565971,"Louny",1,4,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",19724,12.89,4,29,18446,FALSE,FALSE
-4204,565971,"Louny",1,5,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",8587,5.61,1,29,18446,FALSE,FALSE
-4204,565971,"Louny",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",26631,18.02,5,29,18446,FALSE,FALSE
-4204,565971,"Louny",1,7,1377,1377,"PRO LEPŠÍ LOUNY - TOP 09, nezávislí a hnutí PRO Zdraví a Sport","PRO LEPŠÍ LOUNY TOP,NK,PRO Zdr","TOP+PROZdrav+NK",3,"80,721,785",18633,12.17,4,29,18446,FALSE,FALSE
-4204,565971,"Louny",1,8,113,113,"Volba pro město","Volba pro město","VPM",1,"113",10391,6.79,2,29,18446,FALSE,FALSE
-4204,565971,"Louny",1,9,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",18025,11.78,4,29,18446,FALSE,FALSE
-4205,567027,"Most",1,1,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",58284,8.52,4,45,66644,FALSE,FALSE
-4205,567027,"Most",1,3,1066,1066,"Piráti a Zelení pro Most","Piráti a Zelení pro Most","Piráti+SZ",2,"5,720",60698,8.87,4,45,66644,FALSE,FALSE
-4205,567027,"Most",1,4,536,536,"Sdružení Mostečané Mostu","Sdružení Mostečané Mostu",NA,2,"801,017",110798,16.2,8,45,66644,FALSE,FALSE
-4205,567027,"Most",1,5,768,768,"ANO 2011","ANO 2011","ANO",1,"768",111512,16.3,9,45,66644,FALSE,FALSE
-4205,567027,"Most",1,11,1175,1175,"ProMOST","ProMOST","ProMOST",1,"1175",198970,29.09,16,45,66644,FALSE,FALSE
-4205,567027,"Most",1,12,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",54833,8.01,4,45,66644,FALSE,FALSE
-4206,567442,"Teplice",1,2,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",24998,7.72,2,27,49563,FALSE,TRUE
-4206,567442,"Teplice",1,4,1344,1344,"VOLBA PRO! TEPLICE","VOLBA PRO! TEPLICE","KDU+Zel+TOP+NK",4,"1,005,080,721",84891,26.23,8,27,49563,FALSE,TRUE
-4206,567442,"Teplice",1,5,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",20082,6.2,2,27,49563,FALSE,TRUE
-4206,567442,"Teplice",1,6,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",94894,29.32,9,27,49563,TRUE,TRUE
-4206,567442,"Teplice",1,7,768,768,"ANO 2011","ANO 2011","ANO",1,"768",59745,18.46,5,27,49563,TRUE,TRUE
-4206,567442,"Teplice",1,8,1083,1083,"Pro Zdraví a Sport TEPLICE","Pro Zdraví a Sport TEPLICE",NA,2,"142,785",19303,5.96,1,27,49563,FALSE,TRUE
-6101,568414,"Havlíčkův Brod",1,1,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",11797,6.69,1,25,23101,FALSE,FALSE
-6101,568414,"Havlíčkův Brod",1,2,1412,1412,"ANO 2011 - Ženy za Brod","ANO 2011 - Ženy za Brod","ŽB+ANO",2,"731,768",30478,17.28,5,25,23101,TRUE,FALSE
-6101,568414,"Havlíčkův Brod",1,3,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",18692,10.6,3,25,23101,FALSE,FALSE
-6101,568414,"Havlíčkův Brod",1,4,721,721,"TOP 09","TOP 09","TOP 09",1,"721",13555,7.68,2,25,23101,TRUE,FALSE
-6101,568414,"Havlíčkův Brod",1,5,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",30582,17.34,5,25,23101,TRUE,FALSE
-6101,568414,"Havlíčkův Brod",1,6,449,449,"Broďáci","Broďáci",NA,2,"80,129",16407,9.3,2,25,23101,FALSE,FALSE
-6101,568414,"Havlíčkův Brod",1,7,364,364,"Společně pro Brod","Společně pro Brod","Zelení+NK",2,"5,080",16283,9.23,2,25,23101,FALSE,FALSE
-6101,568414,"Havlíčkův Brod",1,8,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",20484,11.61,3,25,23101,FALSE,FALSE
-6101,568414,"Havlíčkův Brod",1,9,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",7837,5.05,1,25,23101,FALSE,FALSE
-6101,568414,"Havlíčkův Brod",1,10,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",10186,5.77,1,25,23101,TRUE,FALSE
-5201,569810,"Hradec Králové",1,1,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",113645,10.26,5,37,92917,TRUE,TRUE
-5201,569810,"Hradec Králové",1,3,1049,1049,"Hradecký demokratický klub","Hradecký demokratický klub","HDK",1,"1049",173429,15.66,7,37,92917,FALSE,TRUE
-5201,569810,"Hradec Králové",1,4,768,768,"ANO 2011","ANO 2011","ANO",1,"768",263812,23.82,11,37,92917,TRUE,TRUE
-5201,569810,"Hradec Králové",1,5,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",112995,10.2,5,37,92917,FALSE,TRUE
-5201,569810,"Hradec Králové",1,6,339,339,"Koalice pro Hradec","Koalice pro Hradec","KDU-ČSL+Nestran",2,"1,181",75049,6.77,3,37,92917,FALSE,TRUE
-5201,569810,"Hradec Králové",1,10,521,521,"Změna pro Hradec a Zelení","Změna pro Hradec a Zelení","Zelení+Změna+NK",3,"5,080,771",75757,6.84,3,37,92917,FALSE,TRUE
-5201,569810,"Hradec Králové",1,12,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",68038,6.14,3,37,92917,TRUE,TRUE
-5301,571164,"Chrudim",1,1,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",13824,7.06,2,27,23133,FALSE,TRUE
-5301,571164,"Chrudim",1,2,129,129,"SNK Evropští demokraté","SNK Evropští demokraté","SNK ED",1,"129",38360,19.6,6,27,23133,FALSE,TRUE
-5301,571164,"Chrudim",1,3,1303,1303,"CHRUDIMÁCI","CHRUDIMÁCI","Svobod+TOP09+NK",3,"80,714,721",26758,13.67,4,27,23133,TRUE,TRUE
-5301,571164,"Chrudim",1,4,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",23288,11.9,3,27,23133,FALSE,TRUE
-5301,571164,"Chrudim",1,5,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",11727,5.99,1,27,23133,TRUE,TRUE
-5301,571164,"Chrudim",1,6,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",25486,13.02,3,27,23133,TRUE,TRUE
-5301,571164,"Chrudim",1,7,339,339,"Koalice pro Chrudim","Koalice pro Chrudim","KDU-ČSL+Nestran",2,"1,181",14387,7.35,2,27,23133,FALSE,TRUE
-5301,571164,"Chrudim",1,8,768,768,"ANO 2011","ANO 2011","ANO",1,"768",41856,21.38,6,27,23133,TRUE,TRUE
-5202,572659,"Jičín",1,1,659,659,"Za prosperující Jičín s TOP 09 a STAN","Za pros. Jičín s TOP 09 a STAN","TOP+STAN",2,"166,721",5448,5,1,21,16480,TRUE,TRUE
-5202,572659,"Jičín",1,2,1332,1332,"Hnutí Unie pro sport a zdraví (USZ)","Hnutí Unie pro sport a zdraví","USZ+NK",2,"80,119",6132,5.91,1,21,16480,FALSE,TRUE
-5202,572659,"Jičín",1,3,389,389,"Občanská demokratická strana a nezávislí kandidáti","ODS a nezávislí kandidáti",NA,2,"53,080",11279,10.36,2,21,16480,FALSE,TRUE
-5202,572659,"Jičín",1,4,113,113,"Volba pro město","Volba pro město","VPM",1,"113",12418,11.41,3,21,16480,TRUE,TRUE
-5202,572659,"Jičín",1,5,355,355,"Sdružení pro Jičín","Sdružení pro Jičín",NA,2,"1,080",13125,12.06,3,21,16480,TRUE,TRUE
-5202,572659,"Jičín",1,7,544,544,"Jičínský demokratický klub, Sdružení politického hnutí HDK a nezávislých kandidátů","Jičín. dem. klub, Sdr. HDK NK",NA,2,"801,049",9053,8.32,2,21,16480,FALSE,TRUE
-5202,572659,"Jičín",1,8,522,522,"PATRIOTI pro Jičín","PATRIOTI pro Jičín",NA,2,"80,776",8574,7.88,2,21,16480,FALSE,TRUE
-5202,572659,"Jičín",1,10,768,768,"ANO 2011","ANO 2011","ANO",1,"768",28613,26.3,6,21,16480,TRUE,TRUE
-5202,572659,"Jičín",1,11,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",6152,5.65,1,21,16480,FALSE,TRUE
-5203,573868,"Náchod",1,1,522,522,"Patrioti města Náchoda","Patrioti města Náchoda",NA,2,"80,776",15085,8.56,2,27,20132,TRUE,TRUE
-5203,573868,"Náchod",1,2,1323,1323,"Občanská demokratická strana a STAROSTOVÉ A NEZÁVISLÍ","Koalice ODS, STAN","ODS+STAN",2,"53,166",18820,10.68,3,27,20132,TRUE,TRUE
-5203,573868,"Náchod",1,4,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",15456,8.77,3,27,20132,TRUE,TRUE
-5203,573868,"Náchod",1,7,529,529,"NEZÁVISLÍ, PIRÁTI A ZELENÍ Za moderní město s úctou k tradicím","NK,PIR. A ZEL. Za mod. město","Zel.+Piráti+NK",3,"5,080,720",19454,11.04,3,27,20132,FALSE,TRUE
-5203,573868,"Náchod",1,8,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",57153,32.43,11,27,20132,TRUE,TRUE
-5203,573868,"Náchod",1,9,768,768,"ANO 2011","ANO 2011","ANO",1,"768",28240,16.64,5,27,20132,FALSE,TRUE
-5204,576069,"Rychnov nad Kněžnou",1,1,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",13623,19.88,4,21,11088,TRUE,TRUE
-5204,576069,"Rychnov nad Kněžnou",1,2,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",6960,10.15,2,21,11088,TRUE,TRUE
-5204,576069,"Rychnov nad Kněžnou",1,3,181,181,"Nestraníci","Nestraníci","Nestran.",1,"181",8115,11.84,2,21,11088,TRUE,TRUE
-5204,576069,"Rychnov nad Kněžnou",1,4,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",9699,14.15,3,21,11088,FALSE,TRUE
-5204,576069,"Rychnov nad Kněžnou",1,5,113,113,"Volba pro město","Volba pro město","VPM",1,"113",6961,10.16,2,21,11088,FALSE,TRUE
-5204,576069,"Rychnov nad Kněžnou",1,6,901,90,"Nezávislí za Rychnov","Nezávislí za Rychnov","SNK",1,"80",23146,33.78,8,21,11088,TRUE,TRUE
-5104,576964,"Semily",1,1,1376,1376,"SPOLU","SPOLU","DV 2016+NK",2,"801,127",9881,16.74,4,21,8421,TRUE,TRUE
-5104,576964,"Semily",1,2,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",3494,5.91,1,21,8421,FALSE,TRUE
-5104,576964,"Semily",1,3,475,475,"Volba pro Semily","Volba pro Semily",NA,2,"80,703",19448,32.95,8,21,8421,TRUE,TRUE
-5104,576964,"Semily",1,4,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",5560,9.42,2,21,8421,FALSE,TRUE
-5104,576964,"Semily",1,5,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",4304,7.29,1,21,8421,FALSE,TRUE
-5104,576964,"Semily",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",9428,15.97,4,21,8421,TRUE,TRUE
-5104,576964,"Semily",1,7,355,355,"SPOLEČNĚ PRO SEMILY","SPOLEČNĚ PRO SEMILY",NA,2,"1,080",3994,6.76,1,21,8421,FALSE,TRUE
-5303,577731,"Svitavy",1,1,768,768,"ANO 2011","ANO 2011","ANO",1,"768",15735,12.21,3,26,16937,TRUE,TRUE
-5303,577731,"Svitavy",1,3,457,457,"SDRUŽENÍ PRO MĚSTO SVITAVY","SDRUŽENÍ PRO MĚSTO SVITAVY",NA,2,"80,181",54181,42.07,13,26,16937,TRUE,TRUE
-5303,577731,"Svitavy",1,5,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",7486,5.81,1,26,16937,FALSE,TRUE
-5303,577731,"Svitavy",1,6,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",7266,5.64,1,26,16937,TRUE,TRUE
-5303,577731,"Svitavy",1,7,541,541,"PIRÁTI A NEZÁVISLÍ SVITAVY","PIRÁTI A NEZÁVISLÍ SVITAVY",NA,2,"80,720",16229,12.6,3,26,16937,FALSE,TRUE
-5303,577731,"Svitavy",1,8,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",9007,6.99,2,26,16937,FALSE,TRUE
-5303,577731,"Svitavy",1,10,389,389,"ODS A NEZÁVISLÍ","ODS A NEZÁVISLÍ",NA,2,"53,080",12932,10.04,3,26,16937,TRUE,TRUE
-5205,579025,"Trutnov",1,2,113,113,"Volba pro město Trutnov","Volba pro město Trutnov","VPM",1,"113",23939,7.88,3,33,30577,TRUE,TRUE
-5205,579025,"Trutnov",1,4,541,541,"Piráti a nezávislí","Piráti a nezávislí",NA,2,"80,720",34668,11.42,4,33,30577,TRUE,TRUE
-5205,579025,"Trutnov",1,5,570,570,"Žít v Trutnově","Žít v Trutnově","Zelení+LES+NK",3,"5,080,795",29233,9.63,4,33,30577,FALSE,TRUE
-5205,579025,"Trutnov",1,7,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",90065,29.67,12,33,30577,TRUE,TRUE
-5205,579025,"Trutnov",1,8,470,470,"Sdružení pro Trutnov s podporou hnutí STAROSTOVÉ A NEZÁVISLÍ","Sdruž.pro Tr.s podpor. hn.STAN",NA,2,"80,166",20219,6.66,2,33,30577,TRUE,TRUE
-5205,579025,"Trutnov",1,9,768,768,"ANO 2011","ANO 2011","ANO",1,"768",48015,15.81,6,33,30577,FALSE,TRUE
-5205,579025,"Trutnov",1,11,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",18125,5.97,2,33,30577,FALSE,TRUE
-5304,579891,"Ústí nad Orlicí",1,1,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",7611,6.15,2,27,14163,FALSE,TRUE
-5304,579891,"Ústí nad Orlicí",1,2,522,522,"ÚSTÍ 2014 - PATRIOTI","ÚSTÍ 2014 - PATRIOTI",NA,2,"80,776",13537,10.94,3,27,14163,FALSE,TRUE
-5304,579891,"Ústí nad Orlicí",1,3,457,457,"Sdružení nezávislých kandidátů - OUŠŤÁCI","Sdružení nez. kand. - OUŠŤÁCI",NA,2,"80,181",41212,33.3,10,27,14163,TRUE,TRUE
-5304,579891,"Ústí nad Orlicí",1,5,401,401,"ZMĚNA PRO ÚSTÍ! Řeháček: Co chceme?","ZMĚNA PRO ÚSTÍ!",NA,2,"80,088",11023,8.9,2,27,14163,FALSE,TRUE
-5304,579891,"Ústí nad Orlicí",1,7,389,389,"Občanská demokratická strana s podporou nezávislých","ODS s podporou nezávislých",NA,2,"53,080",13197,10.66,3,27,14163,TRUE,TRUE
-5304,579891,"Ústí nad Orlicí",1,8,901,90,"Sdružení nezávislých kandidátů - ÚSTÍ ŽIJE","SNK - ÚSTÍ ŽIJE","SNK",1,"80",19403,15.68,5,27,14163,TRUE,TRUE
-5304,579891,"Ústí nad Orlicí",1,10,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",9733,7.86,2,27,14163,TRUE,TRUE
-6201,581283,"Blansko",1,1,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",33705,19.6,5,25,20650,TRUE,TRUE
-6201,581283,"Blansko",1,2,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",23116,13.44,4,25,20650,TRUE,TRUE
-6201,581283,"Blansko",1,3,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",11495,6.96,1,25,20650,FALSE,TRUE
-6201,581283,"Blansko",1,4,470,470,"VOLBA PRO BLANSKO S PODPOROU STAROSTŮ A NEZÁVISLÝCH","VOLBA PR MĚSTO S PODPOROU STAN",NA,2,"80,166",19012,11.05,3,25,20650,TRUE,TRUE
-6201,581283,"Blansko",1,5,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",9339,5.43,1,25,20650,FALSE,TRUE
-6201,581283,"Blansko",1,6,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",18490,10.75,3,25,20650,FALSE,TRUE
-6201,581283,"Blansko",1,8,768,768,"ANO 2011","ANO 2011","ANO",1,"768",31056,18.06,5,25,20650,FALSE,TRUE
-6201,581283,"Blansko",1,9,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",22002,12.79,3,25,20650,TRUE,TRUE
-6202,582786,"Brno",1,4,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",402425,6.28,5,55,379527,TRUE,TRUE
-6202,582786,"Brno",1,8,768,768,"ANO 2011","ANO 2011","ANO",1,"768",1474746,23.02,18,55,379527,FALSE,TRUE
-6202,582786,"Brno",1,12,1101,1101,"Občanská demokratická strana s podporou Svobodných","ODS s podporou Svobodných",NA,2,"53,714",1188120,18.55,14,55,379527,TRUE,TRUE
-6202,582786,"Brno",1,14,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",559399,8.73,6,55,379527,TRUE,TRUE
-6202,582786,"Brno",1,15,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",324906,5.07,4,55,379527,FALSE,TRUE
-6202,582786,"Brno",1,17,355,355,"KDU-ČSL","KDU-ČSL",NA,2,"1,080",656656,10.25,8,55,379527,TRUE,TRUE
-6204,584291,"Břeclav",1,1,470,470,"MLADÍ A NEKLIDNÍ","MLADÍ A NEKLIDNÍ",NA,2,"80,166",40868,20.16,6,27,24797,FALSE,TRUE
-6204,584291,"Břeclav",1,2,1334,1334,"ODS, TOP 09 a Svobodní společně pro Břeclav","ODS,TOP 09 a Sv. spol.pro Břec","ODS+Svob+TOP09",3,"53,714,721",14186,6.99,2,27,24797,FALSE,TRUE
-6204,584291,"Břeclav",1,3,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",10352,5.1,1,27,24797,FALSE,TRUE
-6204,584291,"Břeclav",1,4,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",21278,10.49,3,27,24797,TRUE,TRUE
-6204,584291,"Břeclav",1,5,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",15645,7.71,2,27,24797,TRUE,TRUE
-6204,584291,"Břeclav",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",29297,14.45,4,27,24797,TRUE,TRUE
-6204,584291,"Břeclav",1,7,464,464,"Pro Region","Pro Region",NA,2,"80,083",39182,19.32,5,27,24797,TRUE,TRUE
-6204,584291,"Břeclav",1,8,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",15230,7.51,2,27,24797,FALSE,TRUE
-6204,584291,"Břeclav",1,9,1403,1403,"NAŠE BŘECLAV","NAŠE BŘECLAV","HOZK+NK",2,"80,772",16680,8.22,2,27,24797,FALSE,TRUE
-7204,585068,"Zlín",1,1,797,797,"Zlín 21","Zlín 21","Z21",1,"797",134809,15.05,7,41,74947,FALSE,TRUE
-7204,585068,"Zlín",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",61191,6.83,3,41,74947,TRUE,TRUE
-7204,585068,"Zlín",1,4,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",54827,6.27,3,41,74947,TRUE,TRUE
-7204,585068,"Zlín",1,5,166,166,"STAROSTOVÉ A NEZÁVISLÍ","STAROSTOVÉ A NEZÁVISLÍ","STAN",1,"166",166353,18.57,9,41,74947,TRUE,TRUE
-7204,585068,"Zlín",1,7,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",50076,5.59,2,41,74947,FALSE,TRUE
-7204,585068,"Zlín",1,8,768,768,"ANO 2011","ANO 2011","ANO",1,"768",168464,18.81,9,41,74947,TRUE,TRUE
-7204,585068,"Zlín",1,9,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",91617,10.23,5,41,74947,TRUE,TRUE
-7204,585068,"Zlín",1,10,1141,1141,"Soukromníci Svobodní Nezávislí - ROZHÝBEJME.ZLÍN","Soukr.Svob.Nez.-ROZHYB.ZL","Svobod+Soukrom",2,"714,716",62389,6.96,3,41,74947,FALSE,TRUE
-6205,586021,"Hodonín",1,1,1203,1203,"Hnutí PRO Hodonín","Hnutí PRO Hodonín","PRO-HOD",1,"1203",37028,18.66,8,31,24683,TRUE,TRUE
-6205,586021,"Hodonín",1,2,1402,1402,"Pozitivně pro Hodonín","Pozitivně pro Hodonín","KDU+KONS+TOP 09",3,"1,024,721",26586,13.4,5,31,24683,TRUE,TRUE
-6205,586021,"Hodonín",1,7,684,684,"Svobodní a Piráti","Svobodní a Piráti",NA,2,"714,720",17625,8.88,3,31,24683,TRUE,TRUE
-6205,586021,"Hodonín",1,8,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",20363,10.26,4,31,24683,FALSE,TRUE
-6205,586021,"Hodonín",1,10,1427,1427,"Změna","Změna","Morav.+Změna+NK",3,"80,083,771",17764,8.95,4,31,24683,FALSE,TRUE
-6205,586021,"Hodonín",1,11,768,768,"ANO 2011","ANO 2011","ANO",1,"768",24041,12.12,5,31,24683,FALSE,TRUE
-6205,586021,"Hodonín",1,12,463,463,"Sdružení nestraníků pro Hodonín","Sdružení nestr. pro Hodonín","SOM+NK",2,"80,158",10177,5.13,2,31,24683,FALSE,TRUE
-6102,586846,"Jihlava",1,2,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",32308,6.46,2,37,50724,FALSE,TRUE
-6102,586846,"Jihlava",1,3,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",33850,6.77,2,37,50724,FALSE,TRUE
-6102,586846,"Jihlava",1,5,470,470,"FÓRUM JIHLAVA","FÓRUM JIHLAVA",NA,2,"80,166",89908,18,7,37,50724,TRUE,TRUE
-6102,586846,"Jihlava",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",112935,22.61,10,37,50724,FALSE,TRUE
-6102,586846,"Jihlava",1,7,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",75778,15.17,6,37,50724,TRUE,TRUE
-6102,586846,"Jihlava",1,8,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",40374,8.08,3,37,50724,TRUE,TRUE
-6102,586846,"Jihlava",1,9,1369,1369,"ŽIJEME JIHLAVOU!","ŽIJEME JIHLAVOU!","Zelen+Pirát+TOP",3,"5,720,721",50384,10.08,4,37,50724,TRUE,TRUE
-6102,586846,"Jihlava",1,10,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",42253,8.45,3,37,50724,FALSE,TRUE
-7201,588296,"Kroměříž",1,2,88,88,"NEZÁVISLÍ","NEZÁVISLÍ","NEZ",1,"88",49832,19.66,6,27,28897,TRUE,TRUE
-7201,588296,"Kroměříž",1,4,501,501,"ZDRAVÉ KROMĚŘÍŽSKO","ZDRAVÉ KROMĚŘÍŽSKO","Zelení+TOP09+NK",3,"5,080,721",30707,12.12,4,27,28897,TRUE,TRUE
-7201,588296,"Kroměříž",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",41870,16.52,5,27,28897,FALSE,TRUE
-7201,588296,"Kroměříž",1,7,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",18974,7.48,2,27,28897,TRUE,TRUE
-7201,588296,"Kroměříž",1,8,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",15510,6.12,2,27,28897,TRUE,TRUE
-7201,588296,"Kroměříž",1,9,389,389,"Občanští demokraté a nezávislé osobnosti","Občanští dem. a nez. osobnosti",NA,2,"53,080",22691,8.95,3,27,28897,TRUE,TRUE
-7201,588296,"Kroměříž",1,10,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",15465,6.1,2,27,28897,FALSE,TRUE
-7201,588296,"Kroměříž",1,13,572,572,"KDU-ČSL, ZVUK 12 a nezávislí","KDU-ČSL, ZVUK 12 a nezávislí",NA,3,"1,080,775",29701,11.72,3,27,28897,FALSE,TRUE
-7103,589250,"Prostějov",1,2,389,389,"Občanská demokratická strana a nezávislé osobnosti města Prostějova","ODS a nez.osob.města PV",NA,2,"53,080",49518,11.85,4,35,43798,TRUE,TRUE
-7103,589250,"Prostějov",1,3,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",26864,6.43,2,35,43798,FALSE,TRUE
-7103,589250,"Prostějov",1,4,1351,1351,"N a   r o v i n u !","N a   r o v i n u !","Ze+STAN+Pir+TOP",4,"5,166,720,721",66615,15.94,6,35,43798,FALSE,TRUE
-7103,589250,"Prostějov",1,5,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",31012,7.42,2,35,43798,FALSE,TRUE
-7103,589250,"Prostějov",1,6,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",46928,11.23,4,35,43798,TRUE,TRUE
-7103,589250,"Prostějov",1,7,1020,1020,"Pévéčko","Pévéčko","PV",1,"1020",53987,12.92,5,35,43798,TRUE,TRUE
-7103,589250,"Prostějov",1,10,1423,1423,"Změna pro Prostějov","Změna pro Prostějov","PRO2016+NK",2,"801,134",34230,8.43,3,35,43798,FALSE,TRUE
-7103,589250,"Prostějov",1,11,768,768,"ANO 2011","ANO 2011","ANO",1,"768",75968,18.18,7,35,43798,TRUE,TRUE
-7103,589250,"Prostějov",1,12,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",30644,7.33,2,35,43798,FALSE,TRUE
-6104,590266,"Třebíč",1,1,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",23069,8.27,2,27,36050,FALSE,TRUE
-6104,590266,"Třebíč",1,2,1368,1368,"Třebíč Občanům!","Třebíč Občanům!","OSB+NK",2,"801,181",44167,15.84,5,27,36050,FALSE,TRUE
-6104,590266,"Třebíč",1,3,768,768,"ANO 2011","ANO 2011","ANO",1,"768",40822,14.64,4,27,36050,TRUE,TRUE
-6104,590266,"Třebíč",1,4,1300,1300,"Pro Třebíč","Pro TR","STAN+ProTR",2,"166,728",29534,10.59,3,27,36050,TRUE,TRUE
-6104,590266,"Třebíč",1,5,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",17249,6.18,2,27,36050,TRUE,TRUE
-6104,590266,"Třebíč",1,6,1319,1319,"ODS a TnT - Společně za Třebíč!","ODS a TnT-Společně za Třebíč!","ODS+TnT",2,"531,025",20221,7.25,2,27,36050,FALSE,TRUE
-6104,590266,"Třebíč",1,7,364,364,"Břehy","Břehy","Zelení+NK",2,"5,080",24987,8.96,2,27,36050,TRUE,TRUE
-6104,590266,"Třebíč",1,8,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",28185,10.1,3,27,36050,TRUE,TRUE
-6104,590266,"Třebíč",1,10,449,449,"Třebíč můj domov","Třebíč můj domov",NA,2,"80,129",17079,6.12,2,27,36050,TRUE,TRUE
-6104,590266,"Třebíč",1,11,1331,1331,"Společně otevřeme Třebíč","Společně otevřeme Třebíč","Piráti+TOP09+NK",3,"80,720,721",24723,8.86,2,27,36050,TRUE,TRUE
-7202,592005,"Uherské Hradiště",1,1,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",12099,5.53,1,27,25215,FALSE,TRUE
-7202,592005,"Uherské Hradiště",1,2,511,511,"KRUH","KRUH",NA,2,"80,775",22288,10.18,3,27,25215,TRUE,TRUE
-7202,592005,"Uherské Hradiště",1,4,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",16074,7.34,2,27,25215,FALSE,TRUE
-7202,592005,"Uherské Hradiště",1,6,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",15952,7.29,2,27,25215,FALSE,TRUE
-7202,592005,"Uherské Hradiště",1,7,463,463,"Nestraníci pro Hradiště","Nestraníci pro Hradiště","SOM+NK",2,"80,158",18969,8.67,2,27,25215,FALSE,TRUE
-7202,592005,"Uherské Hradiště",1,8,768,768,"ANO 2011","ANO 2011","ANO",1,"768",30342,13.87,4,27,25215,FALSE,TRUE
-7202,592005,"Uherské Hradiště",1,9,1141,1141,"Soukromníci Svobodní Nezávislí - Naplno pro Hradiště","Soukr.Svob.Nez.-Naplno pro Hr.","Svobodní+SsČR",2,"714,716",17903,8.18,2,27,25215,FALSE,TRUE
-7202,592005,"Uherské Hradiště",1,10,480,480,"TOP 09 s podporou Studentů a nezávislých kandidátů","TOP 09 s podporou Student.a NK",NA,2,"80,721",12054,5.51,1,27,25215,TRUE,TRUE
-7202,592005,"Uherské Hradiště",1,11,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",19180,8.76,3,27,25215,TRUE,TRUE
-7202,592005,"Uherské Hradiště",1,12,389,389,"Občanští demokraté a nezávislé osobnosti","Obč.demokraté a nez.osobnosti",NA,2,"53,080",47726,21.81,7,27,25215,TRUE,TRUE
-6206,592889,"Vyškov",1,1,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",36631,21.59,6,27,20999,FALSE,TRUE
-6206,592889,"Vyškov",1,2,389,389,"Občanská demokratická strana a sdružení nezávislých kandidátů","Občanská demokr. strana a SNK",NA,2,"53,080",22992,13.55,4,27,20999,TRUE,TRUE
-6206,592889,"Vyškov",1,3,768,768,"ANO 2011","ANO 2011","ANO",1,"768",26057,15.36,4,27,20999,TRUE,TRUE
-6206,592889,"Vyškov",1,4,364,364,"NÁŠ VYŠKOV","NÁŠ VYŠKOV","Zelení+NK",2,"5,080",17292,10.19,3,27,20999,TRUE,TRUE
-6206,592889,"Vyškov",1,5,470,470,"VOLBA PRO MĚSTO S PODPOROU STAROSTŮ A NEZÁVISLÝCH","VOLBA PRO MĚSTO S PODP. STAN",NA,2,"80,166",19349,11.4,3,27,20999,TRUE,TRUE
-6206,592889,"Vyškov",1,6,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",19418,11.45,3,27,20999,TRUE,TRUE
-6206,592889,"Vyškov",1,7,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",17073,10.06,3,27,20999,FALSE,TRUE
-6206,592889,"Vyškov",1,8,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",10776,6.35,1,27,20999,FALSE,TRUE
-6207,593711,"Znojmo",1,1,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",19848,6.05,2,31,33719,FALSE,TRUE
-6207,593711,"Znojmo",1,3,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",80523,24.54,9,31,33719,TRUE,TRUE
-6207,593711,"Znojmo",1,4,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",18115,5.52,2,31,33719,FALSE,TRUE
-6207,593711,"Znojmo",1,5,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",17174,5.23,1,31,33719,FALSE,TRUE
-6207,593711,"Znojmo",1,6,470,470,"PRO ZNOJMO S PODPOROU ZMĚNY, STAN, ZNOJMO BEZ HAZARDU A MORAVSKÉHO ZEMSKÉHO HNUTÍ","PRO ZNOJMO S PODPOROU ZMĚNY",NA,2,"80,166",45988,14.02,5,31,33719,FALSE,TRUE
-6207,593711,"Znojmo",1,8,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",25463,7.76,2,31,33719,FALSE,TRUE
-6207,593711,"Znojmo",1,9,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",32788,9.99,3,31,33719,TRUE,TRUE
-6207,593711,"Znojmo",1,10,768,768,"ANO 2011","ANO 2011","ANO",1,"768",62227,18.97,7,31,33719,TRUE,TRUE
-6105,595209,"Žďár nad Sázavou",1,1,1085,1085,"Koalice TOP 09 a Svobodní","Koalice TOP 09 a Svobodní",NA,2,"714,721",9399,5.07,1,27,20994,FALSE,TRUE
-6105,595209,"Žďár nad Sázavou",1,2,470,470,"ŽĎÁR -  ŽIVÉ  MĚSTO","ŽĎÁR -  ŽIVÉ  MĚSTO",NA,2,"80,166",33954,18.32,5,27,20994,TRUE,TRUE
-6105,595209,"Žďár nad Sázavou",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",23025,12.42,3,27,20994,TRUE,TRUE
-6105,595209,"Žďár nad Sázavou",1,4,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",23981,12.94,4,27,20994,FALSE,TRUE
-6105,595209,"Žďár nad Sázavou",1,5,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",25969,14.01,4,27,20994,TRUE,TRUE
-6105,595209,"Žďár nad Sázavou",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",29570,15.95,4,27,20994,TRUE,TRUE
-6105,595209,"Žďár nad Sázavou",1,7,1424,1424,"Koalice KSČM a SPOZ","Koalice KSČM a SPOZ","KSČM+SPOZ",2,"47,724",14929,8.36,2,27,20994,FALSE,TRUE
-6105,595209,"Žďár nad Sázavou",1,8,449,449,"Změna 2018","Změna 2018",NA,2,"80,129",24459,13.2,4,27,20994,FALSE,TRUE
-8101,597180,"Bruntál",1,1,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",11718,11.49,3,27,16495,FALSE,TRUE
-8101,597180,"Bruntál",1,3,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",5532,5.42,1,27,16495,FALSE,TRUE
-8101,597180,"Bruntál",1,4,470,470,"BRUNTÁL 2018","BRUNTÁL 2018",NA,2,"80,166",32823,32.2,10,27,16495,TRUE,TRUE
-8101,597180,"Bruntál",1,6,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",10905,10.69,3,27,16495,FALSE,TRUE
-8101,597180,"Bruntál",1,7,1065,1065,"PROZMĚNU","PROZMĚNU","PZ",1,"1065",9870,9.68,3,27,16495,TRUE,TRUE
-8101,597180,"Bruntál",1,8,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",6274,6.15,2,27,16495,TRUE,TRUE
-8101,597180,"Bruntál",1,9,768,768,"ANO 2011","ANO 2011","ANO",1,"768",17764,17.42,5,27,16495,TRUE,TRUE
-8102,598003,"Frýdek-Místek",1,1,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",151816,21.9,11,43,56334,TRUE,TRUE
-8102,598003,"Frýdek-Místek",1,2,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",57990,8.36,4,43,56334,FALSE,TRUE
-8102,598003,"Frýdek-Místek",1,4,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",58643,8.46,4,43,56334,TRUE,TRUE
-8102,598003,"Frýdek-Místek",1,5,799,799,"Naše Město F-M","Naše Město F-M","NMFM",1,"799",129619,18.7,10,43,56334,FALSE,TRUE
-8102,598003,"Frýdek-Místek",1,6,768,768,"ANO 2011","ANO 2011","ANO",1,"768",114048,16.45,8,43,56334,TRUE,TRUE
-8102,598003,"Frýdek-Místek",1,9,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",41485,5.98,3,43,56334,FALSE,TRUE
-8102,598003,"Frýdek-Místek",1,10,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",49320,7.11,3,43,56334,FALSE,TRUE
-8103,598917,"Karviná",1,1,768,768,"ANO 2011","ANO 2011","ANO",1,"768",113170,21.56,9,41,53522,TRUE,TRUE
-8103,598917,"Karviná",1,3,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",231768,44.15,19,41,53522,TRUE,TRUE
-8103,598917,"Karviná",1,5,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",59090,11.25,5,41,53522,TRUE,TRUE
-8103,598917,"Karviná",1,6,1327,1327,"Karvinskakoalice.cz (KDU-ČSL, ODS, TOP 09, COEXISTENTIA, s podporou Soukromníků)","Karvinskakoalice.cz","KDU+ODS+TOP 09",3,"1,053,721",44126,8.4,3,41,53522,FALSE,TRUE
-8103,598917,"Karviná",1,7,1350,1350,"Piráti a Starostové","Piráti a Starostové","STAN+Piráti",2,"166,720",31323,5.96,2,41,53522,FALSE,TRUE
-8103,598917,"Karviná",1,8,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",35778,6.81,3,41,53522,FALSE,TRUE
-8104,599191,"Nový Jičín",1,1,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",12478,6.33,2,29,23567,FALSE,TRUE
-8104,599191,"Nový Jičín",1,2,768,768,"ANO 2011","ANO 2011","ANO",1,"768",38671,19.64,6,29,23567,TRUE,TRUE
-8104,599191,"Nový Jičín",1,3,684,684,"Piráti s podporou Svobodných","Piráti s podporou Svobodných",NA,2,"714,720",14129,7.17,2,29,23567,FALSE,TRUE
-8104,599191,"Nový Jičín",1,4,1,1,"Křesťanská a demokratická unie - Československá strana lidová","Křesť.demokr.unie-Čs.str.lid.","KDU-ČSL",1,"1",19588,9.95,3,29,23567,TRUE,TRUE
-8104,599191,"Nový Jičín",1,5,364,364,"STRANA ZELENÝCH s podporou TOP 09, SNK-ED a STAN","Zelení s TOP 09,SNK-ED a STAN","Zelení+NK",2,"5,080",35740,18.15,5,29,23567,TRUE,TRUE
-8104,599191,"Nový Jičín",1,6,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",13270,6.74,2,29,23567,FALSE,TRUE
-8104,599191,"Nový Jičín",1,7,7,7,"Česká strana sociálně demokratická","Česká str.sociálně demokrat.","ČSSD",1,"7",39577,20.1,6,29,23567,FALSE,TRUE
-8104,599191,"Nový Jičín",1,8,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",23347,11.85,3,29,23567,TRUE,TRUE
-5102,563510,"Jablonec nad Nisou",1,1,550,550,"Nová budoucnost pro Jablonec","Nová budoucnost pro Jablonec",NA,2,"80,780",20224,5.38,2,30,45771,TRUE,TRUE
-5102,563510,"Jablonec nad Nisou",1,2,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",54501,14.51,5,30,45771,TRUE,TRUE
-5102,563510,"Jablonec nad Nisou",1,3,1324,1324,"Společně pro Jablonec","Společně pro Jablonec","KDU+Změna+NK",3,"1,080,771",43470,11.57,4,30,45771,TRUE,TRUE
-5102,563510,"Jablonec nad Nisou",1,4,703,703,"Starostové pro Liberecký kraj","Starostové pro Liberecký kraj","SLK",1,"703",37404,9.95,3,30,45771,FALSE,TRUE
-5102,563510,"Jablonec nad Nisou",1,6,1114,1114,"Svoboda a přímá demokracie - Tomio Okamura (SPD)","Svob.a př.dem.-T.Okamura (SPD)","SPD",1,"1114",19545,5.38,1,30,45771,FALSE,TRUE
-5102,563510,"Jablonec nad Nisou",1,11,768,768,"ANO 2011","ANO 2011","ANO",1,"768",76117,20.26,7,30,45771,TRUE,TRUE
-5102,563510,"Jablonec nad Nisou",1,12,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",83906,22.33,8,30,45771,FALSE,TRUE
-2104,533165,"Kolín",1,1,768,768,"ANO 2011","ANO 2011","ANO",1,"768",29450,11.09,3,27,31355,FALSE,TRUE
-2104,533165,"Kolín",1,2,355,355,"VOLBA PRO KOLÍN","VOLBA PRO KOLÍN",NA,2,"1,080",14426,5.43,1,27,31355,TRUE,TRUE
-2104,533165,"Kolín",1,3,470,470,"ZMĚNA PRO KOLÍN","ZMĚNA PRO KOLÍN",NA,2,"80,166",166739,62.81,21,27,31355,TRUE,TRUE
-2104,533165,"Kolín",1,4,47,47,"Komunistická strana Čech a Moravy","Komunistická str.Čech a Moravy","KSČM",1,"47",13823,5.2,1,27,31355,FALSE,TRUE
-2104,533165,"Kolín",1,10,427,427,"KOLÍŇÁCI","KOLÍŇÁCI",NA,2,"80,143",15279,5.75,1,27,31355,TRUE,TRUE
-1100,554782,"Praha hl.m.",1,6,659,659,"TOP 09 a Starostové (STAN) ve spolupráci s KDU-ČSL, LES a Demokraty Jana Kasla -""Spojené síly pro Prahu""","Koalice STAN, TOP 09","TOP+STAN",2,"166,721",4127063,16.28,13,65,1294513,TRUE,TRUE
-1100,554782,"Praha hl.m.",1,11,720,720,"Česká pirátská strana","Česká pirátská strana","Piráti",1,"720",4326041,17.07,13,65,1294513,TRUE,TRUE
-1100,554782,"Praha hl.m.",1,20,901,90,"PRAHA SOBĚ","PRAHA SOBĚ","SNK",1,"80",4197578,16.56,13,65,1294513,TRUE,TRUE
-1100,554782,"Praha hl.m.",1,22,53,53,"Občanská demokratická strana","Občanská demokratická strana","ODS",1,"53",4527920,17.86,14,65,1294513,FALSE,TRUE
-1100,554782,"Praha hl.m.",1,27,768,768,"ANO 2011","ANO 2011","ANO",1,"768",3893968,15.36,12,65,1294513,FALSE,TRUE
+OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,MANDATY,POCOBYV,KOALICE,OFICIALNI
+7102,500496,Olomouc,1,1,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,95688,7.4,4,45,100494,TRUE,TRUE
+7102,500496,Olomouc,1,3,1138,1138,Svoboda a přímá demokracie - Tomio Okamura (SPD) a Strana Práv Občanů ZEMANOVCI,SPD T.OKAMURA a SPO ZEMANOVCI,SPOZ+SPD,2,"7,241,114",71958,5.57,3,45,100494,FALSE,TRUE
+7102,500496,Olomouc,1,4,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,68351,5.29,2,45,100494,FALSE,TRUE
+7102,500496,Olomouc,1,8,768,768,ANO 2011,ANO 2011,ANO,1,768,344398,26.66,14,45,100494,TRUE,TRUE
+7102,500496,Olomouc,1,11,1039,1039,ProOlomouc,ProOlomouc,ProOl,1,1039,156378,12.1,6,45,100494,FALSE,TRUE
+7102,500496,Olomouc,1,12,1350,1350,PIRÁTI A STAROSTOVÉ,PIRÁTI A STAROSTOVÉ,STAN+Piráti,2,"166,720",154271,11.94,6,45,100494,FALSE,TRUE
+7102,500496,Olomouc,1,13,1192,1192,spOLečně,spOLečně,spOL,1,1192,76597,5.93,3,45,100494,TRUE,TRUE
+7102,500496,Olomouc,1,14,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,140900,10.91,5,45,100494,TRUE,TRUE
+7102,500496,Olomouc,1,16,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,64662,5,2,45,100494,FALSE,TRUE
+8105,505927,Opava,1,1,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,35631,5.7,2,39,57019,FALSE,TRUE
+8105,505927,Opava,1,3,523,523,"ODS, TOP 09, SOUKROMNÍCI A NEZÁVISLÍ KANDIDÁTI","ODS, TOP 09, SOUKROMNÍCI A NK",NA,3,"53,080,721",87238,13.96,6,39,57019,FALSE,TRUE
+8105,505927,Opava,1,4,541,541,Piráti & Opavané,Piráti & Opavané,NA,2,"80,720",68722,10.99,5,39,57019,TRUE,TRUE
+8105,505927,Opava,1,5,510,510,Změna pro Opavu,Změna pro Opavu,NA,2,"80,771",47490,7.59,3,39,57019,FALSE,TRUE
+8105,505927,Opava,1,6,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,54577,8.73,4,39,57019,FALSE,TRUE
+8105,505927,Opava,1,7,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,38342,6.13,2,39,57019,TRUE,TRUE
+8105,505927,Opava,1,8,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,36791,5.88,2,39,57019,FALSE,TRUE
+8105,505927,Opava,1,10,364,364,"Zelená pro Opavu, sdružení Strany zelených a nezavislých kandidátů",Zelená pro Opavu + SZ a NK,Zelení+NK,2,"5,080",35939,5.75,2,39,57019,TRUE,TRUE
+8105,505927,Opava,1,12,768,768,ANO 2011,ANO 2011,ANO,1,768,137636,22.02,10,39,57019,TRUE,TRUE
+8105,505927,Opava,1,14,1188,1188,Občané městských částí Opavy,Občané městských částí Opavy,OMČO,1,1188,43700,6.99,3,39,57019,TRUE,TRUE
+7104,511382,Přerov,1,3,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,31409,7.15,3,35,43565,FALSE,TRUE
+7104,511382,Přerov,1,4,483,483,Za prosperitu Přerova a jeho místních částí,Za prosp. Přerova a míst.část.,SPOZ+NK,2,"80,724",47429,10.8,4,35,43565,FALSE,TRUE
+7104,511382,Přerov,1,5,1337,1337,"Společně pro Přerov a Piráti-koalice politických stran České pirátské strany, Nezávislé volby a politického hnutí Změna",Společně pro Přerov a Piráti,NV+Piráti+Změna,3,"163,720,771",50347,11.47,4,35,43565,FALSE,TRUE
+7104,511382,Přerov,1,6,1058,1058,KDU-ČSL a TOP09,KDU-ČSL a TOP09,KDU-ČSL+TOP 09,2,"1,721",25870,5.89,2,35,43565,TRUE,TRUE
+7104,511382,Přerov,1,7,768,768,ANO 2011,ANO 2011,ANO,1,768,106789,24.33,10,35,43565,TRUE,TRUE
+7104,511382,Přerov,1,10,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,40952,9.33,4,35,43565,FALSE,TRUE
+7104,511382,Přerov,1,11,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,66720,15.2,6,35,43565,TRUE,TRUE
+7104,511382,Přerov,1,12,166,166,STAROSTOVÉ A NEZÁVISLÍ,STAROSTOVÉ A NEZÁVISLÍ,STAN,1,166,27578,6.28,2,35,43565,FALSE,TRUE
+7105,523704,Šumperk,1,1,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,13688,6.79,2,27,26151,FALSE,TRUE
+7105,523704,Šumperk,1,2,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,14457,7.17,2,27,26151,FALSE,TRUE
+7105,523704,Šumperk,1,4,401,401,Sdružení PRO-REGION a NEZÁVISLÍ,Sdruž. PRO-REGION a NEZÁVISLÍ,NA,2,"80,088",22205,11.02,4,27,26151,FALSE,TRUE
+7105,523704,Šumperk,1,7,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,13284,6.59,2,27,26151,FALSE,TRUE
+7105,523704,Šumperk,1,8,768,768,ANO 2011,ANO 2011,ANO,1,768,37739,18.73,6,27,26151,TRUE,TRUE
+7105,523704,Šumperk,1,11,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,11046,5.48,1,27,26151,FALSE,TRUE
+7105,523704,Šumperk,1,13,461,461,NEZÁVISLÁ VOLBA,NEZÁVISLÁ VOLBA,NA,2,"80,163",17317,8.59,3,27,26151,FALSE,TRUE
+7105,523704,Šumperk,1,14,355,355,PRO ŠUMPERK - KDU-ČSL a nezávislí kandidáti,PRO ŠUMPERK -  KDU-ČSL a NK,NA,2,"1,080",16869,8.37,3,27,26151,TRUE,TRUE
+7105,523704,Šumperk,1,15,495,495,ŠUMPERÁCI,ŠUMPERÁCI,NA,3,"80,166,721",25737,12.77,4,27,26151,TRUE,TRUE
+2101,529303,Benešov,1,1,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,14704,11.34,3,23,16522,TRUE,TRUE
+2101,529303,Benešov,1,2,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,8418,6.49,1,23,16522,FALSE,TRUE
+2101,529303,Benešov,1,3,720,720,Česká pirátská strana s podporou Strany Zelených,Česká pirát.str. s podp.Zelení,Piráti,1,720,9655,7.45,2,23,16522,TRUE,TRUE
+2101,529303,Benešov,1,4,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,7175,5.53,1,23,16522,FALSE,TRUE
+2101,529303,Benešov,1,5,768,768,ANO 2011,ANO 2011,ANO,1,768,15320,11.82,3,23,16522,FALSE,TRUE
+2101,529303,Benešov,1,6,401,401,Volba pro Benešov,Volba pro Benešov,NA,2,"80,088",47142,36.37,11,23,16522,TRUE,TRUE
+2101,529303,Benešov,1,10,470,470,STAN Spolu PRO Benešov s podporou KDU-ČSL,STANSpoluPROBen.s podp.KDU-ČSL,NA,2,"80,166",12625,9.74,2,23,16522,TRUE,TRUE
+2102,531057,Beroun,1,1,768,768,ANO 2011,ANO 2011,ANO,1,768,17596,16.92,4,21,19439,TRUE,TRUE
+2102,531057,Beroun,1,2,1330,1330,BEROUN SOBĚ,BEROUN SOBĚ,NA,4,"1,080,166,721",20945,20.14,4,21,19439,FALSE,TRUE
+2102,531057,Beroun,1,3,477,477,Lepší Beroun,Lepší Beroun,NA,2,"80,714",8955,8.61,2,21,19439,FALSE,TRUE
+2102,531057,Beroun,1,4,371,371,Česká strana sociálně demokratická a nezávislí kandidáti,ČSSD a nezávislí kandidáti,NA,2,"7,080",8740,8.4,2,21,19439,FALSE,TRUE
+2102,531057,Beroun,1,5,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,7081,6.8,1,21,19439,FALSE,TRUE
+2102,531057,Beroun,1,6,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,15439,14.84,3,21,19439,TRUE,TRUE
+2102,531057,Beroun,1,7,463,463,NEZÁVISLÍ BEROUŇÁCI,NEZÁVISLÍ BEROUŇÁCI,SOM+NK,2,"80,158",25228,24.26,5,21,19439,TRUE,TRUE
+2103,532053,Kladno,1,1,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,39126,6.43,2,33,68804,FALSE,TRUE
+2103,532053,Kladno,1,3,727,727,VOLBA PRO KLADNO,VOLBA PRO KLADNO,VPK,1,727,208233,34.23,13,33,68804,FALSE,TRUE
+2103,532053,Kladno,1,4,1114,1114,SVOBODA A PŘÍMÁ DEMOKRACIE - TOMIO OKAMURA ( SPD ),SVOB.A PŘ.DEM.-T.OKAMURA (SPD),SPD,1,1114,34619,5.69,2,33,68804,TRUE,TRUE
+2103,532053,Kladno,1,6,1315,1315,KLADEŇÁCI,KLADEŇÁCI,KDU+STAN+TOP09,3,"1,166,721",83150,13.66,5,33,68804,TRUE,TRUE
+2103,532053,Kladno,1,7,768,768,ANO 2011,ANO 2011,ANO,1,768,73290,12.04,4,33,68804,TRUE,TRUE
+2103,532053,Kladno,1,9,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,126670,20.82,7,33,68804,TRUE,TRUE
+2105,533955,Kutná Hora,1,1,477,477,Kutnohorská změna,Kutnohorská změna,NA,2,"80,714",10138,6.02,2,27,20536,TRUE,TRUE
+2105,533955,Kutná Hora,1,2,470,470,STAROSTOVÉ A NEZÁVISLÍ A ŠANCE PRO KUTNOU HORU,STAROSTOVÉ A NEZ. A ŠANCE KH,NA,2,"80,166",18678,11.1,3,27,20536,TRUE,TRUE
+2105,533955,Kutná Hora,1,3,497,497,Město PRO lidi,Město PRO lidi,Soukromníci+NK,2,"80,716",29431,17.49,5,27,20536,FALSE,TRUE
+2105,533955,Kutná Hora,1,4,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,22924,13.62,4,27,20536,FALSE,TRUE
+2105,533955,Kutná Hora,1,6,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,10584,6.29,2,27,20536,TRUE,TRUE
+2105,533955,Kutná Hora,1,7,768,768,ANO 2011,ANO 2011,ANO,1,768,25095,14.91,5,27,20536,TRUE,TRUE
+2105,533955,Kutná Hora,1,10,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,11559,6.87,2,27,20536,TRUE,TRUE
+2105,533955,Kutná Hora,1,11,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,10046,5.97,2,27,20536,FALSE,TRUE
+2105,533955,Kutná Hora,1,12,1211,1211,Alternativa pro Vás,Alternativa pro Vás,ApV,1,1211,13608,8.09,2,27,20536,TRUE,TRUE
+2106,534676,Mělník,1,1,486,486,MĚLNIČANÉ,MĚLNIČANÉ,NA,3,"1,080,129",10713,9.18,2,21,19351,FALSE,FALSE
+2106,534676,Mělník,1,3,427,427,MÉ MĚSTO,MÉ MĚSTO,NA,2,"80,143",22750,19.51,4,21,19351,FALSE,FALSE
+2106,534676,Mělník,1,4,53,53,Občanská demokratická strana s podporou Strany Soukromníků ČR,ODS s podporou Strany Soukr.ČR,ODS,1,53,20447,17.53,4,21,19351,FALSE,FALSE
+2106,534676,Mělník,1,5,470,470,MÁME RÁDI MĚLNÍK,MÁME RÁDI MĚLNÍK,NA,2,"80,166",16122,13.82,3,21,19351,FALSE,FALSE
+2106,534676,Mělník,1,6,387,387,"Nezávislí kandidáti a KSČM ""ZA LEPŠÍ MĚLNÍK""","NK a KSČM ""ZA LEPŠÍ MĚLNÍK""",NA,2,"47,080",9148,7.84,2,21,19351,FALSE,FALSE
+2106,534676,Mělník,1,7,768,768,ANO 2011,ANO 2011,ANO,1,768,18885,16.19,4,21,19351,FALSE,FALSE
+2106,534676,Mělník,1,8,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,7703,6.6,1,21,19351,FALSE,FALSE
+2106,534676,Mělník,1,9,1093,1093,Spojené síly pro Mělník,Spojené síly pro Mělník,Zelení+TOP09,2,"5,721",7985,6.84,1,21,19351,FALSE,FALSE
+2107,535419,Mladá Boleslav,1,1,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,25086,6.61,2,33,44167,FALSE,TRUE
+2107,535419,Mladá Boleslav,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,109073,28.76,11,33,44167,TRUE,TRUE
+2107,535419,Mladá Boleslav,1,4,1071,1071,ANO 2011 + Volba pro Mladou Boleslav,ANO 2011+Volba pro Ml.Boleslav,NA,2,"193,768",100181,26.41,10,33,44167,TRUE,TRUE
+2107,535419,Mladá Boleslav,1,6,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,29559,7.79,3,33,44167,TRUE,TRUE
+2107,535419,Mladá Boleslav,1,8,303,303,KOALICE KŘESŤANSKÉ A DEMOKRATICKÉ UNIE - ČESKOSLOVENSKÉ STRANY LIDOVÉ A STRANY ZELENÝCH,"Koalice KDU-ČSL, Zelení",KDU-ČSL+Zelení,2,"1,005",20615,5.43,2,33,44167,FALSE,TRUE
+2107,535419,Mladá Boleslav,1,9,166,166,STAROSTOVÉ A NEZÁVISLÍ,STAROSTOVÉ A NEZÁVISLÍ,STAN,1,166,48405,12.76,5,33,44167,TRUE,TRUE
+7101,536385,Jeseník,1,1,501,501,Jeseník srdcem,Jeseník srdcem,Zelení+TOP09+NK,3,"5,080,721",37871,41.54,13,25,11271,TRUE,TRUE
+7101,536385,Jeseník,1,2,461,461,Nezávislí - Jeseník,Nezávislí - Jeseník,NA,2,"80,163",5295,5.8,1,25,11271,FALSE,TRUE
+7101,536385,Jeseník,1,3,768,768,ANO 2011,ANO 2011,ANO,1,768,11084,12.15,3,25,11271,FALSE,TRUE
+7101,536385,Jeseník,1,6,470,470,PRO JESENÍK,PRO JESENÍK,NA,2,"80,166",12765,14,4,25,11271,TRUE,TRUE
+7101,536385,Jeseník,1,7,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,5834,6.4,2,25,11271,FALSE,TRUE
+7101,536385,Jeseník,1,8,1138,1138,Koalice Svoboda a přímá demokracie - Tomio Okamura (SPD) a Strana Práv Občanů ZEMANOVCI,Koalice SPD a SPOZ,SPOZ+SPD,2,"7,241,114",5635,6.18,2,25,11271,FALSE,TRUE
+2108,537004,Nymburk,1,1,470,470,ZMĚNA PRO NYMBURK,ZMĚNA PRO NYMBURK,NA,2,"80,166",13922,13.18,3,21,15062,FALSE,TRUE
+2108,537004,Nymburk,1,2,371,371,Česká strana sociálně demokratická s podporou nezávislých,ČSSD s podporou nezávislých,NA,2,"7,080",7016,6.64,2,21,15062,TRUE,TRUE
+2108,537004,Nymburk,1,4,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,8448,7.99,2,21,15062,TRUE,TRUE
+2108,537004,Nymburk,1,8,355,355,ZDRAVÝ NYMBURK,ZDRAVÝ NYMBURK,NA,2,"1,080",5401,5.11,1,21,15062,FALSE,TRUE
+2108,537004,Nymburk,1,10,768,768,ANO 2011,ANO 2011,ANO,1,768,10124,9.58,2,21,15062,FALSE,TRUE
+2108,537004,Nymburk,1,11,902,90,Nymburští demokraté,Nymburští demokraté,SNK,1,80,15189,14.38,4,21,15062,FALSE,TRUE
+2108,537004,Nymburk,1,13,901,90,Nymburk s klidem,Nymburk s klidem,SNK,1,80,27652,26.17,7,21,15062,TRUE,TRUE
+2111,539911,Příbram,1,2,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,13727,5.55,1,25,32867,FALSE,TRUE
+2111,539911,Příbram,1,3,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,17074,6.9,2,25,32867,FALSE,TRUE
+2111,539911,Příbram,1,6,721,721,TOP 09,TOP 09,TOP 09,1,721,37545,15.18,5,25,32867,FALSE,TRUE
+2111,539911,Příbram,1,7,427,427,Šance pro Příbram,Šance pro Příbram,NA,2,"80,143",14933,6.04,2,25,32867,FALSE,TRUE
+2111,539911,Příbram,1,9,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,16161,6.53,2,25,32867,TRUE,TRUE
+2111,539911,Příbram,1,10,449,449,Příbramáci pro Příbram,Příbramáci pro Příbram,NA,2,"80,129",13655,5.52,1,25,32867,TRUE,TRUE
+2111,539911,Příbram,1,11,768,768,ANO 2011,ANO 2011,ANO,1,768,96102,38.87,12,25,32867,TRUE,TRUE
+7203,541630,Vsetín,1,2,364,364,KOALICE PRO OTEVŘENÝ VSETÍN,KOALICE PRO OTEVŘENÝ VSETÍN,Zelení+NK,2,"5,080",17686,11.08,3,21,26109,FALSE,TRUE
+7203,541630,Vsetín,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,16057,10.06,2,21,26109,FALSE,TRUE
+7203,541630,Vsetín,1,5,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,8739,5.47,1,21,26109,FALSE,TRUE
+7203,541630,Vsetín,1,6,166,166,STAROSTOVÉ A NEZÁVISLÍ,STAROSTOVÉ A NEZÁVISLÍ,STAN,1,166,22785,14.28,3,21,26109,TRUE,TRUE
+7203,541630,Vsetín,1,7,768,768,ANO 2011,ANO 2011,ANO,1,768,20208,12.66,3,21,26109,TRUE,TRUE
+7203,541630,Vsetín,1,8,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,12630,7.91,2,21,26109,FALSE,TRUE
+7203,541630,Vsetín,1,10,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,11449,7.17,2,21,26109,FALSE,TRUE
+7203,541630,Vsetín,1,11,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,31546,19.77,5,21,26109,TRUE,TRUE
+2112,541656,Rakovník,1,1,371,371,Česká strana sociálně demokratická a nezávislí kandidáti,Česká str.soc.dem.a nez.kandi.,NA,2,"7,080",9799,10.05,2,21,15893,FALSE,TRUE
+2112,541656,Rakovník,1,2,768,768,ANO 2011,ANO 2011,ANO,1,768,11992,12.92,3,21,15893,FALSE,TRUE
+2112,541656,Rakovník,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,16668,17.1,4,21,15893,TRUE,TRUE
+2112,541656,Rakovník,1,4,510,510,Změna pro Rakovník,Změna pro Rakovník,NA,2,"80,771",7450,7.64,1,21,15893,TRUE,TRUE
+2112,541656,Rakovník,1,5,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,10199,10.46,2,21,15893,FALSE,TRUE
+2112,541656,Rakovník,1,6,1361,1361,MĚSTO PRO VÁS,MĚSTO PRO VÁS,STAN+MPV,2,"1,661,036",13624,13.98,3,21,15893,TRUE,TRUE
+2112,541656,Rakovník,1,7,457,457,SMĚR Rakovník - Nestraníci,SMĚR Rakovník - Nestraníci,NA,2,"80,181",5573,5.71,1,21,15893,TRUE,TRUE
+2112,541656,Rakovník,1,8,714,714,Strana svobodných občanů,Strana svobodných občanů,Svobodní,1,714,9009,9.24,2,21,15893,TRUE,TRUE
+2112,541656,Rakovník,1,9,721,721,Společně pro Rakovník,Společně pro Rakovník,TOP 09,1,721,13135,13.47,3,21,15893,TRUE,TRUE
+3101,544256,České Budějovice,1,5,1422,1422,OBČANÉ PRO BUDĚJOVICE,OBČANÉ PRO BUDĚJOVICE,HOPB+JIH 12+NK,3,"80,753,766",198183,16.44,9,45,93863,TRUE,TRUE
+3101,544256,České Budějovice,1,7,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,84133,6.98,4,45,93863,FALSE,TRUE
+3101,544256,České Budějovice,1,10,389,389,Sdružení Občanské demokratické strany a nezávislých kandidátů,Sdružení ODS a nez. kandidátů,NA,2,"53,080",171074,14.19,8,45,93863,FALSE,TRUE
+3101,544256,České Budějovice,1,11,480,480,Společně pro Budějovice - Lidovci a TOP 09,Spol.pro Bud.-Lidovci a TOP 09,NA,2,"80,721",66252,5.49,3,45,93863,TRUE,TRUE
+3101,544256,České Budějovice,1,12,768,768,ANO 2011,ANO 2011,ANO,1,768,255585,21.2,12,45,93863,TRUE,TRUE
+3101,544256,České Budějovice,1,13,1421,1421,STAROSTOVÉ A NEZÁVISLÍ a Čisté Budějovice,STAN a Čisté Budějovice,STAN+ČiB,2,"1,661,212",77947,6.46,3,45,93863,TRUE,TRUE
+3101,544256,České Budějovice,1,14,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,146875,12.18,6,45,93863,FALSE,TRUE
+3102,545392,Český Krumlov,1,1,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,6441,7.04,2,23,13028,TRUE,TRUE
+3102,545392,Český Krumlov,1,2,1134,1134,PRO 2016,PRO 2016,PRO2016,1,1134,8142,8.9,2,23,13028,FALSE,TRUE
+3102,545392,Český Krumlov,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,9518,10.41,2,23,13028,FALSE,TRUE
+3102,545392,Český Krumlov,1,4,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,11186,12.23,3,23,13028,TRUE,TRUE
+3102,545392,Český Krumlov,1,5,364,364,NEZÁVISLÍ A ZELENÍ,NEZÁVISLÍ A ZELENÍ,Zelení+NK,2,"5,080",6922,7.57,2,23,13028,TRUE,TRUE
+3102,545392,Český Krumlov,1,6,1304,1304,REÁLNÝ KRUMLOV,REÁLNÝ KRUMLOV,REAL+NK,2,"801,176",5386,5.89,1,23,13028,TRUE,TRUE
+3102,545392,Český Krumlov,1,7,768,768,ANO 2011,ANO 2011,ANO,1,768,12230,13.37,3,23,13028,FALSE,TRUE
+3102,545392,Český Krumlov,1,8,480,480,Společně pro Krumlov - Nezávislí a TOP 09,Společně pro ČK-Nezáv.a TOP 09,NA,2,"80,721",10496,11.48,3,23,13028,TRUE,TRUE
+3102,545392,Český Krumlov,1,9,470,470,Sdružení nezávislých - Město pro všechny,Sdruž.nezáv.-Město pro všechny,NA,2,"80,166",10238,11.19,3,23,13028,TRUE,TRUE
+3102,545392,Český Krumlov,1,10,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,7907,8.64,2,23,13028,FALSE,TRUE
+3103,545881,Jindřichův Hradec,1,1,524,524,PATRIOTI Jindřichův Hradec,PATRIOTI Jindřichův Hradec,NA,2,"801,004",14700,7.79,2,27,21460,TRUE,FALSE
+3103,545881,Jindřichův Hradec,1,2,1389,1389,SNK ED a nezávislý kandidát STAN,SNK ED a nezáv. kandidát STAN,SNK ED+STAN+NK,3,"80,129,166",22090,11.71,3,27,21460,TRUE,FALSE
+3103,545881,Jindřichův Hradec,1,3,768,768,ANO 2011,ANO 2011,ANO,1,768,22469,11.91,4,27,21460,TRUE,FALSE
+3103,545881,Jindřichův Hradec,1,4,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,14641,7.76,2,27,21460,FALSE,FALSE
+3103,545881,Jindřichův Hradec,1,5,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,46464,24.63,8,27,21460,TRUE,FALSE
+3103,545881,Jindřichův Hradec,1,7,477,477,Hradec srdcem a rozumem + Svobodní,Hradec srdcem a rozum. + Svob.,NA,2,"80,714",23545,12.48,4,27,21460,FALSE,FALSE
+3103,545881,Jindřichův Hradec,1,9,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,12810,6.79,2,27,21460,TRUE,FALSE
+3103,545881,Jindřichův Hradec,1,10,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,15348,8.13,2,27,21460,TRUE,FALSE
+6103,547492,Pelhřimov,1,1,527,527,Nezávislí pro občany,Nezávislí pro občany,NA,2,"80,779",6502,5.67,1,21,16105,FALSE,TRUE
+6103,547492,Pelhřimov,1,2,721,721,TOP 09,TOP 09,TOP 09,1,721,15371,13.41,3,21,16105,TRUE,TRUE
+6103,547492,Pelhřimov,1,3,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,14448,12.61,3,21,16105,FALSE,TRUE
+6103,547492,Pelhřimov,1,4,112,112,HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST,HN.ZA HARM.ROZVOJ OBCÍ A MĚST,HNHRM,1,112,6533,5.7,1,21,16105,FALSE,TRUE
+6103,547492,Pelhřimov,1,5,510,510,Změna pro Pelhřimov,Změna pro Pelhřimov,NA,2,"80,771",12650,11.04,2,21,16105,FALSE,TRUE
+6103,547492,Pelhřimov,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,13658,11.92,3,21,16105,TRUE,TRUE
+6103,547492,Pelhřimov,1,9,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,6401,5.58,1,21,16105,FALSE,TRUE
+6103,547492,Pelhřimov,1,10,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,14493,12.65,3,21,16105,TRUE,TRUE
+6103,547492,Pelhřimov,1,11,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,20632,18.01,4,21,16105,TRUE,TRUE
+3104,549240,Písek,1,1,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,26096,11.31,3,27,30119,TRUE,TRUE
+3104,549240,Písek,1,2,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,20337,8.81,3,27,30119,TRUE,TRUE
+3104,549240,Písek,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,22551,9.77,3,27,30119,FALSE,TRUE
+3104,549240,Písek,1,4,1322,1322,PRO PÍSEK,PRO PÍSEK,VPM+TOP09+JIH12,3,"113,721,766",42250,19.77,6,27,30119,TRUE,TRUE
+3104,549240,Písek,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,29929,12.97,4,27,30119,FALSE,TRUE
+3104,549240,Písek,1,7,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,35369,15.33,5,27,30119,FALSE,TRUE
+3104,549240,Písek,1,8,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,18564,8.04,2,27,30119,FALSE,TRUE
+3104,549240,Písek,1,10,482,482,PÍSEK SOBĚ - sdružení nezávislých kandidátů,PÍSEK SOBĚ - SNK,NA,2,"80,715",13472,5.83,1,27,30119,FALSE,TRUE
+3105,550094,Prachatice,1,2,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,5502,6.45,1,21,10917,TRUE,TRUE
+3105,550094,Prachatice,1,3,901,90,PRO Prachatice,PRO Prachatice,SNK,1,80,6862,8.04,2,21,10917,FALSE,TRUE
+3105,550094,Prachatice,1,4,768,768,ANO 2011,ANO 2011,ANO,1,768,6173,7.24,1,21,10917,TRUE,TRUE
+3105,550094,Prachatice,1,5,902,90,Živé Prachatice,Živé Prachatice,SNK,1,80,10396,12.19,3,21,10917,FALSE,TRUE
+3105,550094,Prachatice,1,6,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,4777,5.6,1,21,10917,FALSE,TRUE
+3105,550094,Prachatice,1,7,88,88,NEZÁVISLÍ,NEZÁVISLÍ,NEZ,1,88,26700,31.31,8,21,10917,TRUE,TRUE
+3105,550094,Prachatice,1,8,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,15945,18.7,4,21,10917,FALSE,TRUE
+3105,550094,Prachatice,1,9,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,4765,5.86,1,21,10917,FALSE,TRUE
+3106,550787,Strakonice,1,2,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,9524,5.29,1,21,22888,FALSE,FALSE
+3106,550787,Strakonice,1,6,742,742,Strakonická Veřejnost,Strakonická Veřejnost,SV,1,742,91986,51.15,16,21,22888,TRUE,FALSE
+3106,550787,Strakonice,1,8,480,480,TOP 09 a nezávislí,TOP 09 a nezávislí,NA,2,"80,721",10294,5.72,1,21,22888,FALSE,FALSE
+3106,550787,Strakonice,1,9,766,766,JIHOČEŠI 2012,JIHOČEŠI 2012,JIH 12,1,766,17307,9.62,3,21,22888,FALSE,FALSE
+3107,552046,Tábor,1,1,364,364,JiNAK!,JiNAK!,Zelení+NK,2,"5,080",26997,9.86,3,27,34467,TRUE,TRUE
+3107,552046,Tábor,1,3,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,14239,5.2,1,27,34467,TRUE,TRUE
+3107,552046,Tábor,1,4,901,90,Sdružení nezávislých kandidátů Tábor sobě,SNK Tábor sobě,SNK,1,80,26821,9.79,3,27,34467,FALSE,TRUE
+3107,552046,Tábor,1,5,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,19994,7.3,2,27,34467,FALSE,TRUE
+3107,552046,Tábor,1,6,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,20908,7.63,2,27,34467,FALSE,TRUE
+3107,552046,Tábor,1,8,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,30939,11.3,4,27,34467,TRUE,TRUE
+3107,552046,Tábor,1,11,136,136,Tábor 2020,Tábor 2020,T2020,1,136,51975,18.98,6,27,34467,TRUE,TRUE
+3107,552046,Tábor,1,12,768,768,ANO 2011,ANO 2011,ANO,1,768,48500,17.71,6,27,34467,FALSE,TRUE
+3201,553425,Domažlice,1,2,768,768,ANO 2011,ANO 2011,ANO,1,768,9834,13.45,3,21,11233,FALSE,FALSE
+3201,553425,Domažlice,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,8737,11.95,3,21,11233,FALSE,FALSE
+3201,553425,Domažlice,1,4,470,470,SDRUŽENÍ PRO MĚSTO DOMAŽLICE,SDRUŽENÍ PRO MĚSTO DOMAŽLICE,NA,2,"80,166",16751,22.92,5,21,11233,FALSE,FALSE
+3201,553425,Domažlice,1,5,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,5970,8.16,2,21,11233,FALSE,FALSE
+3201,553425,Domažlice,1,6,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,6851,9.37,2,21,11233,FALSE,FALSE
+3201,553425,Domažlice,1,7,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,7731,10.57,2,21,11233,FALSE,FALSE
+3201,553425,Domažlice,1,9,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,11705,16.01,4,21,11233,FALSE,FALSE
+4101,554481,Cheb,1,1,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,16901,6.65,2,30,32171,FALSE,TRUE
+4101,554481,Cheb,1,2,768,768,ANO 2011,ANO 2011,ANO,1,768,33929,13.35,5,30,32171,FALSE,TRUE
+4101,554481,Cheb,1,4,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,16602,6.53,2,30,32171,TRUE,TRUE
+4101,554481,Cheb,1,5,470,470,VOLBA PRO MĚSTO CHEB,VOLBA PRO MĚSTO CHEB,NA,2,"80,166",114878,45.21,17,30,32171,TRUE,TRUE
+4101,554481,Cheb,1,10,353,353,ODS ve spolupráci s KDU-ČSL a nezávislými kandidáty,"Sdružení KDU-ČSL, ODS, NK",NA,3,"1,053,080",12909,5.08,1,30,32171,FALSE,TRUE
+4101,554481,Cheb,1,11,501,501,Koalice pro Cheb,Koalice pro Cheb,Zelení+TOP09+NK,3,"5,080,721",16348,6.43,2,30,32171,TRUE,TRUE
+4101,554481,Cheb,1,12,1207,1207,Hnutí 2018,Hnutí 2018,H2018,1,1207,13211,5.19,1,30,32171,TRUE,TRUE
+3203,554791,Plzeň,1,2,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,257260,11.69,7,47,170936,FALSE,TRUE
+3203,554791,Plzeň,1,3,355,355,KDU-ČSL - PRAVÁ VOLBA PRO PLZEŇ,KDU-ČSL- PRAVÁ VOLBA PRO PLZEŇ,NA,2,"1,080",144203,6.55,4,47,170936,FALSE,TRUE
+3203,554791,Plzeň,1,5,721,721,TOP 09,TOP 09,TOP 09,1,721,150150,6.82,4,47,170936,TRUE,TRUE
+3203,554791,Plzeň,1,7,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,486401,22.11,13,47,170936,TRUE,TRUE
+3203,554791,Plzeň,1,9,768,768,ANO 2011,ANO 2011,ANO,1,768,488324,22.19,13,47,170936,TRUE,TRUE
+3203,554791,Plzeň,1,11,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,124055,5.63,3,47,170936,FALSE,TRUE
+3203,554791,Plzeň,1,13,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,141073,6.55,3,47,170936,TRUE,TRUE
+4207,554804,Ústí nad Labem,1,2,1128,1128,Vaše Ústí,Vaše Ústí,VÚ,1,1128,56998,7.34,3,37,93040,FALSE,TRUE
+4207,554804,Ústí nad Labem,1,3,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,52562,6.77,3,37,93040,FALSE,TRUE
+4207,554804,Ústí nad Labem,1,4,529,529,PRO! Ústí,PRO! Ústí,Zel.+Piráti+NK,3,"5,080,720",131770,16.97,8,37,93040,FALSE,TRUE
+4207,554804,Ústí nad Labem,1,5,1012,1012,ÚSTECKÉ FÓRUM OBČANŮ,ÚSTECKÉ FÓRUM OBČANŮ,UFO,1,1012,91443,11.77,5,37,93040,TRUE,TRUE
+4207,554804,Ústí nad Labem,1,6,785,785,PRO Zdraví a Sport,PRO Zdraví a Sport,PRO Zdraví,1,785,43231,5.56,2,37,93040,TRUE,TRUE
+4207,554804,Ústí nad Labem,1,7,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,52706,6.78,3,37,93040,FALSE,TRUE
+4207,554804,Ústí nad Labem,1,10,768,768,ANO 2011,ANO 2011,ANO,1,768,160293,21.22,9,37,93040,TRUE,TRUE
+4207,554804,Ústí nad Labem,1,12,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,65832,8.47,4,37,93040,TRUE,TRUE
+8106,554821,Ostrava,1,1,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,215047,5.52,3,55,290450,FALSE,TRUE
+8106,554821,Ostrava,1,4,355,355,KDU-ČSL a nezávislí kandidáti,KDU-ČSL a nezávislí kandidáti,NA,2,"1,080",226779,5.82,3,55,290450,TRUE,TRUE
+8106,554821,Ostrava,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,1273101,32.71,21,55,290450,TRUE,TRUE
+8106,554821,Ostrava,1,8,755,755,Ostravak,Ostravak,Ostravak,1,755,447207,11.49,7,55,290450,FALSE,TRUE
+8106,554821,Ostrava,1,9,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,263323,6.76,4,55,290450,FALSE,TRUE
+8106,554821,Ostrava,1,11,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,348514,8.95,6,55,290450,FALSE,TRUE
+8106,554821,Ostrava,1,14,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,378658,9.73,6,55,290450,FALSE,TRUE
+8106,554821,Ostrava,1,15,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,348337,8.95,5,55,290450,TRUE,TRUE
+4102,554961,Karlovy Vary,1,3,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,23120,5.06,2,35,48776,FALSE,TRUE
+4102,554961,Karlovy Vary,1,8,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,45500,9.97,5,35,48776,FALSE,TRUE
+4102,554961,Karlovy Vary,1,9,1028,1028,Karlovaráci,Karlovaráci,KVC,1,1028,71318,15.62,8,35,48776,TRUE,TRUE
+4102,554961,Karlovy Vary,1,12,182,182,Karlovarská občanská alternativa,Karlovar.občanská alternativa,KOA,1,182,51870,11.36,5,35,48776,FALSE,TRUE
+4102,554961,Karlovy Vary,1,14,389,389,Občanská demokratická strana s podporou Strany soukromníků ČR a Mladých konzervativců,ODS s podp. Str. s. ČR a MK,NA,2,"53,080",35401,7.75,3,35,48776,TRUE,TRUE
+4102,554961,Karlovy Vary,1,15,768,768,ANO 2011,ANO 2011,ANO,1,768,108878,23.85,12,35,48776,TRUE,TRUE
+5302,555134,Pardubice,1,1,1387,1387,Koalice pro Pardubice,Koalice pro Pardubice,KDU+Nestr.+TOP,3,"1,181,721",69755,7.18,3,39,90335,TRUE,TRUE
+5302,555134,Pardubice,1,2,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,109059,11.22,5,39,90335,FALSE,TRUE
+5302,555134,Pardubice,1,3,449,449,Sdružení pro Pardubice,Sdružení pro Pardubice,NA,2,"80,129",59756,6.15,3,39,90335,TRUE,TRUE
+5302,555134,Pardubice,1,5,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,141752,14.59,7,39,90335,TRUE,TRUE
+5302,555134,Pardubice,1,6,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,50056,5.15,2,39,90335,FALSE,TRUE
+5302,555134,Pardubice,1,7,1386,1386,"Pardubáci společně: Pardubáci, Patrioti a STAN",Pardubáci společně,STAN+VČ+PATRIOT,3,"166,770,776",87027,8.96,4,39,90335,FALSE,TRUE
+5302,555134,Pardubice,1,8,371,371,Česká strana sociálně demokratická a nestraníci pro Pardubice,ČSSD a nestran. pro Pardubice,NA,2,"7,080",56770,5.84,2,39,90335,TRUE,TRUE
+5302,555134,Pardubice,1,13,768,768,ANO 2011,ANO 2011,ANO,1,768,258888,26.65,13,39,90335,TRUE,TRUE
+3202,555771,Klatovy,1,2,768,768,ANO 2011,ANO 2011,ANO,1,768,23013,15.22,4,27,22288,FALSE,TRUE
+3202,555771,Klatovy,1,3,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,14450,8.49,2,27,22288,FALSE,TRUE
+3202,555771,Klatovy,1,4,449,449,Sdružení pro Klatovy,Sdružení pro Klatovy,NA,2,"80,129",14597,11.03,3,27,22288,FALSE,TRUE
+3202,555771,Klatovy,1,5,181,181,Nestraníci,Nestraníci,Nestran.,1,181,26634,15.65,5,27,22288,TRUE,TRUE
+3202,555771,Klatovy,1,7,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,9658,5.67,1,27,22288,FALSE,TRUE
+3202,555771,Klatovy,1,9,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,12443,7.31,2,27,22288,FALSE,TRUE
+3202,555771,Klatovy,1,10,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,53195,31.27,10,27,22288,TRUE,TRUE
+3206,559717,Rokycany,1,2,88,88,NEZÁVISLÍ,NEZÁVISLÍ,NEZ,1,88,15596,19.38,5,21,14074,TRUE,TRUE
+3206,559717,Rokycany,1,4,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,6112,7.59,2,21,14074,FALSE,TRUE
+3206,559717,Rokycany,1,5,768,768,ANO 2011,ANO 2011,ANO,1,768,10485,13.03,3,21,14074,TRUE,TRUE
+3206,559717,Rokycany,1,7,457,457,ROKYCANŠTÍ  PATRIOTI,ROKYCANŠTÍ  PATRIOTI,NA,2,"80,181",13280,16.5,4,21,14074,TRUE,TRUE
+3206,559717,Rokycany,1,9,1432,1432,PRO ZDRAVÍ A SPORT + STAROSTOVÉ A NEZÁVISLÍ,Pro zdraví a sport+star.a nez.,STAN+PROZdr+NK,3,"80,166,785",4031,5.01,1,21,14074,FALSE,TRUE
+3206,559717,Rokycany,1,10,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,11975,14.88,4,21,14074,TRUE,TRUE
+3206,559717,Rokycany,1,11,364,364,Pro naše Rokycany - sdružení Strany zelených a nezávislých kandidátů,"Pro naše Rokyc. sdr Zelení, NK",Zelení+NK,2,"5,080",8575,10.66,2,21,14074,FALSE,TRUE
+4103,560286,Sokolov,1,1,389,389,Hnutí pro město Sokolov,Hnutí pro město Sokolov,NA,2,"53,080",25389,19.54,6,27,23438,TRUE,TRUE
+4103,560286,Sokolov,1,2,768,768,ANO 2011,ANO 2011,ANO,1,768,31055,23.9,7,27,23438,TRUE,TRUE
+4103,560286,Sokolov,1,3,1350,1350,Piráti Sokolov s podporou Starostů a nezávislých,Piráti Sok.s podp.Star.a nezá,STAN+Piráti,2,"166,720",18675,14.37,4,27,23438,FALSE,TRUE
+4103,560286,Sokolov,1,4,364,364,Radnice Středu,Radnice Středu,Zelení+NK,2,"5,080",16061,12.36,4,27,23438,FALSE,TRUE
+4103,560286,Sokolov,1,5,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,19387,14.92,4,27,23438,TRUE,TRUE
+4103,560286,Sokolov,1,9,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,11631,8.95,2,27,23438,FALSE,TRUE
+3207,560715,Tachov,1,1,902,90,Patrioti Tachova,Patrioti Tachova,SNK,1,80,23396,32.5,7,21,12706,TRUE,TRUE
+3207,560715,Tachov,1,3,901,90,"""Volím Tachov""","""Volím Tachov""",SNK,1,80,19759,27.44,6,21,12706,FALSE,TRUE
+3207,560715,Tachov,1,4,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,9437,13.11,3,21,12706,FALSE,TRUE
+3207,560715,Tachov,1,5,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,8459,11.75,2,21,12706,TRUE,TRUE
+3207,560715,Tachov,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,9862,13.7,3,21,12706,TRUE,TRUE
+5101,561380,Česká Lípa,1,1,497,497,NaS - Nezávislí a soukromníci,NaS - Nezávislí a soukromníci,Soukromníci+NK,2,"80,716",13047,5.95,1,25,37405,TRUE,TRUE
+5101,561380,Česká Lípa,1,2,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,17506,7.99,2,25,37405,TRUE,TRUE
+5101,561380,Česká Lípa,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,21112,9.63,3,25,37405,FALSE,TRUE
+5101,561380,Česká Lípa,1,5,339,339,PRO Českou Lípu,PRO Českou Lípu,KDU-ČSL+Nestran,2,"1,181",16898,8.03,2,25,37405,FALSE,TRUE
+5101,561380,Česká Lípa,1,9,475,475,ŽIVÁ LÍPA,ŽIVÁ LÍPA,NA,2,"80,703",48956,22.34,6,25,37405,TRUE,TRUE
+5101,561380,Česká Lípa,1,11,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,18270,8.34,2,25,37405,FALSE,TRUE
+5101,561380,Česká Lípa,1,12,768,768,ANO 2011,ANO 2011,ANO,1,768,52557,23.99,7,25,37405,TRUE,TRUE
+5101,561380,Česká Lípa,1,13,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,12158,5.55,1,25,37405,FALSE,TRUE
+5101,561380,Česká Lípa,1,14,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,11118,5.07,1,25,37405,FALSE,TRUE
+4201,562335,Děčín,1,1,1083,1083,Náš Děčín,Náš Děčín,Starost.+PROZdr,2,"142,785",45046,14.02,4,27,49226,TRUE,TRUE
+4201,562335,Děčín,1,2,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,20871,6.49,2,27,49226,FALSE,TRUE
+4201,562335,Děčín,1,3,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,19162,5.96,1,27,49226,TRUE,TRUE
+4201,562335,Děčín,1,4,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,19496,6.3,2,27,49226,FALSE,TRUE
+4201,562335,Děčín,1,5,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,17371,6.08,1,27,49226,FALSE,TRUE
+4201,562335,Děčín,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,89879,27.97,9,27,49226,TRUE,TRUE
+4201,562335,Děčín,1,7,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,28482,8.86,2,27,49226,FALSE,TRUE
+4201,562335,Děčín,1,8,540,540,Změna pro Děčín,Změna pro Děčín,NA,3,"1,080,721",26094,8.12,2,27,49226,FALSE,TRUE
+4201,562335,Děčín,1,10,470,470,Volba pro Děčín,Volba pro Děčín,NA,2,"80,166",45375,14.12,4,27,49226,TRUE,TRUE
+4202,562971,Chomutov,1,2,768,768,ANO 2011,ANO 2011,ANO,1,768,90451,25.13,10,35,48666,FALSE,FALSE
+4202,562971,Chomutov,1,4,1346,1346,PRO Chomutov,PRO Chomutov,NA,7,"001,005,080,166,720,721,1126",82905,23.04,9,35,48666,FALSE,FALSE
+4202,562971,Chomutov,1,5,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,22674,6.48,2,35,48666,FALSE,FALSE
+4202,562971,Chomutov,1,6,1017,1017,NOVÝ SEVER,NOVÝ SEVER,NS,1,1017,61480,17.08,7,35,48666,FALSE,FALSE
+4202,562971,Chomutov,1,7,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,24404,6.78,2,35,48666,FALSE,FALSE
+4202,562971,Chomutov,1,8,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,33170,9.21,3,35,48666,FALSE,FALSE
+4202,562971,Chomutov,1,9,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,18721,5.2,2,35,48666,FALSE,FALSE
+5103,563889,Liberec,1,3,703,703,Starostové pro Liberecký kraj,Starostové pro Liberecký kraj,SLK,1,703,381613,32.1,16,39,103979,TRUE,TRUE
+5103,563889,Liberec,1,4,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,99621,8.38,4,39,103979,TRUE,TRUE
+5103,563889,Liberec,1,5,768,768,ANO 2011,ANO 2011,ANO,1,768,253959,21.36,11,39,103979,TRUE,TRUE
+5103,563889,Liberec,1,6,1363,1363,Liberec otevřený lidem - LOL!,Liberec otevřený lidem - LOL!,TJ.+NK,2,"801,185",62686,5.27,2,39,103979,FALSE,TRUE
+5103,563889,Liberec,1,10,521,521,Změna pro Liberec,Změna pro Liberec,Zelení+Změna+NK,3,"5,080,771",157737,13.26,6,39,103979,FALSE,TRUE
+4203,564567,Litoměřice,1,1,768,768,ANO 2011,ANO 2011,ANO,1,768,43527,22.19,7,27,24045,FALSE,TRUE
+4203,564567,Litoměřice,1,2,470,470,Sport a Zdraví Litoměřice,Sport a Zdraví Litoměřice,NA,2,"80,166",11856,6.04,2,27,24045,TRUE,TRUE
+4203,564567,Litoměřice,1,3,518,518,Severočeši Litoměřice,Severočeši Litoměřice,ProKraj+NK,2,"80,747",17876,9.11,3,27,24045,TRUE,TRUE
+4203,564567,Litoměřice,1,6,1066,1066,Zelení a Piráti,Zelení a Piráti,Zelení+Piráti,2,"5,720",21774,11.1,4,27,24045,FALSE,TRUE
+4203,564567,Litoměřice,1,7,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,15745,8.02,2,27,24045,FALSE,TRUE
+4203,564567,Litoměřice,1,10,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,53631,27.34,9,27,24045,TRUE,TRUE
+4204,565971,Louny,1,1,119,119,Unie pro sport a zdraví,Unie pro sport a zdraví,USZ,1,119,15945,10.42,3,29,18446,FALSE,FALSE
+4204,565971,Louny,1,2,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,13135,8.58,2,29,18446,FALSE,FALSE
+4204,565971,Louny,1,3,479,479,LOUNY SPOLU,LOUNY SPOLU,KDUČSL+Zel.+NK,3,"1,005,080",21911,14.32,4,29,18446,FALSE,FALSE
+4204,565971,Louny,1,4,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,19724,12.89,4,29,18446,FALSE,FALSE
+4204,565971,Louny,1,5,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,8587,5.61,1,29,18446,FALSE,FALSE
+4204,565971,Louny,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,26631,18.02,5,29,18446,FALSE,FALSE
+4204,565971,Louny,1,7,1377,1377,"PRO LEPŠÍ LOUNY - TOP 09, nezávislí a hnutí PRO Zdraví a Sport","PRO LEPŠÍ LOUNY TOP,NK,PRO Zdr",TOP+PROZdrav+NK,3,"80,721,785",18633,12.17,4,29,18446,FALSE,FALSE
+4204,565971,Louny,1,8,113,113,Volba pro město,Volba pro město,VPM,1,113,10391,6.79,2,29,18446,FALSE,FALSE
+4204,565971,Louny,1,9,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,18025,11.78,4,29,18446,FALSE,FALSE
+4205,567027,Most,1,1,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,58284,8.52,4,45,66644,FALSE,FALSE
+4205,567027,Most,1,3,1066,1066,Piráti a Zelení pro Most,Piráti a Zelení pro Most,Piráti+SZ,2,"5,720",60698,8.87,4,45,66644,FALSE,FALSE
+4205,567027,Most,1,4,536,536,Sdružení Mostečané Mostu,Sdružení Mostečané Mostu,NA,2,"801,017",110798,16.2,8,45,66644,FALSE,FALSE
+4205,567027,Most,1,5,768,768,ANO 2011,ANO 2011,ANO,1,768,111512,16.3,9,45,66644,FALSE,FALSE
+4205,567027,Most,1,11,1175,1175,ProMOST,ProMOST,ProMOST,1,1175,198970,29.09,16,45,66644,FALSE,FALSE
+4205,567027,Most,1,12,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,54833,8.01,4,45,66644,FALSE,FALSE
+4206,567442,Teplice,1,2,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,24998,7.72,2,27,49563,FALSE,TRUE
+4206,567442,Teplice,1,4,1344,1344,VOLBA PRO! TEPLICE,VOLBA PRO! TEPLICE,KDU+Zel+TOP+NK,4,"1,005,080,721",84891,26.23,8,27,49563,FALSE,TRUE
+4206,567442,Teplice,1,5,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,20082,6.2,2,27,49563,FALSE,TRUE
+4206,567442,Teplice,1,6,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,94894,29.32,9,27,49563,TRUE,TRUE
+4206,567442,Teplice,1,7,768,768,ANO 2011,ANO 2011,ANO,1,768,59745,18.46,5,27,49563,TRUE,TRUE
+4206,567442,Teplice,1,8,1083,1083,Pro Zdraví a Sport TEPLICE,Pro Zdraví a Sport TEPLICE,NA,2,"142,785",19303,5.96,1,27,49563,FALSE,TRUE
+6101,568414,Havlíčkův Brod,1,1,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,11797,6.69,1,25,23101,FALSE,FALSE
+6101,568414,Havlíčkův Brod,1,2,1412,1412,ANO 2011 - Ženy za Brod,ANO 2011 - Ženy za Brod,ŽB+ANO,2,"731,768",30478,17.28,5,25,23101,TRUE,FALSE
+6101,568414,Havlíčkův Brod,1,3,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,18692,10.6,3,25,23101,FALSE,FALSE
+6101,568414,Havlíčkův Brod,1,4,721,721,TOP 09,TOP 09,TOP 09,1,721,13555,7.68,2,25,23101,TRUE,FALSE
+6101,568414,Havlíčkův Brod,1,5,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,30582,17.34,5,25,23101,TRUE,FALSE
+6101,568414,Havlíčkův Brod,1,6,449,449,Broďáci,Broďáci,NA,2,"80,129",16407,9.3,2,25,23101,FALSE,FALSE
+6101,568414,Havlíčkův Brod,1,7,364,364,Společně pro Brod,Společně pro Brod,Zelení+NK,2,"5,080",16283,9.23,2,25,23101,FALSE,FALSE
+6101,568414,Havlíčkův Brod,1,8,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,20484,11.61,3,25,23101,FALSE,FALSE
+6101,568414,Havlíčkův Brod,1,9,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,7837,5.05,1,25,23101,FALSE,FALSE
+6101,568414,Havlíčkův Brod,1,10,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,10186,5.77,1,25,23101,TRUE,FALSE
+5201,569810,Hradec Králové,1,1,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,113645,10.26,5,37,92917,TRUE,TRUE
+5201,569810,Hradec Králové,1,3,1049,1049,Hradecký demokratický klub,Hradecký demokratický klub,HDK,1,1049,173429,15.66,7,37,92917,FALSE,TRUE
+5201,569810,Hradec Králové,1,4,768,768,ANO 2011,ANO 2011,ANO,1,768,263812,23.82,11,37,92917,TRUE,TRUE
+5201,569810,Hradec Králové,1,5,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,112995,10.2,5,37,92917,FALSE,TRUE
+5201,569810,Hradec Králové,1,6,339,339,Koalice pro Hradec,Koalice pro Hradec,KDU-ČSL+Nestran,2,"1,181",75049,6.77,3,37,92917,FALSE,TRUE
+5201,569810,Hradec Králové,1,10,521,521,Změna pro Hradec a Zelení,Změna pro Hradec a Zelení,Zelení+Změna+NK,3,"5,080,771",75757,6.84,3,37,92917,FALSE,TRUE
+5201,569810,Hradec Králové,1,12,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,68038,6.14,3,37,92917,TRUE,TRUE
+5301,571164,Chrudim,1,1,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,13824,7.06,2,27,23133,FALSE,TRUE
+5301,571164,Chrudim,1,2,129,129,SNK Evropští demokraté,SNK Evropští demokraté,SNK ED,1,129,38360,19.6,6,27,23133,FALSE,TRUE
+5301,571164,Chrudim,1,3,1303,1303,CHRUDIMÁCI,CHRUDIMÁCI,Svobod+TOP09+NK,3,"80,714,721",26758,13.67,4,27,23133,TRUE,TRUE
+5301,571164,Chrudim,1,4,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,23288,11.9,3,27,23133,FALSE,TRUE
+5301,571164,Chrudim,1,5,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,11727,5.99,1,27,23133,TRUE,TRUE
+5301,571164,Chrudim,1,6,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,25486,13.02,3,27,23133,TRUE,TRUE
+5301,571164,Chrudim,1,7,339,339,Koalice pro Chrudim,Koalice pro Chrudim,KDU-ČSL+Nestran,2,"1,181",14387,7.35,2,27,23133,FALSE,TRUE
+5301,571164,Chrudim,1,8,768,768,ANO 2011,ANO 2011,ANO,1,768,41856,21.38,6,27,23133,TRUE,TRUE
+5202,572659,Jičín,1,1,659,659,Za prosperující Jičín s TOP 09 a STAN,Za pros. Jičín s TOP 09 a STAN,TOP+STAN,2,"166,721",5448,5,1,21,16480,TRUE,TRUE
+5202,572659,Jičín,1,2,1332,1332,Hnutí Unie pro sport a zdraví (USZ),Hnutí Unie pro sport a zdraví,USZ+NK,2,"80,119",6132,5.91,1,21,16480,FALSE,TRUE
+5202,572659,Jičín,1,3,389,389,Občanská demokratická strana a nezávislí kandidáti,ODS a nezávislí kandidáti,NA,2,"53,080",11279,10.36,2,21,16480,FALSE,TRUE
+5202,572659,Jičín,1,4,113,113,Volba pro město,Volba pro město,VPM,1,113,12418,11.41,3,21,16480,TRUE,TRUE
+5202,572659,Jičín,1,5,355,355,Sdružení pro Jičín,Sdružení pro Jičín,NA,2,"1,080",13125,12.06,3,21,16480,TRUE,TRUE
+5202,572659,Jičín,1,7,544,544,"Jičínský demokratický klub, Sdružení politického hnutí HDK a nezávislých kandidátů","Jičín. dem. klub, Sdr. HDK NK",NA,2,"801,049",9053,8.32,2,21,16480,FALSE,TRUE
+5202,572659,Jičín,1,8,522,522,PATRIOTI pro Jičín,PATRIOTI pro Jičín,NA,2,"80,776",8574,7.88,2,21,16480,FALSE,TRUE
+5202,572659,Jičín,1,10,768,768,ANO 2011,ANO 2011,ANO,1,768,28613,26.3,6,21,16480,TRUE,TRUE
+5202,572659,Jičín,1,11,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,6152,5.65,1,21,16480,FALSE,TRUE
+5203,573868,Náchod,1,1,522,522,Patrioti města Náchoda,Patrioti města Náchoda,NA,2,"80,776",15085,8.56,2,27,20132,TRUE,TRUE
+5203,573868,Náchod,1,2,1323,1323,Občanská demokratická strana a STAROSTOVÉ A NEZÁVISLÍ,"Koalice ODS, STAN",ODS+STAN,2,"53,166",18820,10.68,3,27,20132,TRUE,TRUE
+5203,573868,Náchod,1,4,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,15456,8.77,3,27,20132,TRUE,TRUE
+5203,573868,Náchod,1,7,529,529,"NEZÁVISLÍ, PIRÁTI A ZELENÍ Za moderní město s úctou k tradicím","NK,PIR. A ZEL. Za mod. město",Zel.+Piráti+NK,3,"5,080,720",19454,11.04,3,27,20132,FALSE,TRUE
+5203,573868,Náchod,1,8,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,57153,32.43,11,27,20132,TRUE,TRUE
+5203,573868,Náchod,1,9,768,768,ANO 2011,ANO 2011,ANO,1,768,28240,16.64,5,27,20132,FALSE,TRUE
+5204,576069,Rychnov nad Kněžnou,1,1,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,13623,19.88,4,21,11088,TRUE,TRUE
+5204,576069,Rychnov nad Kněžnou,1,2,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,6960,10.15,2,21,11088,TRUE,TRUE
+5204,576069,Rychnov nad Kněžnou,1,3,181,181,Nestraníci,Nestraníci,Nestran.,1,181,8115,11.84,2,21,11088,TRUE,TRUE
+5204,576069,Rychnov nad Kněžnou,1,4,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,9699,14.15,3,21,11088,FALSE,TRUE
+5204,576069,Rychnov nad Kněžnou,1,5,113,113,Volba pro město,Volba pro město,VPM,1,113,6961,10.16,2,21,11088,FALSE,TRUE
+5204,576069,Rychnov nad Kněžnou,1,6,901,90,Nezávislí za Rychnov,Nezávislí za Rychnov,SNK,1,80,23146,33.78,8,21,11088,TRUE,TRUE
+5104,576964,Semily,1,1,1376,1376,SPOLU,SPOLU,DV 2016+NK,2,"801,127",9881,16.74,4,21,8421,TRUE,TRUE
+5104,576964,Semily,1,2,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,3494,5.91,1,21,8421,FALSE,TRUE
+5104,576964,Semily,1,3,475,475,Volba pro Semily,Volba pro Semily,NA,2,"80,703",19448,32.95,8,21,8421,TRUE,TRUE
+5104,576964,Semily,1,4,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,5560,9.42,2,21,8421,FALSE,TRUE
+5104,576964,Semily,1,5,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,4304,7.29,1,21,8421,FALSE,TRUE
+5104,576964,Semily,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,9428,15.97,4,21,8421,TRUE,TRUE
+5104,576964,Semily,1,7,355,355,SPOLEČNĚ PRO SEMILY,SPOLEČNĚ PRO SEMILY,NA,2,"1,080",3994,6.76,1,21,8421,FALSE,TRUE
+5303,577731,Svitavy,1,1,768,768,ANO 2011,ANO 2011,ANO,1,768,15735,12.21,3,26,16937,TRUE,TRUE
+5303,577731,Svitavy,1,3,457,457,SDRUŽENÍ PRO MĚSTO SVITAVY,SDRUŽENÍ PRO MĚSTO SVITAVY,NA,2,"80,181",54181,42.07,13,26,16937,TRUE,TRUE
+5303,577731,Svitavy,1,5,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,7486,5.81,1,26,16937,FALSE,TRUE
+5303,577731,Svitavy,1,6,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,7266,5.64,1,26,16937,TRUE,TRUE
+5303,577731,Svitavy,1,7,541,541,PIRÁTI A NEZÁVISLÍ SVITAVY,PIRÁTI A NEZÁVISLÍ SVITAVY,NA,2,"80,720",16229,12.6,3,26,16937,FALSE,TRUE
+5303,577731,Svitavy,1,8,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,9007,6.99,2,26,16937,FALSE,TRUE
+5303,577731,Svitavy,1,10,389,389,ODS A NEZÁVISLÍ,ODS A NEZÁVISLÍ,NA,2,"53,080",12932,10.04,3,26,16937,TRUE,TRUE
+5205,579025,Trutnov,1,2,113,113,Volba pro město Trutnov,Volba pro město Trutnov,VPM,1,113,23939,7.88,3,33,30577,TRUE,TRUE
+5205,579025,Trutnov,1,4,541,541,Piráti a nezávislí,Piráti a nezávislí,NA,2,"80,720",34668,11.42,4,33,30577,TRUE,TRUE
+5205,579025,Trutnov,1,5,570,570,Žít v Trutnově,Žít v Trutnově,Zelení+LES+NK,3,"5,080,795",29233,9.63,4,33,30577,FALSE,TRUE
+5205,579025,Trutnov,1,7,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,90065,29.67,12,33,30577,TRUE,TRUE
+5205,579025,Trutnov,1,8,470,470,Sdružení pro Trutnov s podporou hnutí STAROSTOVÉ A NEZÁVISLÍ,Sdruž.pro Tr.s podpor. hn.STAN,NA,2,"80,166",20219,6.66,2,33,30577,TRUE,TRUE
+5205,579025,Trutnov,1,9,768,768,ANO 2011,ANO 2011,ANO,1,768,48015,15.81,6,33,30577,FALSE,TRUE
+5205,579025,Trutnov,1,11,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,18125,5.97,2,33,30577,FALSE,TRUE
+5304,579891,Ústí nad Orlicí,1,1,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,7611,6.15,2,27,14163,FALSE,TRUE
+5304,579891,Ústí nad Orlicí,1,2,522,522,ÚSTÍ 2014 - PATRIOTI,ÚSTÍ 2014 - PATRIOTI,NA,2,"80,776",13537,10.94,3,27,14163,FALSE,TRUE
+5304,579891,Ústí nad Orlicí,1,3,457,457,Sdružení nezávislých kandidátů - OUŠŤÁCI,Sdružení nez. kand. - OUŠŤÁCI,NA,2,"80,181",41212,33.3,10,27,14163,TRUE,TRUE
+5304,579891,Ústí nad Orlicí,1,5,401,401,ZMĚNA PRO ÚSTÍ! Řeháček: Co chceme?,ZMĚNA PRO ÚSTÍ!,NA,2,"80,088",11023,8.9,2,27,14163,FALSE,TRUE
+5304,579891,Ústí nad Orlicí,1,7,389,389,Občanská demokratická strana s podporou nezávislých,ODS s podporou nezávislých,NA,2,"53,080",13197,10.66,3,27,14163,TRUE,TRUE
+5304,579891,Ústí nad Orlicí,1,8,901,90,Sdružení nezávislých kandidátů - ÚSTÍ ŽIJE,SNK - ÚSTÍ ŽIJE,SNK,1,80,19403,15.68,5,27,14163,TRUE,TRUE
+5304,579891,Ústí nad Orlicí,1,10,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,9733,7.86,2,27,14163,TRUE,TRUE
+6201,581283,Blansko,1,1,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,33705,19.6,5,25,20650,TRUE,TRUE
+6201,581283,Blansko,1,2,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,23116,13.44,4,25,20650,TRUE,TRUE
+6201,581283,Blansko,1,3,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,11495,6.96,1,25,20650,FALSE,TRUE
+6201,581283,Blansko,1,4,470,470,VOLBA PRO BLANSKO S PODPOROU STAROSTŮ A NEZÁVISLÝCH,VOLBA PR MĚSTO S PODPOROU STAN,NA,2,"80,166",19012,11.05,3,25,20650,TRUE,TRUE
+6201,581283,Blansko,1,5,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,9339,5.43,1,25,20650,FALSE,TRUE
+6201,581283,Blansko,1,6,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,18490,10.75,3,25,20650,FALSE,TRUE
+6201,581283,Blansko,1,8,768,768,ANO 2011,ANO 2011,ANO,1,768,31056,18.06,5,25,20650,FALSE,TRUE
+6201,581283,Blansko,1,9,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,22002,12.79,3,25,20650,TRUE,TRUE
+6202,582786,Brno,1,4,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,402425,6.28,5,55,379527,TRUE,TRUE
+6202,582786,Brno,1,8,768,768,ANO 2011,ANO 2011,ANO,1,768,1474746,23.02,18,55,379527,FALSE,TRUE
+6202,582786,Brno,1,12,1101,1101,Občanská demokratická strana s podporou Svobodných,ODS s podporou Svobodných,NA,2,"53,714",1188120,18.55,14,55,379527,TRUE,TRUE
+6202,582786,Brno,1,14,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,559399,8.73,6,55,379527,TRUE,TRUE
+6202,582786,Brno,1,15,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,324906,5.07,4,55,379527,FALSE,TRUE
+6202,582786,Brno,1,17,355,355,KDU-ČSL,KDU-ČSL,NA,2,"1,080",656656,10.25,8,55,379527,TRUE,TRUE
+6204,584291,Břeclav,1,1,470,470,MLADÍ A NEKLIDNÍ,MLADÍ A NEKLIDNÍ,NA,2,"80,166",40868,20.16,6,27,24797,FALSE,TRUE
+6204,584291,Břeclav,1,2,1334,1334,"ODS, TOP 09 a Svobodní společně pro Břeclav","ODS,TOP 09 a Sv. spol.pro Břec",ODS+Svob+TOP09,3,"53,714,721",14186,6.99,2,27,24797,FALSE,TRUE
+6204,584291,Břeclav,1,3,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,10352,5.1,1,27,24797,FALSE,TRUE
+6204,584291,Břeclav,1,4,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,21278,10.49,3,27,24797,TRUE,TRUE
+6204,584291,Břeclav,1,5,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,15645,7.71,2,27,24797,TRUE,TRUE
+6204,584291,Břeclav,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,29297,14.45,4,27,24797,TRUE,TRUE
+6204,584291,Břeclav,1,7,464,464,Pro Region,Pro Region,NA,2,"80,083",39182,19.32,5,27,24797,TRUE,TRUE
+6204,584291,Břeclav,1,8,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,15230,7.51,2,27,24797,FALSE,TRUE
+6204,584291,Břeclav,1,9,1403,1403,NAŠE BŘECLAV,NAŠE BŘECLAV,HOZK+NK,2,"80,772",16680,8.22,2,27,24797,FALSE,TRUE
+7204,585068,Zlín,1,1,797,797,Zlín 21,Zlín 21,Z21,1,797,134809,15.05,7,41,74947,FALSE,TRUE
+7204,585068,Zlín,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,61191,6.83,3,41,74947,TRUE,TRUE
+7204,585068,Zlín,1,4,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,54827,6.27,3,41,74947,TRUE,TRUE
+7204,585068,Zlín,1,5,166,166,STAROSTOVÉ A NEZÁVISLÍ,STAROSTOVÉ A NEZÁVISLÍ,STAN,1,166,166353,18.57,9,41,74947,TRUE,TRUE
+7204,585068,Zlín,1,7,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,50076,5.59,2,41,74947,FALSE,TRUE
+7204,585068,Zlín,1,8,768,768,ANO 2011,ANO 2011,ANO,1,768,168464,18.81,9,41,74947,TRUE,TRUE
+7204,585068,Zlín,1,9,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,91617,10.23,5,41,74947,TRUE,TRUE
+7204,585068,Zlín,1,10,1141,1141,Soukromníci Svobodní Nezávislí - ROZHÝBEJME.ZLÍN,Soukr.Svob.Nez.-ROZHYB.ZL,Svobod+Soukrom,2,"714,716",62389,6.96,3,41,74947,FALSE,TRUE
+6205,586021,Hodonín,1,1,1203,1203,Hnutí PRO Hodonín,Hnutí PRO Hodonín,PRO-HOD,1,1203,37028,18.66,8,31,24683,TRUE,TRUE
+6205,586021,Hodonín,1,2,1402,1402,Pozitivně pro Hodonín,Pozitivně pro Hodonín,KDU+KONS+TOP 09,3,"1,024,721",26586,13.4,5,31,24683,TRUE,TRUE
+6205,586021,Hodonín,1,7,684,684,Svobodní a Piráti,Svobodní a Piráti,NA,2,"714,720",17625,8.88,3,31,24683,TRUE,TRUE
+6205,586021,Hodonín,1,8,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,20363,10.26,4,31,24683,FALSE,TRUE
+6205,586021,Hodonín,1,10,1427,1427,Změna,Změna,Morav.+Změna+NK,3,"80,083,771",17764,8.95,4,31,24683,FALSE,TRUE
+6205,586021,Hodonín,1,11,768,768,ANO 2011,ANO 2011,ANO,1,768,24041,12.12,5,31,24683,FALSE,TRUE
+6205,586021,Hodonín,1,12,463,463,Sdružení nestraníků pro Hodonín,Sdružení nestr. pro Hodonín,SOM+NK,2,"80,158",10177,5.13,2,31,24683,FALSE,TRUE
+6102,586846,Jihlava,1,2,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,32308,6.46,2,37,50724,FALSE,TRUE
+6102,586846,Jihlava,1,3,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,33850,6.77,2,37,50724,FALSE,TRUE
+6102,586846,Jihlava,1,5,470,470,FÓRUM JIHLAVA,FÓRUM JIHLAVA,NA,2,"80,166",89908,18,7,37,50724,TRUE,TRUE
+6102,586846,Jihlava,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,112935,22.61,10,37,50724,FALSE,TRUE
+6102,586846,Jihlava,1,7,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,75778,15.17,6,37,50724,TRUE,TRUE
+6102,586846,Jihlava,1,8,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,40374,8.08,3,37,50724,TRUE,TRUE
+6102,586846,Jihlava,1,9,1369,1369,ŽIJEME JIHLAVOU!,ŽIJEME JIHLAVOU!,Zelen+Pirát+TOP,3,"5,720,721",50384,10.08,4,37,50724,TRUE,TRUE
+6102,586846,Jihlava,1,10,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,42253,8.45,3,37,50724,FALSE,TRUE
+7201,588296,Kroměříž,1,2,88,88,NEZÁVISLÍ,NEZÁVISLÍ,NEZ,1,88,49832,19.66,6,27,28897,TRUE,TRUE
+7201,588296,Kroměříž,1,4,501,501,ZDRAVÉ KROMĚŘÍŽSKO,ZDRAVÉ KROMĚŘÍŽSKO,Zelení+TOP09+NK,3,"5,080,721",30707,12.12,4,27,28897,TRUE,TRUE
+7201,588296,Kroměříž,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,41870,16.52,5,27,28897,FALSE,TRUE
+7201,588296,Kroměříž,1,7,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,18974,7.48,2,27,28897,TRUE,TRUE
+7201,588296,Kroměříž,1,8,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,15510,6.12,2,27,28897,TRUE,TRUE
+7201,588296,Kroměříž,1,9,389,389,Občanští demokraté a nezávislé osobnosti,Občanští dem. a nez. osobnosti,NA,2,"53,080",22691,8.95,3,27,28897,TRUE,TRUE
+7201,588296,Kroměříž,1,10,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,15465,6.1,2,27,28897,FALSE,TRUE
+7201,588296,Kroměříž,1,13,572,572,"KDU-ČSL, ZVUK 12 a nezávislí","KDU-ČSL, ZVUK 12 a nezávislí",NA,3,"1,080,775",29701,11.72,3,27,28897,FALSE,TRUE
+7103,589250,Prostějov,1,2,389,389,Občanská demokratická strana a nezávislé osobnosti města Prostějova,ODS a nez.osob.města PV,NA,2,"53,080",49518,11.85,4,35,43798,TRUE,TRUE
+7103,589250,Prostějov,1,3,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,26864,6.43,2,35,43798,FALSE,TRUE
+7103,589250,Prostějov,1,4,1351,1351,N a   r o v i n u !,N a   r o v i n u !,Ze+STAN+Pir+TOP,4,"5,166,720,721",66615,15.94,6,35,43798,FALSE,TRUE
+7103,589250,Prostějov,1,5,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,31012,7.42,2,35,43798,FALSE,TRUE
+7103,589250,Prostějov,1,6,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,46928,11.23,4,35,43798,TRUE,TRUE
+7103,589250,Prostějov,1,7,1020,1020,Pévéčko,Pévéčko,PV,1,1020,53987,12.92,5,35,43798,TRUE,TRUE
+7103,589250,Prostějov,1,10,1423,1423,Změna pro Prostějov,Změna pro Prostějov,PRO2016+NK,2,"801,134",34230,8.43,3,35,43798,FALSE,TRUE
+7103,589250,Prostějov,1,11,768,768,ANO 2011,ANO 2011,ANO,1,768,75968,18.18,7,35,43798,TRUE,TRUE
+7103,589250,Prostějov,1,12,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,30644,7.33,2,35,43798,FALSE,TRUE
+6104,590266,Třebíč,1,1,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,23069,8.27,2,27,36050,FALSE,TRUE
+6104,590266,Třebíč,1,2,1368,1368,Třebíč Občanům!,Třebíč Občanům!,OSB+NK,2,"801,181",44167,15.84,5,27,36050,FALSE,TRUE
+6104,590266,Třebíč,1,3,768,768,ANO 2011,ANO 2011,ANO,1,768,40822,14.64,4,27,36050,TRUE,TRUE
+6104,590266,Třebíč,1,4,1300,1300,Pro Třebíč,Pro TR,STAN+ProTR,2,"166,728",29534,10.59,3,27,36050,TRUE,TRUE
+6104,590266,Třebíč,1,5,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,17249,6.18,2,27,36050,TRUE,TRUE
+6104,590266,Třebíč,1,6,1319,1319,ODS a TnT - Společně za Třebíč!,ODS a TnT-Společně za Třebíč!,ODS+TnT,2,"531,025",20221,7.25,2,27,36050,FALSE,TRUE
+6104,590266,Třebíč,1,7,364,364,Břehy,Břehy,Zelení+NK,2,"5,080",24987,8.96,2,27,36050,TRUE,TRUE
+6104,590266,Třebíč,1,8,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,28185,10.1,3,27,36050,TRUE,TRUE
+6104,590266,Třebíč,1,10,449,449,Třebíč můj domov,Třebíč můj domov,NA,2,"80,129",17079,6.12,2,27,36050,TRUE,TRUE
+6104,590266,Třebíč,1,11,1331,1331,Společně otevřeme Třebíč,Společně otevřeme Třebíč,Piráti+TOP09+NK,3,"80,720,721",24723,8.86,2,27,36050,TRUE,TRUE
+7202,592005,Uherské Hradiště,1,1,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,12099,5.53,1,27,25215,FALSE,TRUE
+7202,592005,Uherské Hradiště,1,2,511,511,KRUH,KRUH,NA,2,"80,775",22288,10.18,3,27,25215,TRUE,TRUE
+7202,592005,Uherské Hradiště,1,4,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,16074,7.34,2,27,25215,FALSE,TRUE
+7202,592005,Uherské Hradiště,1,6,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,15952,7.29,2,27,25215,FALSE,TRUE
+7202,592005,Uherské Hradiště,1,7,463,463,Nestraníci pro Hradiště,Nestraníci pro Hradiště,SOM+NK,2,"80,158",18969,8.67,2,27,25215,FALSE,TRUE
+7202,592005,Uherské Hradiště,1,8,768,768,ANO 2011,ANO 2011,ANO,1,768,30342,13.87,4,27,25215,FALSE,TRUE
+7202,592005,Uherské Hradiště,1,9,1141,1141,Soukromníci Svobodní Nezávislí - Naplno pro Hradiště,Soukr.Svob.Nez.-Naplno pro Hr.,Svobodní+SsČR,2,"714,716",17903,8.18,2,27,25215,FALSE,TRUE
+7202,592005,Uherské Hradiště,1,10,480,480,TOP 09 s podporou Studentů a nezávislých kandidátů,TOP 09 s podporou Student.a NK,NA,2,"80,721",12054,5.51,1,27,25215,TRUE,TRUE
+7202,592005,Uherské Hradiště,1,11,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,19180,8.76,3,27,25215,TRUE,TRUE
+7202,592005,Uherské Hradiště,1,12,389,389,Občanští demokraté a nezávislé osobnosti,Obč.demokraté a nez.osobnosti,NA,2,"53,080",47726,21.81,7,27,25215,TRUE,TRUE
+6206,592889,Vyškov,1,1,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,36631,21.59,6,27,20999,FALSE,TRUE
+6206,592889,Vyškov,1,2,389,389,Občanská demokratická strana a sdružení nezávislých kandidátů,Občanská demokr. strana a SNK,NA,2,"53,080",22992,13.55,4,27,20999,TRUE,TRUE
+6206,592889,Vyškov,1,3,768,768,ANO 2011,ANO 2011,ANO,1,768,26057,15.36,4,27,20999,TRUE,TRUE
+6206,592889,Vyškov,1,4,364,364,NÁŠ VYŠKOV,NÁŠ VYŠKOV,Zelení+NK,2,"5,080",17292,10.19,3,27,20999,TRUE,TRUE
+6206,592889,Vyškov,1,5,470,470,VOLBA PRO MĚSTO S PODPOROU STAROSTŮ A NEZÁVISLÝCH,VOLBA PRO MĚSTO S PODP. STAN,NA,2,"80,166",19349,11.4,3,27,20999,TRUE,TRUE
+6206,592889,Vyškov,1,6,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,19418,11.45,3,27,20999,TRUE,TRUE
+6206,592889,Vyškov,1,7,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,17073,10.06,3,27,20999,FALSE,TRUE
+6206,592889,Vyškov,1,8,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,10776,6.35,1,27,20999,FALSE,TRUE
+6207,593711,Znojmo,1,1,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,19848,6.05,2,31,33719,FALSE,TRUE
+6207,593711,Znojmo,1,3,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,80523,24.54,9,31,33719,TRUE,TRUE
+6207,593711,Znojmo,1,4,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,18115,5.52,2,31,33719,FALSE,TRUE
+6207,593711,Znojmo,1,5,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,17174,5.23,1,31,33719,FALSE,TRUE
+6207,593711,Znojmo,1,6,470,470,"PRO ZNOJMO S PODPOROU ZMĚNY, STAN, ZNOJMO BEZ HAZARDU A MORAVSKÉHO ZEMSKÉHO HNUTÍ",PRO ZNOJMO S PODPOROU ZMĚNY,NA,2,"80,166",45988,14.02,5,31,33719,FALSE,TRUE
+6207,593711,Znojmo,1,8,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,25463,7.76,2,31,33719,FALSE,TRUE
+6207,593711,Znojmo,1,9,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,32788,9.99,3,31,33719,TRUE,TRUE
+6207,593711,Znojmo,1,10,768,768,ANO 2011,ANO 2011,ANO,1,768,62227,18.97,7,31,33719,TRUE,TRUE
+6105,595209,Žďár nad Sázavou,1,1,1085,1085,Koalice TOP 09 a Svobodní,Koalice TOP 09 a Svobodní,NA,2,"714,721",9399,5.07,1,27,20994,FALSE,TRUE
+6105,595209,Žďár nad Sázavou,1,2,470,470,ŽĎÁR -  ŽIVÉ  MĚSTO,ŽĎÁR -  ŽIVÉ  MĚSTO,NA,2,"80,166",33954,18.32,5,27,20994,TRUE,TRUE
+6105,595209,Žďár nad Sázavou,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,23025,12.42,3,27,20994,TRUE,TRUE
+6105,595209,Žďár nad Sázavou,1,4,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,23981,12.94,4,27,20994,FALSE,TRUE
+6105,595209,Žďár nad Sázavou,1,5,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,25969,14.01,4,27,20994,TRUE,TRUE
+6105,595209,Žďár nad Sázavou,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,29570,15.95,4,27,20994,TRUE,TRUE
+6105,595209,Žďár nad Sázavou,1,7,1424,1424,Koalice KSČM a SPOZ,Koalice KSČM a SPOZ,KSČM+SPOZ,2,"47,724",14929,8.36,2,27,20994,FALSE,TRUE
+6105,595209,Žďár nad Sázavou,1,8,449,449,Změna 2018,Změna 2018,NA,2,"80,129",24459,13.2,4,27,20994,FALSE,TRUE
+8101,597180,Bruntál,1,1,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,11718,11.49,3,27,16495,FALSE,TRUE
+8101,597180,Bruntál,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,5532,5.42,1,27,16495,FALSE,TRUE
+8101,597180,Bruntál,1,4,470,470,BRUNTÁL 2018,BRUNTÁL 2018,NA,2,"80,166",32823,32.2,10,27,16495,TRUE,TRUE
+8101,597180,Bruntál,1,6,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,10905,10.69,3,27,16495,FALSE,TRUE
+8101,597180,Bruntál,1,7,1065,1065,PROZMĚNU,PROZMĚNU,PZ,1,1065,9870,9.68,3,27,16495,TRUE,TRUE
+8101,597180,Bruntál,1,8,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,6274,6.15,2,27,16495,TRUE,TRUE
+8101,597180,Bruntál,1,9,768,768,ANO 2011,ANO 2011,ANO,1,768,17764,17.42,5,27,16495,TRUE,TRUE
+8102,598003,Frýdek-Místek,1,1,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,151816,21.9,11,43,56334,TRUE,TRUE
+8102,598003,Frýdek-Místek,1,2,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,57990,8.36,4,43,56334,FALSE,TRUE
+8102,598003,Frýdek-Místek,1,4,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,58643,8.46,4,43,56334,TRUE,TRUE
+8102,598003,Frýdek-Místek,1,5,799,799,Naše Město F-M,Naše Město F-M,NMFM,1,799,129619,18.7,10,43,56334,FALSE,TRUE
+8102,598003,Frýdek-Místek,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,114048,16.45,8,43,56334,TRUE,TRUE
+8102,598003,Frýdek-Místek,1,9,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,41485,5.98,3,43,56334,FALSE,TRUE
+8102,598003,Frýdek-Místek,1,10,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,49320,7.11,3,43,56334,FALSE,TRUE
+8103,598917,Karviná,1,1,768,768,ANO 2011,ANO 2011,ANO,1,768,113170,21.56,9,41,53522,TRUE,TRUE
+8103,598917,Karviná,1,3,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,231768,44.15,19,41,53522,TRUE,TRUE
+8103,598917,Karviná,1,5,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,59090,11.25,5,41,53522,TRUE,TRUE
+8103,598917,Karviná,1,6,1327,1327,"Karvinskakoalice.cz (KDU-ČSL, ODS, TOP 09, COEXISTENTIA, s podporou Soukromníků)",Karvinskakoalice.cz,KDU+ODS+TOP 09,3,"1,053,721",44126,8.4,3,41,53522,FALSE,TRUE
+8103,598917,Karviná,1,7,1350,1350,Piráti a Starostové,Piráti a Starostové,STAN+Piráti,2,"166,720",31323,5.96,2,41,53522,FALSE,TRUE
+8103,598917,Karviná,1,8,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,35778,6.81,3,41,53522,FALSE,TRUE
+8104,599191,Nový Jičín,1,1,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,12478,6.33,2,29,23567,FALSE,TRUE
+8104,599191,Nový Jičín,1,2,768,768,ANO 2011,ANO 2011,ANO,1,768,38671,19.64,6,29,23567,TRUE,TRUE
+8104,599191,Nový Jičín,1,3,684,684,Piráti s podporou Svobodných,Piráti s podporou Svobodných,NA,2,"714,720",14129,7.17,2,29,23567,FALSE,TRUE
+8104,599191,Nový Jičín,1,4,1,1,Křesťanská a demokratická unie - Československá strana lidová,Křesť.demokr.unie-Čs.str.lid.,KDU-ČSL,1,1,19588,9.95,3,29,23567,TRUE,TRUE
+8104,599191,Nový Jičín,1,5,364,364,"STRANA ZELENÝCH s podporou TOP 09, SNK-ED a STAN","Zelení s TOP 09,SNK-ED a STAN",Zelení+NK,2,"5,080",35740,18.15,5,29,23567,TRUE,TRUE
+8104,599191,Nový Jičín,1,6,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,13270,6.74,2,29,23567,FALSE,TRUE
+8104,599191,Nový Jičín,1,7,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,7,39577,20.1,6,29,23567,FALSE,TRUE
+8104,599191,Nový Jičín,1,8,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,23347,11.85,3,29,23567,TRUE,TRUE
+5102,563510,Jablonec nad Nisou,1,1,550,550,Nová budoucnost pro Jablonec,Nová budoucnost pro Jablonec,NA,2,"80,780",20224,5.38,2,30,45771,TRUE,TRUE
+5102,563510,Jablonec nad Nisou,1,2,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,54501,14.51,5,30,45771,TRUE,TRUE
+5102,563510,Jablonec nad Nisou,1,3,1324,1324,Společně pro Jablonec,Společně pro Jablonec,KDU+Změna+NK,3,"1,080,771",43470,11.57,4,30,45771,TRUE,TRUE
+5102,563510,Jablonec nad Nisou,1,4,703,703,Starostové pro Liberecký kraj,Starostové pro Liberecký kraj,SLK,1,703,37404,9.95,3,30,45771,FALSE,TRUE
+5102,563510,Jablonec nad Nisou,1,6,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,19545,5.38,1,30,45771,FALSE,TRUE
+5102,563510,Jablonec nad Nisou,1,11,768,768,ANO 2011,ANO 2011,ANO,1,768,76117,20.26,7,30,45771,TRUE,TRUE
+5102,563510,Jablonec nad Nisou,1,12,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,83906,22.33,8,30,45771,FALSE,TRUE
+2104,533165,Kolín,1,1,768,768,ANO 2011,ANO 2011,ANO,1,768,29450,11.09,3,27,31355,FALSE,TRUE
+2104,533165,Kolín,1,2,355,355,VOLBA PRO KOLÍN,VOLBA PRO KOLÍN,NA,2,"1,080",14426,5.43,1,27,31355,TRUE,TRUE
+2104,533165,Kolín,1,3,470,470,ZMĚNA PRO KOLÍN,ZMĚNA PRO KOLÍN,NA,2,"80,166",166739,62.81,21,27,31355,TRUE,TRUE
+2104,533165,Kolín,1,4,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,47,13823,5.2,1,27,31355,FALSE,TRUE
+2104,533165,Kolín,1,10,427,427,KOLÍŇÁCI,KOLÍŇÁCI,NA,2,"80,143",15279,5.75,1,27,31355,TRUE,TRUE
+1100,554782,Praha hl.m.,1,6,659,659,"TOP 09 a Starostové (STAN) ve spolupráci s KDU-ČSL, LES a Demokraty Jana Kasla -""Spojené síly pro Prahu""","Koalice STAN, TOP 09",TOP+STAN,2,"166,721",4127063,16.28,13,65,1294513,TRUE,TRUE
+1100,554782,Praha hl.m.,1,11,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,4326041,17.07,13,65,1294513,TRUE,TRUE
+1100,554782,Praha hl.m.,1,20,901,90,PRAHA SOBĚ,PRAHA SOBĚ,SNK,1,80,4197578,16.56,13,65,1294513,TRUE,TRUE
+1100,554782,Praha hl.m.,1,22,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,53,4527920,17.86,14,65,1294513,FALSE,TRUE
+1100,554782,Praha hl.m.,1,27,768,768,ANO 2011,ANO 2011,ANO,1,768,3893968,15.36,12,65,1294513,FALSE,TRUE
