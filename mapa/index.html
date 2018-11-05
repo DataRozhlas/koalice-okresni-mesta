@@ -157,8 +157,6 @@ RegExp.escape=function(r){return r.replace(/[-\/\\^$*+?.()|[\]{}]/g,"\\$&")},fun
                     }
                 });
                 
-                console.log(town)
-
                 var mandText = (coalParties.length > 0) ? 'Koalice má ' + coalMand + ' z ' + totalMand + ' mandátů.' : ""
                 var text = (coalParties.length > 0) ? "<b>Koalici</b> utvořily strany " + coalParties.join(", ") + 
                 ".</p><p><b>V opozici</b> zůstaly strany " + oppParties.join(", ") : "Koalice dosud nebyla složena"
