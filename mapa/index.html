@@ -1,114 +1,190 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+
+<!--brát odsud dál-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.css" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<style>
+    #mapa {
+        width: 100%;
+        height: 60vh; 
+    }
+    .leaflet-marker-icon {
+        background-color: rgba(158,202,225, 0.6) !important;
+    }
+    .leaflet-marker-icon div {
+        background-color: rgba(158,202,225, 0.6) !important;
+    }
+    #legend {
+        height: auto;
+        width: 100%;
+        margin: 10px 0px 10px 0px;
+        text-align: center;
+        font-size: 14px;
+        color: #73737f;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    #legend a {
+        color: #519fd7;
+        text-decoration: none;
+    }
+    #legend a:hover {
+        text-decoration: underline;
+    }
+</style>
+
+<div id="mapa"></div>
+<div id="legend">
+        Vyberte obec v mapě.
+    </div>
+
+<script>
 //jquery-csv
 RegExp.escape=function(r){return r.replace(/[-\/\\^$*+?.()|[\]{}]/g,"\\$&")},function(){"use strict";var r;(r="undefined"!=typeof jQuery&&jQuery?jQuery:{}).csv={defaults:{separator:",",delimiter:'"',headers:!0},hooks:{castToScalar:function(r,e){if(isNaN(r))return r;if(/\./.test(r))return parseFloat(r);var a=parseInt(r);return isNaN(a)?null:a}},parsers:{parse:function(r,e){var a=e.separator,t=e.delimiter;e.state.rowNum||(e.state.rowNum=1),e.state.colNum||(e.state.colNum=1);var s=[],o=[],n=0,i="",l=!1;function c(){if(n=0,i="",e.start&&e.state.rowNum<e.start)return o=[],e.state.rowNum++,void(e.state.colNum=1);if(void 0===e.onParseEntry)s.push(o);else{var r=e.onParseEntry(o,e.state);!1!==r&&s.push(r)}o=[],e.end&&e.state.rowNum>=e.end&&(l=!0),e.state.rowNum++,e.state.colNum=1}function u(){if(void 0===e.onParseValue)o.push(i);else{var r=e.onParseValue(i,e.state);!1!==r&&o.push(r)}i="",n=0,e.state.colNum++}var f=RegExp.escape(a),d=RegExp.escape(t),m=/(D|S|\r\n|\n|\r|[^DS\r\n]+)/,p=m.source;return p=(p=p.replace(/S/g,f)).replace(/D/g,d),m=new RegExp(p,"gm"),r.replace(m,function(r){if(!l)switch(n){case 0:if(r===a){i+="",u();break}if(r===t){n=1;break}if(/^(\r\n|\n|\r)$/.test(r)){u(),c();break}i+=r,n=3;break;case 1:if(r===t){n=2;break}i+=r,n=1;break;case 2:if(r===t){i+=r,n=1;break}if(r===a){u();break}if(/^(\r\n|\n|\r)$/.test(r)){u(),c();break}throw new Error("CSVDataError: Illegal State [Row:"+e.state.rowNum+"][Col:"+e.state.colNum+"]");case 3:if(r===a){u();break}if(/^(\r\n|\n|\r)$/.test(r)){u(),c();break}if(r===t)throw new Error("CSVDataError: Illegal Quote [Row:"+e.state.rowNum+"][Col:"+e.state.colNum+"]");throw new Error("CSVDataError: Illegal Data [Row:"+e.state.rowNum+"][Col:"+e.state.colNum+"]");default:throw new Error("CSVDataError: Unknown State [Row:"+e.state.rowNum+"][Col:"+e.state.colNum+"]")}}),0!==o.length&&(u(),c()),s},splitLines:function(e,a){if(e){var t=(a=a||{}).separator||r.csv.defaults.separator,s=a.delimiter||r.csv.defaults.delimiter;a.state=a.state||{},a.state.rowNum||(a.state.rowNum=1);var o=[],n=0,i="",l=!1,c=RegExp.escape(t),u=RegExp.escape(s),f=/(D|S|\n|\r|[^DS\r\n]+)/,d=f.source;return d=(d=d.replace(/S/g,c)).replace(/D/g,u),f=new RegExp(d,"gm"),e.replace(f,function(r){if(!l)switch(n){case 0:if(r===t){i+=r,n=0;break}if(r===s){i+=r,n=1;break}if("\n"===r){m();break}if(/^\r$/.test(r))break;i+=r,n=3;break;case 1:if(r===s){i+=r,n=2;break}i+=r,n=1;break;case 2:var e=i.substr(i.length-1);if(r===s&&e===s){i+=r,n=1;break}if(r===t){i+=r,n=0;break}if("\n"===r){m();break}if("\r"===r)break;throw new Error("CSVDataError: Illegal state [Row:"+a.state.rowNum+"]");case 3:if(r===t){i+=r,n=0;break}if("\n"===r){m();break}if("\r"===r)break;if(r===s)throw new Error("CSVDataError: Illegal quote [Row:"+a.state.rowNum+"]");throw new Error("CSVDataError: Illegal state [Row:"+a.state.rowNum+"]");default:throw new Error("CSVDataError: Unknown state [Row:"+a.state.rowNum+"]")}}),""!==i&&m(),o}function m(){if(n=0,a.start&&a.state.rowNum<a.start)return i="",void a.state.rowNum++;if(void 0===a.onParseEntry)o.push(i);else{var r=a.onParseEntry(i,a.state);!1!==r&&o.push(r)}i="",a.end&&a.state.rowNum>=a.end&&(l=!0),a.state.rowNum++}},parseEntry:function(r,e){var a=e.separator,t=e.delimiter;e.state.rowNum||(e.state.rowNum=1),e.state.colNum||(e.state.colNum=1);var s=[],o=0,n="";function i(){if(void 0===e.onParseValue)s.push(n);else{var r=e.onParseValue(n,e.state);!1!==r&&s.push(r)}n="",o=0,e.state.colNum++}if(!e.match){var l=RegExp.escape(a),c=RegExp.escape(t),u=/(D|S|\n|\r|[^DS\r\n]+)/.source;u=(u=u.replace(/S/g,l)).replace(/D/g,c),e.match=new RegExp(u,"gm")}return r.replace(e.match,function(r){switch(o){case 0:if(r===a){n+="",i();break}if(r===t){o=1;break}if("\n"===r||"\r"===r)break;n+=r,o=3;break;case 1:if(r===t){o=2;break}n+=r,o=1;break;case 2:if(r===t){n+=r,o=1;break}if(r===a){i();break}if("\n"===r||"\r"===r)break;throw new Error("CSVDataError: Illegal State [Row:"+e.state.rowNum+"][Col:"+e.state.colNum+"]");case 3:if(r===a){i();break}if("\n"===r||"\r"===r)break;if(r===t)throw new Error("CSVDataError: Illegal Quote [Row:"+e.state.rowNum+"][Col:"+e.state.colNum+"]");throw new Error("CSVDataError: Illegal Data [Row:"+e.state.rowNum+"][Col:"+e.state.colNum+"]");default:throw new Error("CSVDataError: Unknown State [Row:"+e.state.rowNum+"][Col:"+e.state.colNum+"]")}}),i(),s}},helpers:{collectPropertyNames:function(r){var e=[],a=[],t=[];for(e in r)for(a in r[e])r[e].hasOwnProperty(a)&&t.indexOf(a)<0&&"function"!=typeof r[e][a]&&t.push(a);return t}},toArray:function(e,a,t){a=void 0!==a?a:{};var s={};s.callback=void 0!==t&&"function"==typeof t&&t,s.separator="separator"in a?a.separator:r.csv.defaults.separator,s.delimiter="delimiter"in a?a.delimiter:r.csv.defaults.delimiter;var o=void 0!==a.state?a.state:{};a={delimiter:s.delimiter,separator:s.separator,onParseEntry:a.onParseEntry,onParseValue:a.onParseValue,state:o};var n=r.csv.parsers.parseEntry(e,a);if(!s.callback)return n;s.callback("",n)},toArrays:function(e,a,t){a=void 0!==a?a:{};var s={};s.callback=void 0!==t&&"function"==typeof t&&t,s.separator="separator"in a?a.separator:r.csv.defaults.separator,s.delimiter="delimiter"in a?a.delimiter:r.csv.defaults.delimiter;var o;if(void 0!==(a={delimiter:s.delimiter,separator:s.separator,onPreParse:a.onPreParse,onParseEntry:a.onParseEntry,onParseValue:a.onParseValue,onPostParse:a.onPostParse,start:a.start,end:a.end,state:{rowNum:1,colNum:1}}).onPreParse&&a.onPreParse(e,a.state),o=r.csv.parsers.parse(e,a),void 0!==a.onPostParse&&a.onPostParse(o,a.state),!s.callback)return o;s.callback("",o)},toObjects:function(e,a,t){a=void 0!==a?a:{};var s={};s.callback=void 0!==t&&"function"==typeof t&&t,s.separator="separator"in a?a.separator:r.csv.defaults.separator,s.delimiter="delimiter"in a?a.delimiter:r.csv.defaults.delimiter,s.headers="headers"in a?a.headers:r.csv.defaults.headers,a.start="start"in a?a.start:1,s.headers&&a.start++,a.end&&s.headers&&a.end++;var o,n=[];a={delimiter:s.delimiter,separator:s.separator,onPreParse:a.onPreParse,onParseEntry:a.onParseEntry,onParseValue:a.onParseValue,onPostParse:a.onPostParse,start:a.start,end:a.end,state:{rowNum:1,colNum:1},match:!1,transform:a.transform};var i={delimiter:s.delimiter,separator:s.separator,start:1,end:1,state:{rowNum:1,colNum:1}};void 0!==a.onPreParse&&a.onPreParse(e,a.state);var l=r.csv.parsers.splitLines(e,i),c=r.csv.toArray(l[0],a);o=r.csv.parsers.splitLines(e,a),a.state.colNum=1,a.state.rowNum=c?2:1;for(var u=0,f=o.length;u<f;u++){for(var d=r.csv.toArray(o[u],a),m={},p=0;p<c.length;p++)m[c[p]]=d[p];void 0!==a.transform?n.push(a.transform.call(void 0,m)):n.push(m),a.state.rowNum++}if(void 0!==a.onPostParse&&a.onPostParse(n,a.state),!s.callback)return n;s.callback("",n)},fromArrays:function(e,a,t){a=void 0!==a?a:{};var s={};s.callback=void 0!==t&&"function"==typeof t&&t,s.separator="separator"in a?a.separator:r.csv.defaults.separator,s.delimiter="delimiter"in a?a.delimiter:r.csv.defaults.delimiter;var o,n,i,l,c="";for(i=0;i<e.length;i++){for(o=e[i],n=[],l=0;l<o.length;l++){var u=void 0===o[l]||null===o[l]?"":o[l].toString();u.indexOf(s.delimiter)>-1&&(u=u.replace(new RegExp(s.delimiter,"g"),s.delimiter+s.delimiter));var f="\n|\r|S|D";f=(f=f.replace("S",s.separator)).replace("D",s.delimiter),u.search(f)>-1&&(u=s.delimiter+u+s.delimiter),n.push(u)}c+=n.join(s.separator)+"\r\n"}if(!s.callback)return c;s.callback("",c)},fromObjects:function(e,a,t){a=void 0!==a?a:{};var s={};if(s.callback=void 0!==t&&"function"==typeof t&&t,s.separator="separator"in a?a.separator:r.csv.defaults.separator,s.delimiter="delimiter"in a?a.delimiter:r.csv.defaults.delimiter,s.headers="headers"in a?a.headers:r.csv.defaults.headers,s.sortOrder="sortOrder"in a?a.sortOrder:"declare",s.manualOrder="manualOrder"in a?a.manualOrder:[],s.transform=a.transform,"string"==typeof s.manualOrder&&(s.manualOrder=r.csv.toArray(s.manualOrder,s)),void 0!==s.transform){var o,n=e;for(e=[],o=0;o<n.length;o++)e.push(s.transform.call(void 0,n[o]))}var i=r.csv.helpers.collectPropertyNames(e);if("alpha"===s.sortOrder&&i.sort(),s.manualOrder.length>0){var l=[].concat(s.manualOrder);for(u=0;u<i.length;u++)l.indexOf(i[u])<0&&l.push(i[u]);i=l}var c,u,f,d,m=[];for(s.headers&&m.push(i),c=0;c<e.length;c++){for(f=[],u=0;u<i.length;u++)(d=i[u])in e[c]&&"function"!=typeof e[c][d]?f.push(e[c][d]):f.push("");m.push(f)}return r.csv.fromArrays(m,a,s.callback)}},r.csvEntry2Array=r.csv.toArray,r.csv2Array=r.csv.toArrays,r.csv2Dictionary=r.csv.toObjects,"undefined"!=typeof module&&module.exports&&(module.exports=r.csv)}.call(this);
 
-var pnts = {
-    "Olomouc": { "y":49.593778, "x":17.250879},
-    "Opava": { "y":49.94066, "x":17.894799},
-    "Přerov": { "y":49.456479, "x":17.45023},
-    "Šumperk": { "y":49.977841, "x":16.971775},
-    "Benešov": { "y":49.783782, "x":14.68737},
-    "Beroun": { "y":49.967205, "x":14.086284},
-    "Kladno": { "y":50.141699, "x":14.106746},
-    "Kutná Hora": { "y":49.952431, "x":15.268654},
-    "Mělník": { "y":50.353902, "x":14.481781},
-    "Mladá Boleslav": { "y":50.413425, "x":14.908438},
-    "Jeseník": { "y":50.224625, "x":17.198047},
-    "Nymburk": { "y":50.185582, "x":15.04366},
-    "Příbram": { "y":49.685432, "x":13.998945},
-    "Vsetín": { "y":49.338925, "x":17.993852},
-    "Rakovník": { "y":50.106123, "x":13.739662},
-    "České Budějovice": { "y":48.975658, "x":14.480255},
-    "Český Krumlov": { "y":48.812735, "x":14.317466},
-    "Jindřichův Hradec": { "y":49.144482, "x":15.006139},
-    "Pelhřimov": { "y":49.430621, "x":15.222983},
-    "Písek": { "y":49.303454, "x":14.158029},
-    "Prachatice": { "y":49.01091, "x":14},
-    "Strakonice": { "y":49.260404, "x":13.910308},
-    "Tábor": { "y":49.412989, "x":14.677466},
-    "Domažlice": { "y":49.439703, "x":12.931143},
-    "Cheb": { "y":50.079533, "x":12.369864},
-    "Plzeň": { "y":49.738431, "x":13.373637},
-    "Ústí nad Labem": { "y":50.661116, "x":14.053146},
-    "Ostrava": { "y":49.820923, "x":18.262524},
-    "Karlovy Vary": { "y":50.231852, "x":12.871962},
-    "Pardubice": { "y":50.034309, "x":15.781199},
-    "Klatovy": { "y":49.395555, "x":13.295094},
-    "Rokycany": { "y":49.738097, "x":13.592893},
-    "Sokolov": { "y":50.174529, "x":12.659892},
-    "Tachov": { "y":49.79878, "x":12.636192},
-    "Česká Lípa": { "y":50.67852, "x":14.539699},
-    "Děčín": { "y":50.772556, "x":14.212761},
-    "Chomutov": { "y":50.463498, "x":13.410737},
-    "Liberec": { "y":50.76628, "x":15.054339},
-    "Litoměřice": { "y":50.53842, "x":14.130546},
-    "Louny": { "y":50.353981, "x":13.803355},
-    "Most": { "y":50.501555, "x":13.632912},
-    "Teplice": { "y":50.644458, "x":13.835284},
-    "Havlíčkův Brod": { "y":49.604336, "x":15.579655},
-    "Hradec Králové": { "y":50.210361, "x":15.825211},
-    "Chrudim": { "y":49.949724, "x":15.795058},
-    "Jičín": { "y":50.435333, "x":15.361044},
-    "Náchod": { "y":50.414572, "x":16.165635},
-    "Rychnov nad Kněžnou": { "y":50.165965, "x":16.277684},
-    "Semily": { "y":50.605158, "x":15.328141},
-    "Svitavy": { "y":49.755163, "x":16.469186},
-    "Trutnov": { "y":50.565384, "x":15.909092},
-    "Ústí nad Orlicí": { "y":49.97218, "x":16.399662},
-    "Blansko": { "y":49.36485, "x":16.647755},
-    "Brno": { "y":49.19506, "x":16.606837},
-    "Břeclav": { "y":48.75314, "x":16.882517},
-    "Zlín": { "y":49.224437, "x":17.662763},
-    "Hodonín": { "y":48.852939, "x":17.126003},
-    "Jihlava": { "y":49.398378, "x":15.587041},
-    "Kroměříž": { "y":49.291658, "x":17.39938},
-    "Prostějov": { "y":49.472449, "x":17.106751},
-    "Třebíč": { "y":49.214787, "x":15.879552},
-    "Uherské Hradiště": { "y":49.059797, "x":17.49585},
-    "Vyškov": { "y":49.277452, "x":16.996099},
-    "Znojmo": { "y":48.855911, "x":16.054268},
-    "Žďár nad Sázavou": { "y":49.564188, "x":15.939407},
-    "Bruntál": { "y":49.988177, "x":17.463694},
-    "Frýdek-Místek": { "y":49.681931, "x":18.367322},
-    "Karviná": { "y":49.856652, "x":18.543219},
-    "Nový Jičín": { "y":49.594325, "x":18.013536},
-    "Jablonec nad Nisou": { "y":50.722053, "x":15.170314},
-    "Kolín": { "y":50.027329, "x":15.202728},
-    "Praha hl.m.": { "y":50.082828, "x":14.358444}
-  };
+    var pnts = {
+        "Olomouc": { "y":49.593778, "x":17.250879},
+        "Opava": { "y":49.94066, "x":17.894799},
+        "Přerov": { "y":49.456479, "x":17.45023},
+        "Šumperk": { "y":49.977841, "x":16.971775},
+        "Benešov": { "y":49.783782, "x":14.68737},
+        "Beroun": { "y":49.967205, "x":14.086284},
+        "Kladno": { "y":50.141699, "x":14.106746},
+        "Kutná Hora": { "y":49.952431, "x":15.268654},
+        "Mělník": { "y":50.353902, "x":14.481781},
+        "Mladá Boleslav": { "y":50.413425, "x":14.908438},
+        "Jeseník": { "y":50.224625, "x":17.198047},
+        "Nymburk": { "y":50.185582, "x":15.04366},
+        "Příbram": { "y":49.685432, "x":13.998945},
+        "Vsetín": { "y":49.338925, "x":17.993852},
+        "Rakovník": { "y":50.106123, "x":13.739662},
+        "České Budějovice": { "y":48.975658, "x":14.480255},
+        "Český Krumlov": { "y":48.812735, "x":14.317466},
+        "Jindřichův Hradec": { "y":49.144482, "x":15.006139},
+        "Pelhřimov": { "y":49.430621, "x":15.222983},
+        "Písek": { "y":49.303454, "x":14.158029},
+        "Prachatice": { "y":49.01091, "x":14},
+        "Strakonice": { "y":49.260404, "x":13.910308},
+        "Tábor": { "y":49.412989, "x":14.677466},
+        "Domažlice": { "y":49.439703, "x":12.931143},
+        "Cheb": { "y":50.079533, "x":12.369864},
+        "Plzeň": { "y":49.738431, "x":13.373637},
+        "Ústí nad Labem": { "y":50.661116, "x":14.053146},
+        "Ostrava": { "y":49.820923, "x":18.262524},
+        "Karlovy Vary": { "y":50.231852, "x":12.871962},
+        "Pardubice": { "y":50.034309, "x":15.781199},
+        "Klatovy": { "y":49.395555, "x":13.295094},
+        "Rokycany": { "y":49.738097, "x":13.592893},
+        "Sokolov": { "y":50.174529, "x":12.659892},
+        "Tachov": { "y":49.79878, "x":12.636192},
+        "Česká Lípa": { "y":50.67852, "x":14.539699},
+        "Děčín": { "y":50.772556, "x":14.212761},
+        "Chomutov": { "y":50.463498, "x":13.410737},
+        "Liberec": { "y":50.76628, "x":15.054339},
+        "Litoměřice": { "y":50.53842, "x":14.130546},
+        "Louny": { "y":50.353981, "x":13.803355},
+        "Most": { "y":50.501555, "x":13.632912},
+        "Teplice": { "y":50.644458, "x":13.835284},
+        "Havlíčkův Brod": { "y":49.604336, "x":15.579655},
+        "Hradec Králové": { "y":50.210361, "x":15.825211},
+        "Chrudim": { "y":49.949724, "x":15.795058},
+        "Jičín": { "y":50.435333, "x":15.361044},
+        "Náchod": { "y":50.414572, "x":16.165635},
+        "Rychnov nad Kněžnou": { "y":50.165965, "x":16.277684},
+        "Semily": { "y":50.605158, "x":15.328141},
+        "Svitavy": { "y":49.755163, "x":16.469186},
+        "Trutnov": { "y":50.565384, "x":15.909092},
+        "Ústí nad Orlicí": { "y":49.97218, "x":16.399662},
+        "Blansko": { "y":49.36485, "x":16.647755},
+        "Brno": { "y":49.19506, "x":16.606837},
+        "Břeclav": { "y":48.75314, "x":16.882517},
+        "Zlín": { "y":49.224437, "x":17.662763},
+        "Hodonín": { "y":48.852939, "x":17.126003},
+        "Jihlava": { "y":49.398378, "x":15.587041},
+        "Kroměříž": { "y":49.291658, "x":17.39938},
+        "Prostějov": { "y":49.472449, "x":17.106751},
+        "Třebíč": { "y":49.214787, "x":15.879552},
+        "Uherské Hradiště": { "y":49.059797, "x":17.49585},
+        "Vyškov": { "y":49.277452, "x":16.996099},
+        "Znojmo": { "y":48.855911, "x":16.054268},
+        "Žďár nad Sázavou": { "y":49.564188, "x":15.939407},
+        "Bruntál": { "y":49.988177, "x":17.463694},
+        "Frýdek-Místek": { "y":49.681931, "x":18.367322},
+        "Karviná": { "y":49.856652, "x":18.543219},
+        "Nový Jičín": { "y":49.594325, "x":18.013536},
+        "Jablonec nad Nisou": { "y":50.722053, "x":15.170314},
+        "Kolín": { "y":50.027329, "x":15.202728},
+        "Praha hl.m.": { "y":50.082828, "x":14.358444}
+    };
 
-$(document).ready( function () {
-    $.get("https://data.irozhlas.cz/koalice-okresni-mesta/data/koalice.csv", function(data) {
-        var data = $.csv.toArrays(data);
-        var towns = new Set(data.map(function(el){return el[2]}).sort(function(a, b) { return a[0].localeCompare(b[0]); }));
-        towns.delete("NAZEVZAST");
-        
+    var zoom = 8;
+    if (window.innerWidth <= 420) {
+        zoom = 6;
+    };
 
-        towns.forEach(function(town){
-            var coalParties = [];
-            var oppParties = [];
-            var totalMand = 0;
-            var coalMand = 0;
+    var map = L.map('mapa').setView([49.7417517, 15.3350758], zoom);
+    map.scrollWheelZoom.disable()
 
-            data.forEach(function(line) {
-                if (line[2] === town) {
-                    if (line[17] === "TRUE") {
-                        coalParties.push(line[7]);
-                        coalMand += parseInt(line[14]);
-                    } else {
-                        oppParties.push(line[7]);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> přispěvatelé',
+        maxZoom: 18,
+    }).addTo(map);
+
+    $(document).ready( function () {
+        $.get("https://data.irozhlas.cz/koalice-okresni-mesta/data/koalice.csv", function(data) {
+            var data = $.csv.toArrays(data);
+            var towns = new Set(data.map(function(el){return el[2]}).sort(function(a, b) { return a[0].localeCompare(b[0]); }));
+            towns.delete("NAZEVZAST");
+
+            towns.forEach(function(town){
+                var coalParties = [];
+                var oppParties = [];
+                var totalMand = 0;
+                var coalMand = 0;
+
+                col = 'red'
+
+                data.forEach(function(line) {
+                    if (line[2] === town) {
+                        if (line[17] === "TRUE") {
+                            col = 'green'
+                            coalParties.push(line[7]);
+                            coalMand += parseInt(line[14]);
+                        } else {
+                            oppParties.push(line[7]);
+                        }
+                        totalMand += parseInt(line[14]);
                     }
-                    totalMand += parseInt(line[14]);
-                }
+                });
+                
+                console.log(town)
+
+                var mandText = (coalParties.length > 0) ? 'Koalice má ' + coalMand + ' z ' + totalMand + ' mandátů.' : ""
+                var text = (coalParties.length > 0) ? "<b>Koalici</b> utvořily strany " + coalParties.join(", ") + 
+                ".</p><p><b>V opozici</b> zůstaly strany " + oppParties.join(", ") : "Koalice dosud nebyla složena"
+
+                var resText = "<h2>" + town + "</h2><p>" + text + ".</p>" + "<p><b>" + mandText + "</b></p>";
+
+                var mrk = L.circleMarker([pnts[town].y, pnts[town].x], {
+                    color: 'lightgray',
+                    weight: 1,
+                    fillColor: col,
+                    fillOpacity: 0.6,
+                    radius: 10,
+                    zvast: resText
+                });
+                mrk.addTo(map)
+
+                mrk.on('click', function(evt) {
+                    var ops = evt.target.options;
+                    document.getElementById('legend').innerHTML = ops.zvast
+                });
             });
 
-
-            var mandText = (coalParties.length > 0) ? 'Koalice má ' + coalMand + ' z ' + totalMand + ' mandátů.' : ""
-            var text = (coalParties.length > 0) ? "<b>Koalici</b> utvořily strany " + coalParties.join(", ") + 
-            ".</p><p><b>V opozici</b> zůstaly strany " + oppParties.join(", ") : "Koalice dosud nebyla složena"
-
-            var resText = "<h2>" + town + "</h2><p>" + text + ".</p>" + "<p><b>" + mandText + "</b></p>"; 
-            $("#coalInfo").append(resText);
         });
-
     });
-});
+</script>
