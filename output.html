@@ -41,5 +41,5 @@ RegExp.escape=function(r){return r.replace(/[-\/\\^$*+?.()|[\]{}]/g,"\\$&")},fun
 totalMand+=parseInt(line[14]);}});var mandText=(coalParties.length>0)?'Koalice má '+coalMand+' z '+totalMand+' mandátů.':""
 var text=(coalParties.length>0)?"<b>Koalici</b> utvořily strany "+coalParties.join(", ")+
 ".</p><p><b>V opozici</b> zůstaly strany "+oppParties.join(", "):"Koalice dosud nebyla složena"
-$("#coalInfo").append('<h2>'+town+"</h2><p>"+text+'.</p>'+"<p><b>"+mandText+"</b></p>");});});});
+var resText="<h2>"+town+"</h2><p>"+text+".</p>"+"<p><b>"+mandText+"</b></p>";$("#coalInfo").append(resText);});});});
 var links=document.getElementsByTagName('a');for(var i=0,linksLength=links.length;i<linksLength;i++){if(links[i].hostname!=window.location.hostname){links[i].target='_blank';links[i].rel='noopener noreferrer';};};</script>

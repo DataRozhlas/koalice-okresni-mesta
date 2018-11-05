@@ -31,7 +31,8 @@ $(document).ready( function () {
             var text = (coalParties.length > 0) ? "<b>Koalici</b> utvořily strany " + coalParties.join(", ") + 
             ".</p><p><b>V opozici</b> zůstaly strany " + oppParties.join(", ") : "Koalice dosud nebyla složena"
 
-            $("#coalInfo").append('<h2>' + town + "</h2><p>" + text + '.</p>' + "<p><b>" + mandText + "</b></p>");
+            var resText = "<h2>" + town + "</h2><p>" + text + ".</p>" + "<p><b>" + mandText + "</b></p>"; 
+            $("#coalInfo").append(resText);
         });
 
     });
